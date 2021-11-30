@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+lathe,pos,True,['variability_limited'],0.5714285714285714,0.57864237
+plunger,pos,False,['unusual'],0.9,0.56249523
+hubcap,pos,True,['afforded_usual'],0.75,0.5426051
+barrel,pos,True,['typical_of_property'],0.8571428571428571,0.33377588
+paddle,pos,False,['unusual'],0.8888888888888888,0.4698199
+paint,pos,True,['variability_limited'],0.6666666666666666,0.34653127
+skateboard,pos,True,['afforded_usual'],0.7142857142857143,0.41997814
+pig,pos,False,['afforded_unusual'],1.0,0.32827947
+cloth,pos,False,['afforded_unusual'],0.5714285714285714,0.51386243
+headboard,pos,False,"['unusual', 'creative']",0.7777777777777778,0.5299129
+tire,pos,True,['typical_of_property'],1.0,0.5213456
+polyurethane,pos,True,['variability_limited'],0.625,0.38893017
+glass,pos,True,['variability_limited'],0.5555555555555556,0.49914417
+lever,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.521972
+acrylic,pos,True,['variability_limited'],0.5714285714285714,0.42522267
+plastic,pos,True,['variability_limited'],0.8571428571428571,0.52113134
+windowpane,pos,False,['impossible'],0.5714285714285714,0.42124844
+hammer,pos,False,"['rare', 'unusual']",0.7142857142857143,0.35450855
+bucket,pos,False,['afforded_unusual'],1.0,0.48687991
+leather,pos,False,"['unusual', 'rare']",0.6666666666666666,0.4317971
+acrylic,neg,True,['variability_limited'],0.5714285714285714,0.42522267
+plunger,neg,False,['unusual'],0.9,0.56249523
+windowpane,neg,False,['impossible'],0.5714285714285714,0.42124844
+grip,neg,True,['variability_limited'],0.625,0.33811277
+paddle,neg,False,['unusual'],0.8888888888888888,0.4698199
+shaft,neg,True,['variability_limited'],0.6666666666666666,0.53998077
+tire,neg,True,['typical_of_property'],1.0,0.5213456
+headboard,neg,False,"['unusual', 'creative']",0.7777777777777778,0.5299129
+roller,neg,True,['afforded_usual'],1.0,0.5731565
+bolt,neg,False,['afforded_unusual'],0.625,0.5538602
+millstone,neg,True,['afforded_usual'],0.5714285714285714,0.230046
+wheel,neg,True,"['typical_of_property', 'afforded_usual']",1.0,0.5646348
+bike,neg,False,['implied_category'],0.7142857142857143,0.48154697

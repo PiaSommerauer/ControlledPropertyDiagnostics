@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+butterfly,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.5320281
+shark,pos,False,['impossible'],1.0,0.49419808
+ostrich,pos,False,['impossible'],1.0,0.41866797
+airship,pos,True,['afforded_usual'],1.0,0.43738848
+submarine,pos,False,['impossible'],0.8888888888888888,0.34564707
+junk,pos,False,"['impossible', 'creative']",0.75,0.20112151
+howler,pos,False,['creative'],0.7777777777777778,0.18350129
+crow,pos,True,['afforded_usual'],1.0,0.58019143
+marabou,pos,True,['afforded_usual'],0.6666666666666666,0.49540552
+heap,pos,False,['impossible'],0.875,0.122688234
+forklift,pos,False,['impossible'],0.8333333333333334,0.20355411
+owl,pos,True,"['afforded_usual', 'typical_of_property']",0.875,0.7183219
+chick,pos,False,['impossible'],0.6666666666666666,0.51037395
+helicopter,pos,True,['afforded_usual'],1.0,0.4746256
+wing,pos,True,['afforded_usual'],1.0,0.30023417
+jade,pos,False,['impossible'],0.75,0.2570389
+carrier,pos,False,['creative'],0.8571428571428571,0.22926761
+tiger,pos,False,['impossible'],1.0,0.4876917
+skimmer,pos,False,['creative'],0.625,0.32367018
+puffin,pos,True,['afforded_usual'],1.0,0.6198982
+zebra,pos,False,['impossible'],0.8888888888888888,0.43158498
+gull,pos,True,['afforded_usual'],1.0,0.6935383
+plane,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.4697583
+snowbird,pos,True,['afforded_usual'],0.8571428571428571,0.40773335
+groundhog,pos,False,['impossible'],0.9,0.4740289
+heap,neg,False,['impossible'],0.875,0.122688234
+fowl,neg,True,['variability_limited'],0.5714285714285714,0.5403323
+plaice,neg,False,['impossible'],1.0,0.358488
+lion,neg,False,['impossible'],0.8888888888888888,0.34868205
+chick,neg,False,['impossible'],0.6666666666666666,0.51037395
+helicopter,neg,True,['afforded_usual'],1.0,0.4746256
+sausage,neg,False,['impossible'],0.8888888888888888,0.29520938
+tiger,neg,False,['impossible'],1.0,0.4876917
+zebra,neg,False,['impossible'],0.8888888888888888,0.43158498
+flycatcher,neg,True,['afforded_usual'],0.75,0.6043138

@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+boat,pos,False,"['impossible', 'creative']",0.8571428571428571,0.3505006
+ape,pos,False,['impossible'],1.0,0.42503008
+minnow,pos,False,['impossible'],1.0,0.38359708
+woodpecker,pos,True,['afforded_usual'],1.0,0.63559663
+capsule,pos,True,['variability_limited'],0.6666666666666666,0.2505947
+flycatcher,pos,True,['afforded_usual'],0.75,0.6030125
+robin,pos,True,['afforded_usual'],1.0,0.702
+hog,pos,False,['impossible'],0.625,0.3067673
+basset,pos,False,"['unusual', 'impossible', 'rare']",0.7142857142857143,0.3963685
+grouper,pos,False,['impossible'],0.75,0.400736
+twinjet,pos,True,['afforded_usual'],0.8888888888888888,0.30762663
+jade,pos,False,['impossible'],0.75,0.26537046
+fowl,pos,True,['variability_limited'],0.5714285714285714,0.54403377
+zebra,pos,False,['impossible'],0.8888888888888888,0.435466
+bogie,pos,False,['impossible'],0.875,0.13666221
+trailer,pos,False,['impossible'],0.75,0.19364274
+airship,pos,True,['afforded_usual'],1.0,0.429228
+coupe,pos,False,"['impossible', 'creative']",0.75,0.2816943
+silverback,pos,False,['impossible'],1.0,0.40576485
+stallion,pos,False,"['creative', 'impossible']",0.8888888888888888,0.28295982
+plane,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.4582804
+sheepshead,pos,False,['impossible'],0.8888888888888888,0.32005247
+sky,pos,True,"['typical_of_property', 'afforded_usual']",0.5714285714285714,0.4148786
+gnu,pos,False,['impossible'],1.0,0.30314764
+forklift,pos,False,['impossible'],0.8333333333333334,0.20067084
+craft,pos,True,['variability_limited'],0.625,0.35644224
+ape,neg,False,['impossible'],1.0,0.42503008
+saloon,neg,False,['impossible'],0.875,0.17999561
+twinjet,neg,True,['afforded_usual'],0.8888888888888888,0.30762663
+shark,neg,False,['impossible'],1.0,0.4913865
+zebra,neg,False,['impossible'],0.8888888888888888,0.435466
+bogie,neg,False,['impossible'],0.875,0.13666221
+trailer,neg,False,['impossible'],0.75,0.19364274
+plane,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.4582804
+sheepshead,neg,False,['impossible'],0.8888888888888888,0.32005247

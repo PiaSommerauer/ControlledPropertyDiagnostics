@@ -1,0 +1,69 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+mamey,pos,False,"['rare', 'unusual']",0.625,0.61913466
+berry,pos,False,['unusual'],0.5555555555555556,0.6967838
+chocolate,pos,False,['unusual'],0.875,0.5628026
+bottle,pos,False,"['unusual', 'rare']",0.7777777777777778,0.39589748
+bean,pos,False,"['unusual', 'rare']",0.7777777777777778,0.5978436
+cider,pos,True,['variability_limited'],0.7142857142857143,0.48440745
+cream,pos,False,['unusual'],0.5454545454545454,0.45049158
+lime,pos,False,['rare'],0.75,0.5342284
+lemongrass,pos,False,['unusual'],1.0,0.5333268
+daisy,pos,True,['variability_limited'],0.8571428571428571,0.6083796
+daffodil,pos,True,['variability_limited'],0.875,0.5845071
+spinach,pos,False,['unusual'],0.875,0.52412635
+cheese,pos,True,['variability_limited'],0.8888888888888888,0.53161937
+pineapple,pos,True,['variability_limited'],0.75,0.6446127
+lemonade,pos,True,"['variability_limited', 'typical_of_property']",0.625,0.49409065
+banana,pos,True,['variability_limited'],0.9,0.6403897
+garlic,pos,False,['unusual'],0.75,0.57949436
+salad,pos,False,['unusual'],0.7142857142857143,0.5412949
+butter,pos,True,['variability_limited'],0.7142857142857143,0.40282094
+nectarine,pos,True,['variability_limited'],0.75,0.6368363
+grape,pos,False,"['unusual', 'rare']",0.7777777777777778,0.6403732
+guava,pos,False,['rare'],0.8888888888888888,0.60835975
+vanilla,pos,False,"['rare', 'unusual']",0.5714285714285714,0.4796686
+syrup,pos,False,['rare'],0.5714285714285714,0.5254453
+orchid,pos,False,['variability_open'],0.75,0.5942502
+cheetah,neg,True,['variability_limited'],0.875,0.3277836
+bus,neg,False,['variability_open'],1.0,0.19366477
+pansy,neg,True,['variability_limited'],0.5555555555555556,0.52359605
+lion,neg,True,['variability_limited'],0.8571428571428571,0.28565127
+giraffe,neg,True,['typical_of_property'],0.8888888888888888,0.419327
+corncob,neg,True,"['typical_of_property', 'variability_limited']",0.875,0.49093652
+pyramid,neg,False,['typical_of_concept'],0.7777777777777778,0.25981033
+hornet,neg,True,['variability_limited'],1.0,0.45761687
+yolk,neg,False,['typical_of_concept'],0.875,0.47656408
+locust,neg,True,['variability_limited'],0.875,0.47573277
+taxi,neg,True,['typical_of_property'],0.7142857142857143,0.23427296
+sandpaper,neg,False,['variability_open'],0.5714285714285714,0.3533044
+marigold,neg,True,"['typical_of_property', 'variability_limited']",1.0,0.63135695
+boot,neg,False,['rare'],0.6666666666666666,0.17546244
+huckleberry,neg,False,['unusual'],0.9,0.5221078
+piano,neg,False,['unusual'],1.0,0.25131038
+clarinet,neg,False,['rare'],0.6666666666666666,0.24389845
+cricket,neg,False,"['rare', 'unusual']",0.8571428571428571,0.1993763
+walnut,neg,False,"['unusual', 'creative', 'rare']",0.7142857142857143,0.5478684
+cactus,neg,False,"['rare', 'unusual']",0.875,0.5789672
+lobster,neg,False,"['unusual', 'rare']",0.7142857142857143,0.44572344
+seaweed,neg,False,"['rare', 'unusual']",1.0,0.4755748
+eucalyptus,neg,False,['unusual'],0.7142857142857143,0.528816
+jade,neg,False,['unusual'],1.0,0.4156527
+cherry,neg,False,['rare'],0.75,0.49017185
+herring,neg,False,['unusual'],0.6666666666666666,0.3726883
+tank,neg,False,"['unusual', 'rare']",0.875,0.18245724
+insect,neg,False,['unusual'],0.5714285714285714,0.53012526
+skunk,neg,False,"['impossible', 'unusual']",0.625,0.49498174
+sheep,neg,False,['unusual'],0.875,0.38074136
+crow,neg,False,['impossible'],0.8571428571428571,0.39902148
+pecan,neg,False,['unusual'],0.6666666666666666,0.54430676
+cloak,neg,False,['rare'],0.5555555555555556,0.15680355
+truffle,neg,False,['unusual'],0.75,0.53082186
+gorilla,neg,False,"['impossible', 'unusual']",0.625,0.33566388
+aubergine,neg,False,['unusual'],0.6666666666666666,0.5345868
+lagoon,neg,False,"['unusual', 'rare']",0.6666666666666666,0.22568817
+football,neg,False,['unusual'],0.7777777777777778,0.21264924
+willow,neg,False,"['rare', 'unusual']",0.625,0.47623023
+pistachio,neg,False,['rare'],0.875,0.52874196
+miner,neg,False,['creative'],0.7777777777777778,0.15101187
+alligator,neg,False,['unusual'],0.625,0.36724773
+dog,neg,False,['unusual'],0.875,0.37935326

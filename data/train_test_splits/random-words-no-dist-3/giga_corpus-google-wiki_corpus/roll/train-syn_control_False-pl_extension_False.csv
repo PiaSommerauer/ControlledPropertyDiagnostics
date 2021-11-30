@@ -1,0 +1,70 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+skateboard,pos,True,['afforded_usual'],0.7142857142857143,0.42429376
+pipe,pos,False,['afforded_unusual'],0.8571428571428571,0.5199605
+grindstone,pos,False,['implied_category'],0.75,0.26973435
+propeller,pos,True,['variability_limited'],0.7142857142857143,0.5858133
+millstone,pos,True,['afforded_usual'],0.5714285714285714,0.22735654
+shaft,pos,True,['variability_limited'],0.6666666666666666,0.5431764
+paint,pos,True,['variability_limited'],0.6666666666666666,0.33942774
+windowpane,pos,False,['impossible'],0.5714285714285714,0.4163362
+nozzle,pos,True,['variability_limited'],0.6666666666666666,0.6529668
+barrel,pos,True,['typical_of_property'],0.8571428571428571,0.33082297
+ski,pos,False,['unusual'],0.7142857142857143,0.2629207
+car,pos,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.4917473
+saw,pos,True,['variability_limited'],0.7142857142857143,0.18060109
+surfboard,pos,False,"['impossible', 'unusual']",0.7142857142857143,0.44739795
+peg,pos,False,['rare'],0.8571428571428571,0.2882008
+lever,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.52429765
+wheelbarrow,pos,True,['afforded_usual'],0.7142857142857143,0.49868518
+blade,pos,False,['unusual'],0.75,0.5788013
+tile,pos,False,['impossible'],0.7142857142857143,0.45454964
+brake,pos,False,['impossible'],1.0,0.545015
+backboard,pos,False,['unusual'],0.8571428571428571,0.42225155
+kiln,pos,False,"['creative', 'impossible']",0.7142857142857143,0.44582447
+axle,pos,True,['afforded_usual'],0.75,0.5792533
+plunger,pos,False,['unusual'],0.9,0.56247455
+radiator,pos,False,['afforded_unusual'],0.875,0.6534212
+bead,pos,False,['implied_category'],0.875,0.54940766
+chock,pos,False,['creative'],0.625,0.2279267
+lathe,pos,True,['variability_limited'],0.5714285714285714,0.5802175
+fireplace,pos,False,['impossible'],0.7142857142857143,0.44046253
+donkey,pos,False,['impossible'],0.6666666666666666,0.33791885
+hubcap,pos,True,['afforded_usual'],0.75,0.5422297
+skateboard,neg,True,['afforded_usual'],0.7142857142857143,0.42429376
+brick,neg,False,"['creative', 'unusual', 'rare']",0.625,0.3397937
+pipe,neg,False,['afforded_unusual'],0.8571428571428571,0.5199605
+sprocket,neg,True,['afforded_usual'],0.875,0.63239825
+grindstone,neg,False,['implied_category'],0.75,0.26973435
+gearshift,neg,False,['rare'],0.8333333333333334,0.5632767
+millstone,neg,True,['afforded_usual'],0.5714285714285714,0.22735654
+shaft,neg,True,['variability_limited'],0.6666666666666666,0.5431764
+windowpane,neg,False,['impossible'],0.5714285714285714,0.4163362
+glass,neg,True,['variability_limited'],0.5555555555555556,0.49029538
+washer,neg,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5794264
+polyurethane,neg,True,['variability_limited'],0.625,0.3910364
+nozzle,neg,True,['variability_limited'],0.6666666666666666,0.6529668
+barrel,neg,True,['typical_of_property'],0.8571428571428571,0.33082297
+ski,neg,False,['unusual'],0.7142857142857143,0.2629207
+car,neg,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.4917473
+saw,neg,True,['variability_limited'],0.7142857142857143,0.18060109
+windscreen,neg,False,['afforded_unusual'],0.625,0.5471918
+lever,neg,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.52429765
+wheelbarrow,neg,True,['afforded_usual'],0.7142857142857143,0.49868518
+chimney,neg,False,['unusual'],0.75,0.4485951
+tile,neg,False,['impossible'],0.7142857142857143,0.45454964
+leather,neg,False,"['unusual', 'rare']",0.6666666666666666,0.43237692
+brake,neg,False,['impossible'],1.0,0.545015
+backboard,neg,False,['unusual'],0.8571428571428571,0.42225155
+kiln,neg,False,"['creative', 'impossible']",0.7142857142857143,0.44582447
+manhole,neg,False,['creative'],0.75,0.37638247
+plunger,neg,False,['unusual'],0.9,0.56247455
+radiator,neg,False,['afforded_unusual'],0.875,0.6534212
+candle,neg,True,['variability_limited'],0.7142857142857143,0.38963717
+bead,neg,False,['implied_category'],0.875,0.54940766
+chock,neg,False,['creative'],0.625,0.2279267
+lathe,neg,True,['variability_limited'],0.5714285714285714,0.5802175
+bottle,neg,False,['implied_category'],0.8571428571428571,0.48292044
+donkey,neg,False,['impossible'],0.6666666666666666,0.33791885
+handlebar,neg,True,['variability_limited'],0.5714285714285714,0.59850216
+hubcap,neg,True,['afforded_usual'],0.75,0.5422297
+headboard,neg,False,"['unusual', 'creative']",0.7777777777777778,0.52813286

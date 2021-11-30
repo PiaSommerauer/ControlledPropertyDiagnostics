@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+milk,pos,False,['variability_open'],1.0,0.4553908
+snowfall,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.37622416
+vapor,pos,False,['variability_open'],0.625,0.4075316
+bath,pos,False,['unusual'],0.7777777777777778,0.4592478
+idea,pos,False,['impossible'],0.7,0.22369696
+rock,pos,False,['variability_open'],0.8,0.36453685
+water,pos,True,['affording_activity'],0.875,0.49820596
+snowbank,pos,True,['affording_activity'],1.0,0.46472338
+sundae,pos,True,['affording_activity'],1.0,0.52478486
+growler,pos,True,['affording_activity'],0.6666666666666666,0.42755708
+cheesecloth,pos,False,['unusual'],0.6,0.498847
+rain,pos,False,['variability_open'],0.75,0.36924094
+sky,pos,False,['variability_open'],0.75,0.33310235
+soda,pos,True,['typical_of_property'],0.8571428571428571,0.5202148
+cream,pos,False,['variability_open'],0.875,0.45322502
+casserole,pos,False,['variability_open'],0.8,0.56065506
+drink,pos,True,['affording_activity'],0.5555555555555556,0.46436617
+shoe,pos,False,"['unusual', 'variability_open']",0.625,0.36852923
+smoke,pos,False,['impossible'],0.6,0.33656493
+dogwood,pos,False,['variability_open'],0.875,0.36128998
+quesadilla,pos,False,"['unusual', 'rare']",0.75,0.42467898
+vinyl,pos,False,['variability_open'],0.7,0.3913125
+bathtub,pos,False,['variability_open'],0.875,0.5535053
+tile,pos,True,['variability_limited'],0.5714285714285714,0.43502563
+pillow,pos,False,['variability_open'],0.7,0.5246011
+foam,pos,False,['variability_open'],0.625,0.5099515
+candle,pos,False,['variability_open'],0.75,0.44350854
+soda,neg,True,['typical_of_property'],0.8571428571428571,0.5202148
+popsicle,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.61514676
+growler,neg,True,['affording_activity'],0.6666666666666666,0.42755708
+tea,neg,False,['variability_open'],0.8571428571428571,0.38450262
+fire,neg,False,['impossible'],1.0,0.21892853
+cream,neg,False,['variability_open'],0.875,0.45322502
+slime,neg,False,['variability_open'],0.7777777777777778,0.42016736
+casserole,neg,False,['variability_open'],0.8,0.56065506
+river,neg,False,['typical_of_concept'],0.7777777777777778,0.36006382
+balloon,neg,False,['variability_open'],0.75,0.3913312

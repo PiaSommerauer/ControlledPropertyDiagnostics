@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+vinyl,pos,False,['variability_open'],0.7,0.3913125
+tea,pos,False,['variability_open'],0.8571428571428571,0.38450262
+summertime,pos,False,['rare'],1.0,0.35038903
+winter,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3214373
+tortilla,pos,False,['variability_open'],0.7,0.46473455
+popsicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.61514676
+beer,pos,True,['affording_activity'],0.6,0.46762648
+toilet,pos,False,['variability_open'],0.7,0.46059996
+vapor,pos,False,['variability_open'],0.625,0.4075316
+fireplace,pos,False,['variability_open'],0.875,0.47117448
+growler,pos,True,['affording_activity'],0.6666666666666666,0.42755708
+soda,pos,True,['typical_of_property'],0.8571428571428571,0.5202148
+casserole,pos,False,['variability_open'],0.8,0.56065506
+soup,pos,False,['variability_open'],0.7272727272727273,0.5774629
+berry,pos,False,['variability_open'],0.6666666666666666,0.49565363
+coffee,pos,False,['variability_open'],0.7777777777777778,0.47201458
+smoke,pos,False,['impossible'],0.6,0.33656493
+mud,pos,False,['variability_open'],0.875,0.47788167
+sawdust,pos,False,"['rare', 'unusual']",0.5555555555555556,0.4879071
+snowfall,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.37622416
+cream,pos,False,['variability_open'],0.875,0.45322502
+hair,pos,False,['variability_open'],0.875,0.4002852
+fire,pos,False,['impossible'],1.0,0.21892853
+heat,pos,False,['impossible'],0.9,0.32336172
+milk,pos,False,['variability_open'],1.0,0.4553908
+flame,pos,False,['impossible'],0.9,0.300354
+cake,pos,False,['variability_open'],1.0,0.5431257
+water,neg,True,['affording_activity'],0.875,0.49820596
+toe,neg,False,"['variability_open', 'unusual']",0.875,0.31567204
+nose,neg,False,"['variability_open', 'rare', 'unusual']",0.75,0.39986378
+pavement,neg,False,['variability_open'],0.9,0.47636905
+foam,neg,False,['variability_open'],0.625,0.5099515
+can,neg,False,['variability_open'],0.7777777777777778,0.21809144
+foot,neg,False,['unusual'],0.8888888888888888,0.2918231
+steam,neg,False,['impossible'],0.8571428571428571,0.28350922
+shelf,neg,False,['variability_open'],0.6,0.3398007
+finger,neg,False,['variability_open'],0.625,0.29839963

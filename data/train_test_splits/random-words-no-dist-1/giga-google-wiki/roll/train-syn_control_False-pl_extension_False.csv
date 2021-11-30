@@ -1,0 +1,66 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+wheel,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.5646348
+peg,pos,False,['rare'],0.8571428571428571,0.28497058
+washer,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5833144
+cylinder,pos,True,['typical_of_property'],0.75,0.62507945
+skateboard,pos,True,['afforded_usual'],0.7142857142857143,0.41997814
+spindle,pos,True,['typical_of_property'],0.625,0.5947617
+saw,pos,True,['variability_limited'],0.7142857142857143,0.18770774
+projectile,pos,False,['unusual'],0.6666666666666666,0.4091375
+ball,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.37178212
+nozzle,pos,True,['variability_limited'],0.6666666666666666,0.6508434
+car,pos,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.49804127
+tile,pos,False,['impossible'],0.7142857142857143,0.46199265
+bearing,pos,True,['variability_limited'],0.7142857142857143,0.239581
+barrel,pos,True,['typical_of_property'],0.8571428571428571,0.33377588
+backboard,pos,False,['unusual'],0.8571428571428571,0.4256954
+axle,pos,True,['afforded_usual'],0.75,0.57411736
+brick,pos,False,"['creative', 'unusual', 'rare']",0.625,0.3497493
+kiln,pos,False,"['creative', 'impossible']",0.7142857142857143,0.45303658
+grindstone,pos,False,['implied_category'],0.75,0.27055153
+shovel,pos,False,['unusual'],0.8333333333333334,0.44609937
+windscreen,pos,False,['afforded_unusual'],0.625,0.5503014
+windowpane,pos,False,['impossible'],0.5714285714285714,0.42124844
+cloth,pos,False,['afforded_unusual'],0.5714285714285714,0.51386243
+bucket,pos,False,['afforded_unusual'],1.0,0.48687991
+handrail,pos,False,['unusual'],0.8888888888888888,0.5148268
+bike,pos,False,['implied_category'],0.7142857142857143,0.48154697
+propeller,pos,True,['variability_limited'],0.7142857142857143,0.5811537
+headboard,pos,False,"['unusual', 'creative']",0.7777777777777778,0.5299129
+rifling,pos,True,['afforded_usual'],0.625,0.20636004
+wheel,neg,True,"['typical_of_property', 'afforded_usual']",1.0,0.5646348
+pig,neg,False,['afforded_unusual'],1.0,0.32827947
+acrylic,neg,True,['variability_limited'],0.5714285714285714,0.42522267
+bumper,neg,False,['unusual'],0.8888888888888888,0.403807
+peg,neg,False,['rare'],0.8571428571428571,0.28497058
+washer,neg,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5833144
+cylinder,neg,True,['typical_of_property'],0.75,0.62507945
+chock,neg,False,['creative'],0.625,0.22761403
+skateboard,neg,True,['afforded_usual'],0.7142857142857143,0.41997814
+spindle,neg,True,['typical_of_property'],0.625,0.5947617
+saw,neg,True,['variability_limited'],0.7142857142857143,0.18770774
+ball,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.37178212
+nozzle,neg,True,['variability_limited'],0.6666666666666666,0.6508434
+bearing,neg,True,['variability_limited'],0.7142857142857143,0.239581
+hubcap,neg,True,['afforded_usual'],0.75,0.5426051
+backboard,neg,False,['unusual'],0.8571428571428571,0.4256954
+axle,neg,True,['afforded_usual'],0.75,0.57411736
+bolt,neg,False,['afforded_unusual'],0.625,0.5538602
+driveshaft,neg,False,['unusual'],0.7142857142857143,0.5084131
+kiln,neg,False,"['creative', 'impossible']",0.7142857142857143,0.45303658
+wheelbarrow,neg,True,['afforded_usual'],0.7142857142857143,0.5043647
+shovel,neg,False,['unusual'],0.8333333333333334,0.44609937
+plastic,neg,True,['variability_limited'],0.8571428571428571,0.52113134
+windscreen,neg,False,['afforded_unusual'],0.625,0.5503014
+windowpane,neg,False,['impossible'],0.5714285714285714,0.42124844
+cloth,neg,False,['afforded_unusual'],0.5714285714285714,0.51386243
+bucket,neg,False,['afforded_unusual'],1.0,0.48687991
+marble,neg,True,"['afforded_usual', 'variability_limited']",0.625,0.37812626
+handrail,neg,False,['unusual'],0.8888888888888888,0.5148268
+nut,neg,True,['variability_limited'],0.7777777777777778,0.40933654
+shoe,neg,False,['unusual'],0.875,0.45693544
+bike,neg,False,['implied_category'],0.7142857142857143,0.48154697
+propeller,neg,True,['variability_limited'],0.7142857142857143,0.5811537
+headboard,neg,False,"['unusual', 'creative']",0.7777777777777778,0.5299129
+rifling,neg,True,['afforded_usual'],0.625,0.20636004
+bead,neg,False,['implied_category'],0.875,0.5493632

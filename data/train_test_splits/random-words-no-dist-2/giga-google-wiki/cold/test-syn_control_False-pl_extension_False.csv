@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+snowdrift,pos,True,"['affording_activity', 'typical_of_property']",0.8181818181818182,0.44552898
+lava,pos,False,['impossible'],0.9090909090909091,0.43409142
+beer,pos,True,['affording_activity'],0.6,0.45884955
+tea,pos,False,['variability_open'],0.8571428571428571,0.382354
+shelf,pos,False,['variability_open'],0.6,0.33796874
+outfit,pos,False,['unusual'],0.875,0.13531865
+coffee,pos,False,['variability_open'],0.7777777777777778,0.4694159
+toe,pos,False,"['variability_open', 'unusual']",0.875,0.31757295
+vapor,pos,False,['variability_open'],0.625,0.40799382
+steam,pos,False,['impossible'],0.8571428571428571,0.28298226
+lemonade,pos,False,['variability_open'],0.875,0.48759294
+slime,pos,False,['variability_open'],0.7777777777777778,0.42270327
+curd,pos,False,['variability_open'],0.9,0.569426
+popsicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.6124735
+drink,pos,True,['affording_activity'],0.5555555555555556,0.45854267
+puddle,pos,False,['variability_open'],0.8888888888888888,0.56265044
+water,pos,True,['affording_activity'],0.875,0.4999028
+tile,pos,True,['variability_limited'],0.5714285714285714,0.43957222
+pomade,pos,False,['rare'],0.5555555555555556,0.44276494
+pavement,pos,False,['variability_open'],0.9,0.47963682
+hair,pos,False,['variability_open'],0.875,0.40184093
+mug,pos,False,['variability_open'],0.75,0.43371248
+foam,pos,False,['variability_open'],0.625,0.51259536
+people,pos,False,['variability_open'],0.6666666666666666,0.1622397
+kettle,pos,False,['variability_open'],1.0,0.44579077
+soda,pos,True,['typical_of_property'],0.8571428571428571,0.5146907
+idea,neg,False,['impossible'],0.7,0.2230111
+basement,neg,False,['variability_open'],0.875,0.39688206
+fireplace,neg,False,['variability_open'],0.875,0.47293183
+pavement,neg,False,['variability_open'],0.9,0.47963682
+foot,neg,False,['unusual'],0.8888888888888888,0.28916252
+water,neg,True,['affording_activity'],0.875,0.4999028
+fridge,neg,True,['affording_activity'],1.0,0.58318263
+balloon,neg,False,['variability_open'],0.75,0.39273435
+heating,neg,False,['impossible'],0.75,0.3155567

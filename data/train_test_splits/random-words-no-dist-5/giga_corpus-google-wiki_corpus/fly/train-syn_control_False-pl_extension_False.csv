@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+rudd,pos,False,['impossible'],0.875,0.39525983
+sky,pos,True,"['typical_of_property', 'afforded_usual']",0.5714285714285714,0.4148786
+duck,pos,True,['afforded_usual'],0.75,0.5717364
+bogie,pos,False,['impossible'],0.875,0.13666221
+balloon,pos,True,"['typical_of_property', 'afforded_usual']",0.8333333333333334,0.4303718
+junk,pos,False,"['impossible', 'creative']",0.75,0.19936004
+albatross,pos,True,['afforded_usual'],1.0,0.4331338
+shell,pos,False,['impossible'],0.8333333333333334,0.23348576
+ape,pos,False,['impossible'],1.0,0.42503008
+boat,pos,False,"['impossible', 'creative']",0.8571428571428571,0.3505006
+hog,pos,False,['impossible'],0.625,0.3067673
+fowl,pos,True,['variability_limited'],0.5714285714285714,0.54403377
+phaeton,pos,False,['impossible'],0.7777777777777778,0.32269505
+ferry,pos,False,['impossible'],0.8571428571428571,0.2367495
+budgie,pos,True,['afforded_usual'],1.0,0.5915483
+mammal,pos,True,['variability_limited'],0.8571428571428571,0.61882067
+stork,pos,True,['afforded_usual'],1.0,0.57690275
+tower,pos,False,['impossible'],1.0,0.28442904
+loon,pos,True,['afforded_usual'],0.875,0.6536521
+mola,pos,False,['creative'],0.8888888888888888,0.38143536
+ounce,pos,False,['impossible'],0.7777777777777778,0.16049023
+whistler,pos,False,['impossible'],0.6666666666666666,0.27822843
+machine,pos,True,['variability_limited'],1.0,0.20725827
+lion,pos,False,['impossible'],0.8888888888888888,0.35148597
+airship,pos,True,['afforded_usual'],1.0,0.429228
+zebra,pos,False,['impossible'],0.8888888888888888,0.435466
+toy,neg,True,['variability_limited'],1.0,0.2840915
+balloon,neg,True,"['typical_of_property', 'afforded_usual']",0.8333333333333334,0.4303718
+hind,neg,False,['impossible'],0.7142857142857143,0.30422312
+shell,neg,False,['impossible'],0.8333333333333334,0.23348576
+ape,neg,False,['impossible'],1.0,0.42503008
+emu,neg,False,"['impossible', 'creative']",0.75,0.46449208
+haddock,neg,False,['impossible'],0.875,0.40334207
+robin,neg,True,['afforded_usual'],1.0,0.702
+zebra,neg,False,['impossible'],0.8888888888888888,0.435466

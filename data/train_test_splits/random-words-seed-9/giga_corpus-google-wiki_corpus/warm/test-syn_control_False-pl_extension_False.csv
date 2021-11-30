@@ -1,0 +1,64 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bikini,pos,False,['unusual'],0.7777777777777778,0.53932625
+headdress,pos,False,['variability_open'],0.7,0.55585563
+sleeve,pos,True,['affording_activity'],0.8571428571428571,0.47359344
+leotard,pos,False,['variability_open'],0.625,0.60513496
+hat,pos,True,['affording_activity'],0.7777777777777778,0.59016514
+sheepskin,pos,True,"['typical_of_property', 'affording_activity']",0.7777777777777778,0.5372232
+taffeta,pos,False,"['unusual', 'variability_open']",0.5555555555555556,0.56792396
+miniskirt,pos,False,['unusual'],0.9,0.565326
+jean,pos,False,['variability_open'],0.7777777777777778,0.55100334
+denim,pos,True,['affording_activity'],0.6666666666666666,0.57722235
+shoe,pos,False,['variability_open'],0.8888888888888888,0.54737806
+flannel,pos,True,['affording_activity'],0.8571428571428571,0.613497
+anklet,pos,False,['unusual'],0.8,0.41325086
+costume,pos,False,['variability_open'],0.875,0.5808277
+sock,pos,True,['affording_activity'],0.75,0.6008214
+deerskin,pos,True,['affording_activity'],0.625,0.56837595
+handkerchief,pos,False,"['rare', 'unusual']",0.5555555555555556,0.6018288
+linen,pos,False,"['variability_open', 'unusual']",0.6666666666666666,0.5962438
+skirt,pos,False,"['unusual', 'variability_open', 'rare']",0.625,0.57716954
+shalwar,pos,False,['variability_open'],1.0,0.5930084
+waistcoat,pos,True,['affording_activity'],0.5555555555555556,0.6676554
+cloak,pos,True,['affording_activity'],0.8,0.4595539
+coat,pos,True,['affording_activity'],1.0,0.65210384
+nightgown,pos,True,['affording_activity'],0.625,0.6731107
+casserole,pos,True,['affording_activity'],0.875,0.44201666
+attire,pos,True,['affording_activity'],0.8333333333333334,0.5854871
+helmet,pos,False,['variability_open'],0.7777777777777778,0.48056784
+bag,pos,False,['rare'],0.8888888888888888,0.46135843
+tunic,pos,True,['affording_activity'],0.625,0.6737839
+leather,pos,False,['variability_open'],0.8888888888888888,0.5572889
+loincloth,pos,False,['variability_open'],0.75,0.59117043
+outfit,pos,True,['affording_activity'],0.75,0.43439013
+overcoat,pos,True,"['affording_activity', 'typical_of_property']",0.9,0.6569619
+lava,pos,True,['affording_activity'],0.8888888888888888,0.25284752
+cheesecloth,pos,False,['variability_open'],0.5555555555555556,0.5084642
+headgear,pos,False,['variability_open'],0.8571428571428571,0.5973722
+trouser,pos,True,['affording_activity'],0.7142857142857143,0.5936727
+uniform,pos,False,['variability_open'],0.75,0.4696886
+beer,pos,False,['unusual'],0.8888888888888888,0.27338812
+undergarment,pos,False,['variability_open'],0.6666666666666666,0.6429588
+mask,pos,False,['variability_open'],0.75,0.50046855
+bodice,pos,False,['variability_open'],0.625,0.5385003
+stove,pos,True,['affording_activity'],0.7777777777777778,0.42507097
+calfskin,pos,True,['affording_activity'],0.6666666666666666,0.55310076
+underwear,pos,False,['variability_open'],0.8888888888888888,0.6333573
+vapor,pos,True,['affording_activity'],0.6666666666666666,0.21394894
+cassock,pos,False,['variability_open'],0.8571428571428571,0.53876966
+coffee,pos,True,"['affording_activity', 'typical_of_property']",0.875,0.30538508
+tortilla,pos,False,['variability_open'],0.7777777777777778,0.38404587
+poncho,pos,True,['affording_activity'],0.625,0.6430471
+icicle,neg,False,['impossible'],1.0,0.41802642
+winter,neg,False,"['unusual', 'variability_open', 'rare', 'creative']",0.625,0.26058483
+brogue,neg,False,['implied_category'],0.625,0.3573721
+legging,neg,True,['affording_activity'],0.75,0.4384682
+people,neg,False,"['variability_open', 'implied_category']",0.75,0.09961787
+problem,neg,False,['impossible'],0.875,0.09586232
+cuff,neg,False,['unusual'],0.9,0.3985693
+space,neg,False,['variability_open'],0.625,0.1654243
+telephone,neg,False,"['unusual', 'rare']",0.625,0.11188165
+heating,neg,True,['affording_activity'],1.0,0.22201033
+can,neg,False,['rare'],0.8571428571428571,0.12011972
+heat,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.18560599
+atmosphere,neg,False,['variability_open'],0.8888888888888888,0.18388997

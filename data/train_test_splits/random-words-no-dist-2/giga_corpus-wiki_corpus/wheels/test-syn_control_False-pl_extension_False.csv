@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+van,pos,True,['affording_activity'],1.0,0.69436264
+jeep,pos,True,['affording_activity'],1.0,0.6478769
+diner,pos,True,['variability_limited'],0.6666666666666666,0.36464572
+motorbike,pos,True,['affording_activity'],1.0,0.6539564
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41738355
+heap,pos,False,['impossible'],0.8571428571428571,0.17982198
+diesel,pos,False,['impossible'],0.875,0.4267391
+bogie,pos,True,['affording_activity'],0.7142857142857143,0.46373865
+warship,pos,False,['impossible'],0.7142857142857143,0.27998853
+minivan,pos,True,['affording_activity'],1.0,0.6654517
+lorry,pos,True,['affording_activity'],1.0,0.620798
+car,pos,True,['affording_activity'],1.0,0.75618035
+tram,pos,True,['affording_activity'],0.875,0.5191706
+driver,pos,False,['creative'],0.875,0.51250994
+yacht,pos,False,['unusual'],0.7777777777777778,0.36479196
+coupe,pos,True,['affording_activity'],0.875,0.5373074
+backhoe,pos,True,['affording_activity'],1.0,0.5087522
+cart,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5561618
+sleigh,pos,False,"['impossible', 'unusual']",0.5714285714285714,0.55025065
+trailer,pos,True,['affording_activity'],1.0,0.5339814
+windshield,pos,False,['impossible'],0.875,0.4704797
+ambulance,pos,True,['affording_activity'],1.0,0.46928635
+coach,pos,True,"['affording_activity', 'typical_of_property']",0.7142857142857143,0.1186221
+limousine,pos,True,['affording_activity'],1.0,0.5561286
+rickshaw,pos,True,['affording_activity'],1.0,0.6312858
+railcar,pos,True,['affording_activity'],0.7777777777777778,0.51756996
+chaise,pos,False,['unusual'],0.625,0.34369847
+vessel,pos,False,"['unusual', 'rare']",0.7777777777777778,0.34593827
+carriage,neg,True,['affording_activity'],1.0,0.5453826
+cart,neg,True,"['typical_of_property', 'affording_activity']",1.0,0.5561618
+motorbike,neg,True,['affording_activity'],1.0,0.6539564
+chaise,neg,False,['unusual'],0.625,0.34369847
+automobile,neg,True,['affording_activity'],1.0,0.52909404
+limousine,neg,True,['affording_activity'],1.0,0.5561286
+trailer,neg,True,['affording_activity'],1.0,0.5339814
+dumper,neg,True,['affording_activity'],1.0,0.4845616
+trolley,neg,True,['affording_activity'],1.0,0.63482165
+windshield,neg,False,['impossible'],0.875,0.4704797

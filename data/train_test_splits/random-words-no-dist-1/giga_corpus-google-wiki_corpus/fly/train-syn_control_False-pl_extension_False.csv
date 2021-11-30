@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+mammal,pos,True,['variability_limited'],0.8571428571428571,0.61882067
+haddock,pos,False,['impossible'],0.875,0.40334207
+chinook,pos,True,['afforded_usual'],0.6666666666666666,0.4074006
+hog,pos,False,['impossible'],0.625,0.3067673
+duck,pos,True,['afforded_usual'],0.75,0.5717364
+vulture,pos,True,['afforded_usual'],1.0,0.54034096
+interceptor,pos,False,['impossible'],0.7142857142857143,0.2882856
+stork,pos,True,['afforded_usual'],1.0,0.57690275
+penguin,pos,False,['impossible'],0.8888888888888888,0.511051
+tit,pos,True,['afforded_usual'],0.7777777777777778,0.2541759
+mouse,pos,False,['impossible'],0.8888888888888888,0.3192567
+owl,pos,True,"['afforded_usual', 'typical_of_property']",0.875,0.72267693
+silverback,pos,False,['impossible'],1.0,0.40576485
+buffalo,pos,False,['impossible'],1.0,0.50874585
+plaice,pos,False,['impossible'],1.0,0.36786827
+chick,pos,False,['impossible'],0.6666666666666666,0.51917404
+plane,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.4582804
+deer,pos,False,['impossible'],1.0,0.5283247
+stallion,pos,False,"['creative', 'impossible']",0.8888888888888888,0.28295982
+pelican,pos,True,['afforded_usual'],0.75,0.67842084
+crow,pos,True,['afforded_usual'],1.0,0.5822318
+arrow,pos,True,['afforded_usual'],0.5714285714285714,0.43357038
+amberjack,pos,False,['impossible'],0.7142857142857143,0.3981407
+zebra,pos,False,['impossible'],0.8888888888888888,0.435466
+fowl,pos,True,['variability_limited'],0.5714285714285714,0.54403377
+pheasant,pos,True,['afforded_usual'],0.7142857142857143,0.5736886
+hog,neg,False,['impossible'],0.625,0.3067673
+interceptor,neg,False,['impossible'],0.7142857142857143,0.2882856
+gnu,neg,False,['impossible'],1.0,0.30314764
+stork,neg,True,['afforded_usual'],1.0,0.57690275
+buffalo,neg,False,['impossible'],1.0,0.50874585
+airship,neg,True,['afforded_usual'],1.0,0.429228
+chick,neg,False,['impossible'],0.6666666666666666,0.51917404
+plane,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.4582804
+crow,neg,True,['afforded_usual'],1.0,0.5822318

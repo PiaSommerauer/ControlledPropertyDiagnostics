@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bike,pos,False,['implied_category'],0.7142857142857143,0.48570526
+grip,pos,True,['variability_limited'],0.625,0.33793348
+nozzle,pos,True,['variability_limited'],0.6666666666666666,0.6529668
+windscreen,pos,False,['afforded_unusual'],0.625,0.5471918
+brake,pos,False,['impossible'],1.0,0.545015
+bottle,pos,False,['implied_category'],0.8571428571428571,0.48292044
+peg,pos,False,['rare'],0.8571428571428571,0.2882008
+projectile,pos,False,['unusual'],0.6666666666666666,0.41034633
+axle,pos,True,['afforded_usual'],0.75,0.5792533
+bumper,pos,False,['unusual'],0.8888888888888888,0.40180433
+fireplace,pos,False,['impossible'],0.7142857142857143,0.44046253
+cart,pos,True,['variability_limited'],0.625,0.45160478
+pen,pos,False,['afforded_unusual'],1.0,0.35748374
+donkey,pos,False,['impossible'],0.6666666666666666,0.33791885
+handlebar,pos,True,['variability_limited'],0.5714285714285714,0.59850216
+bucket,pos,False,['afforded_unusual'],1.0,0.48007038
+leather,pos,False,"['unusual', 'rare']",0.6666666666666666,0.43237692
+pig,pos,False,['afforded_unusual'],1.0,0.32778084
+headboard,pos,False,"['unusual', 'creative']",0.7777777777777778,0.52813286
+backboard,pos,False,['unusual'],0.8571428571428571,0.42225155
+bumper,neg,False,['unusual'],0.8888888888888888,0.40180433
+projectile,neg,False,['unusual'],0.6666666666666666,0.41034633
+acrylic,neg,True,['variability_limited'],0.5714285714285714,0.41932523
+brick,neg,False,"['creative', 'unusual', 'rare']",0.625,0.3397937
+wiffle,neg,False,"['implied_category', 'afforded_unusual']",0.625,0.35136262
+flywheel,neg,True,['variability_limited'],0.7142857142857143,0.4928941
+brake,neg,False,['impossible'],1.0,0.545015
+saw,neg,True,['variability_limited'],0.7142857142857143,0.18060109
+bike,neg,False,['implied_category'],0.7142857142857143,0.48570526
+glass,neg,True,['variability_limited'],0.5555555555555556,0.49029538
+piston,neg,False,['unusual'],0.7777777777777778,0.5659023
+fireplace,neg,False,['impossible'],0.7142857142857143,0.44046253
+bead,neg,False,['implied_category'],0.875,0.54940766

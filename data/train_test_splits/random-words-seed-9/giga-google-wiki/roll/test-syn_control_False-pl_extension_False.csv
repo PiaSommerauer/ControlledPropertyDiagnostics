@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+windowpane,pos,False,['impossible'],0.5714285714285714,0.42124844
+candle,pos,True,['variability_limited'],0.7142857142857143,0.3972191
+marble,pos,True,"['afforded_usual', 'variability_limited']",0.625,0.37812626
+pig,pos,False,['afforded_unusual'],1.0,0.32827947
+propeller,pos,True,['variability_limited'],0.7142857142857143,0.5811537
+wagon,pos,True,['afforded_usual'],0.7,0.44949603
+gearshift,pos,False,['rare'],0.8333333333333334,0.5576992
+tile,pos,False,['impossible'],0.7142857142857143,0.46199265
+axle,pos,True,['afforded_usual'],0.75,0.57411736
+cloth,pos,False,['afforded_unusual'],0.5714285714285714,0.51386243
+wheelbarrow,pos,True,['afforded_usual'],0.7142857142857143,0.5043647
+bottle,pos,False,['implied_category'],0.8571428571428571,0.48746595
+piston,pos,False,['unusual'],0.7777777777777778,0.5582003
+bead,pos,False,['implied_category'],0.875,0.5493632
+pen,pos,False,['afforded_unusual'],1.0,0.3577229
+washer,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5833144
+brake,pos,False,['impossible'],1.0,0.5420535
+driveshaft,pos,False,['unusual'],0.7142857142857143,0.5084131
+skateboard,pos,True,['afforded_usual'],0.7142857142857143,0.41997814
+donkey,pos,False,['impossible'],0.6666666666666666,0.33825222
+shovel,neg,False,['unusual'],0.8333333333333334,0.44609937
+handrail,neg,False,['unusual'],0.8888888888888888,0.5148268
+saw,neg,True,['variability_limited'],0.7142857142857143,0.18770774
+rifling,neg,True,['afforded_usual'],0.625,0.20636004
+car,neg,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.49804127
+bearing,neg,True,['variability_limited'],0.7142857142857143,0.239581
+nut,neg,True,['variability_limited'],0.7777777777777778,0.40933654
+hubcap,neg,True,['afforded_usual'],0.75,0.5426051
+paint,neg,True,['variability_limited'],0.6666666666666666,0.34653127
+shoe,neg,False,['unusual'],0.875,0.45693544
+grindstone,neg,False,['implied_category'],0.75,0.27055153
+tire,neg,True,['typical_of_property'],1.0,0.5213456
+plunger,neg,False,['unusual'],0.9,0.56249523

@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+windshield,pos,False,"['unusual', 'rare']",0.875,0.55287534
+hubcap,pos,True,['afforded_usual'],0.75,0.5426051
+bike,pos,False,['implied_category'],0.7142857142857143,0.48154697
+gearshift,pos,False,['rare'],0.8333333333333334,0.5576992
+dowel,pos,False,['implied_category'],0.7142857142857143,0.6035735
+glass,pos,True,['variability_limited'],0.5555555555555556,0.49914417
+car,pos,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.49804127
+bearing,pos,True,['variability_limited'],0.7142857142857143,0.239581
+pencil,pos,False,['unusual'],0.875,0.43711558
+grindstone,pos,False,['implied_category'],0.75,0.27055153
+spindle,pos,True,['typical_of_property'],0.625,0.5947617
+roller,pos,True,['afforded_usual'],1.0,0.5731565
+wagon,pos,True,['afforded_usual'],0.7,0.44949603
+projectile,pos,False,['unusual'],0.6666666666666666,0.4091375
+chimney,pos,False,['unusual'],0.75,0.45253792
+cloth,pos,False,['afforded_unusual'],0.5714285714285714,0.51386243
+paint,pos,True,['variability_limited'],0.6666666666666666,0.34653127
+cylinder,pos,True,['typical_of_property'],0.75,0.62507945
+bottle,pos,False,['implied_category'],0.8571428571428571,0.48746595
+backboard,pos,False,['unusual'],0.8571428571428571,0.4256954
+rifling,neg,True,['afforded_usual'],0.625,0.20636004
+footrest,neg,False,['afforded_unusual'],0.75,0.619017
+manhole,neg,False,['creative'],0.75,0.38006768
+projectile,neg,False,['unusual'],0.6666666666666666,0.4091375
+pencil,neg,False,['unusual'],0.875,0.43711558
+marble,neg,True,"['afforded_usual', 'variability_limited']",0.625,0.37812626
+cloth,neg,False,['afforded_unusual'],0.5714285714285714,0.51386243
+gearshift,neg,False,['rare'],0.8333333333333334,0.5576992
+axle,neg,True,['afforded_usual'],0.75,0.57411736
+handlebar,neg,True,['variability_limited'],0.5714285714285714,0.5860211
+bike,neg,False,['implied_category'],0.7142857142857143,0.48154697
+piston,neg,False,['unusual'],0.7777777777777778,0.5582003
+plunger,neg,False,['unusual'],0.9,0.56249523

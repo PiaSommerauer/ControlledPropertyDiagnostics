@@ -1,0 +1,70 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+pencil,pos,False,['unusual'],0.875,0.43728867
+propeller,pos,True,['variability_limited'],0.7142857142857143,0.5858133
+flywheel,pos,True,['variability_limited'],0.7142857142857143,0.4928941
+car,pos,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.4917473
+driveshaft,pos,False,['unusual'],0.7142857142857143,0.5141256
+glass,pos,True,['variability_limited'],0.5555555555555556,0.49029538
+washer,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5794264
+polyurethane,pos,True,['variability_limited'],0.625,0.3910364
+shoe,pos,False,['unusual'],0.875,0.4604292
+leather,pos,False,"['unusual', 'rare']",0.6666666666666666,0.43237692
+brick,pos,False,"['creative', 'unusual', 'rare']",0.625,0.3397937
+hubcap,pos,True,['afforded_usual'],0.75,0.5422297
+lever,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.52429765
+shaft,pos,True,['variability_limited'],0.6666666666666666,0.5431764
+plastic,pos,True,['variability_limited'],0.8571428571428571,0.52065444
+chock,pos,False,['creative'],0.625,0.2279267
+blade,pos,False,['unusual'],0.75,0.5788013
+pig,pos,False,['afforded_unusual'],1.0,0.32778084
+saw,pos,True,['variability_limited'],0.7142857142857143,0.18060109
+wheel,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.5672695
+windshield,pos,False,"['unusual', 'rare']",0.875,0.5484622
+bearing,pos,True,['variability_limited'],0.7142857142857143,0.23795624
+wiffle,pos,False,"['implied_category', 'afforded_unusual']",0.625,0.35136262
+handrail,pos,False,['unusual'],0.8888888888888888,0.5126548
+projectile,pos,False,['unusual'],0.6666666666666666,0.41034633
+cylinder,pos,True,['typical_of_property'],0.75,0.6267947
+nozzle,pos,True,['variability_limited'],0.6666666666666666,0.6529668
+paint,pos,True,['variability_limited'],0.6666666666666666,0.33942774
+manhole,pos,False,['creative'],0.75,0.37638247
+surfboard,pos,False,"['impossible', 'unusual']",0.7142857142857143,0.44739795
+roller,pos,True,['afforded_usual'],1.0,0.57693434
+pencil,neg,False,['unusual'],0.875,0.43728867
+handlebar,neg,True,['variability_limited'],0.5714285714285714,0.59850216
+propeller,neg,True,['variability_limited'],0.7142857142857143,0.5858133
+flywheel,neg,True,['variability_limited'],0.7142857142857143,0.4928941
+axle,neg,True,['afforded_usual'],0.75,0.5792533
+pen,neg,False,['afforded_unusual'],1.0,0.35748374
+driveshaft,neg,False,['unusual'],0.7142857142857143,0.5141256
+windowpane,neg,False,['impossible'],0.5714285714285714,0.4163362
+glass,neg,True,['variability_limited'],0.5555555555555556,0.49029538
+washer,neg,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5794264
+rail,neg,True,['afforded_usual'],0.9,0.26276943
+polyurethane,neg,True,['variability_limited'],0.625,0.3910364
+shoe,neg,False,['unusual'],0.875,0.4604292
+leather,neg,False,"['unusual', 'rare']",0.6666666666666666,0.43237692
+hubcap,neg,True,['afforded_usual'],0.75,0.5422297
+lever,neg,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.52429765
+barrel,neg,True,['typical_of_property'],0.8571428571428571,0.33082297
+shaft,neg,True,['variability_limited'],0.6666666666666666,0.5431764
+chock,neg,False,['creative'],0.625,0.2279267
+blade,neg,False,['unusual'],0.75,0.5788013
+pig,neg,False,['afforded_unusual'],1.0,0.32778084
+bumper,neg,False,['unusual'],0.8888888888888888,0.40180433
+saw,neg,True,['variability_limited'],0.7142857142857143,0.18060109
+bottle,neg,False,['implied_category'],0.8571428571428571,0.48292044
+wheel,neg,True,"['typical_of_property', 'afforded_usual']",1.0,0.5672695
+windshield,neg,False,"['unusual', 'rare']",0.875,0.5484622
+nut,neg,True,['variability_limited'],0.7777777777777778,0.41290444
+bearing,neg,True,['variability_limited'],0.7142857142857143,0.23795624
+wiffle,neg,False,"['implied_category', 'afforded_unusual']",0.625,0.35136262
+cart,neg,True,['variability_limited'],0.625,0.45160478
+skateboard,neg,True,['afforded_usual'],0.7142857142857143,0.42429376
+acrylic,neg,True,['variability_limited'],0.5714285714285714,0.41932523
+projectile,neg,False,['unusual'],0.6666666666666666,0.41034633
+cylinder,neg,True,['typical_of_property'],0.75,0.6267947
+nozzle,neg,True,['variability_limited'],0.6666666666666666,0.6529668
+eyelet,neg,True,['variability_limited'],0.625,0.55707306
+surfboard,neg,False,"['impossible', 'unusual']",0.7142857142857143,0.44739795
+roller,neg,True,['afforded_usual'],1.0,0.57693434

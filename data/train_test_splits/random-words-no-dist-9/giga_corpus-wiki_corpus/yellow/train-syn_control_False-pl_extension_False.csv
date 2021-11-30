@@ -1,0 +1,40 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+banana,pos,True,['variability_limited'],0.9,0.63176286
+huckleberry,pos,False,['unusual'],0.9,0.5162291
+brick,pos,False,['unusual'],1.0,0.31149665
+cherry,pos,False,['rare'],0.75,0.4790368
+tank,pos,False,"['unusual', 'rare']",0.875,0.18470146
+plumeria,pos,False,['unusual'],0.5714285714285714,0.56865513
+pansy,pos,True,['variability_limited'],0.5555555555555556,0.5201029
+peacock,pos,False,['unusual'],0.7,0.44572705
+giraffe,pos,True,['typical_of_property'],0.8888888888888888,0.427438
+tire,pos,False,['unusual'],1.0,0.2316741
+butter,pos,True,['variability_limited'],0.7142857142857143,0.39719942
+lemon,pos,True,['typical_of_property'],1.0,0.6174426
+boot,pos,False,['rare'],0.6666666666666666,0.17925951
+orchid,pos,False,['variability_open'],0.75,0.59779924
+emerald,pos,False,['impossible'],0.7,0.43661934
+corncob,pos,True,"['typical_of_property', 'variability_limited']",0.875,0.49066976
+paint,pos,False,['variability_open'],0.8571428571428571,0.27697375
+sunbeam,pos,True,['variability_limited'],1.0,0.44341126
+pecan,pos,False,['unusual'],0.6666666666666666,0.53672534
+grapefruit,pos,True,['variability_limited'],0.875,0.60657275
+radish,pos,False,['unusual'],0.6666666666666666,0.66318005
+taxi,pos,True,['typical_of_property'],0.7142857142857143,0.23596361
+water,pos,False,"['rare', 'unusual']",1.0,0.32388514
+sheep,pos,False,['unusual'],0.875,0.39424127
+gherkin,pos,False,['unusual'],0.7777777777777778,0.5397427
+champagne,pos,True,['variability_limited'],0.7777777777777778,0.36282545
+huckleberry,neg,False,['unusual'],0.9,0.5162291
+brick,neg,False,['unusual'],1.0,0.31149665
+cherry,neg,False,['rare'],0.75,0.4790368
+budgie,neg,True,['variability_limited'],0.7777777777777778,0.4726838
+mustard,neg,True,['typical_of_property'],0.8888888888888888,0.47995138
+peacock,neg,False,['unusual'],0.7,0.44572705
+butter,neg,True,['variability_limited'],0.7142857142857143,0.39719942
+orchid,neg,False,['variability_open'],0.75,0.59779924
+corn,neg,True,['typical_of_property'],1.0,0.497932
+syrup,neg,False,['rare'],0.5714285714285714,0.51796615
+radish,neg,False,['unusual'],0.6666666666666666,0.66318005
+plum,neg,True,['variability_limited'],0.875,0.39078987
+gherkin,neg,False,['unusual'],0.7777777777777778,0.5397427

@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bogie,pos,True,['affording_activity'],0.7142857142857143,0.46373865
+chaise,pos,False,['unusual'],0.625,0.34369847
+streetcar,pos,True,['affording_activity'],0.875,0.45712313
+jeep,pos,True,['affording_activity'],1.0,0.6478769
+car,pos,True,['affording_activity'],1.0,0.75618035
+trap,pos,False,['unusual'],0.75,0.16928083
+cart,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5561618
+caravan,pos,True,['affording_activity'],0.875,0.5194788
+dumper,pos,True,['affording_activity'],1.0,0.4845616
+trawler,pos,False,['impossible'],0.7142857142857143,0.37388614
+gondola,pos,False,"['unusual', 'impossible']",0.7142857142857143,0.4933623
+railcar,pos,True,['affording_activity'],0.7777777777777778,0.51756996
+coupe,pos,True,['affording_activity'],0.875,0.5373074
+handcart,pos,True,['affording_activity'],1.0,0.49581686
+ambulance,pos,True,['affording_activity'],1.0,0.46928635
+minivan,pos,True,['affording_activity'],1.0,0.6654517
+tractor,pos,True,['affording_activity'],1.0,0.69055134
+passenger,pos,False,['creative'],0.7777777777777778,0.5226504
+motorcycle,pos,True,['affording_activity'],1.0,0.65223455
+scooter,pos,True,['affording_activity'],1.0,0.7302409
+vessel,pos,False,"['unusual', 'rare']",0.7777777777777778,0.34593827
+saloon,pos,False,['implied_category'],0.625,0.49039406
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41738355
+warship,pos,False,['impossible'],0.7142857142857143,0.27998853
+train,pos,True,['affording_activity'],1.0,0.5238274
+driver,pos,False,['creative'],0.875,0.51250994
+automobile,pos,True,['affording_activity'],1.0,0.52909404
+motorbike,pos,True,['affording_activity'],1.0,0.6539564
+handcart,neg,True,['affording_activity'],1.0,0.49581686
+snowmobile,neg,True,['variability_limited'],0.5714285714285714,0.53117806
+dumper,neg,True,['affording_activity'],1.0,0.4845616
+streetcar,neg,True,['affording_activity'],0.875,0.45712313
+stage,neg,True,['variability_limited'],0.6666666666666666,0.11864333
+backhoe,neg,True,['affording_activity'],1.0,0.5087522
+driver,neg,False,['creative'],0.875,0.51250994
+airplane,neg,True,['affording_activity'],1.0,0.49027833
+scooter,neg,True,['affording_activity'],1.0,0.7302409
+axle,neg,True,['affording_activity'],0.75,0.5453598

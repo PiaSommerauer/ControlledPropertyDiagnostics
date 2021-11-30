@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+dowel,pos,False,['implied_category'],0.7142857142857143,0.60813713
+wiffle,pos,False,"['implied_category', 'afforded_unusual']",0.625,0.35136262
+tile,pos,False,['impossible'],0.7142857142857143,0.45454964
+pig,pos,False,['afforded_unusual'],1.0,0.32778084
+plastic,pos,True,['variability_limited'],0.8571428571428571,0.52065444
+bolt,pos,False,['afforded_unusual'],0.625,0.55379355
+glass,pos,True,['variability_limited'],0.5555555555555556,0.49029538
+acrylic,pos,True,['variability_limited'],0.5714285714285714,0.41932523
+shaft,pos,True,['variability_limited'],0.6666666666666666,0.5431764
+shovel,pos,False,['unusual'],0.8333333333333334,0.4404562
+rifling,pos,True,['afforded_usual'],0.625,0.20351902
+gearshift,pos,False,['rare'],0.8333333333333334,0.5632767
+spindle,pos,True,['typical_of_property'],0.625,0.6032916
+grip,pos,True,['variability_limited'],0.625,0.33793348
+tub,pos,True,['variability_limited'],0.8333333333333334,0.5669601
+wagon,pos,True,['afforded_usual'],0.7,0.44836676
+blade,pos,False,['unusual'],0.75,0.5788013
+headboard,pos,False,"['unusual', 'creative']",0.7777777777777778,0.52813286
+pencil,pos,False,['unusual'],0.875,0.43728867
+peg,pos,False,['rare'],0.8571428571428571,0.2882008
+acrylic,neg,True,['variability_limited'],0.5714285714285714,0.41932523
+headboard,neg,False,"['unusual', 'creative']",0.7777777777777778,0.52813286
+bead,neg,False,['implied_category'],0.875,0.54940766
+ball,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.37349507
+peg,neg,False,['rare'],0.8571428571428571,0.2882008
+ski,neg,False,['unusual'],0.7142857142857143,0.2629207
+wiffle,neg,False,"['implied_category', 'afforded_unusual']",0.625,0.35136262
+grip,neg,True,['variability_limited'],0.625,0.33793348
+bolt,neg,False,['afforded_unusual'],0.625,0.55379355
+pen,neg,False,['afforded_unusual'],1.0,0.35748374
+radiator,neg,False,['afforded_unusual'],0.875,0.6534212
+handlebar,neg,True,['variability_limited'],0.5714285714285714,0.59850216
+pig,neg,False,['afforded_unusual'],1.0,0.32778084

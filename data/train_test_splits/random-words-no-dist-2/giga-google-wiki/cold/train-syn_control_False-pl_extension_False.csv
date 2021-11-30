@@ -1,0 +1,98 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+snowbank,pos,True,['affording_activity'],1.0,0.46573082
+snowfall,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3804367
+berry,pos,False,['variability_open'],0.6666666666666666,0.49653673
+dust,pos,False,['unusual'],0.7142857142857143,0.3746063
+problem,pos,False,['impossible'],0.625,0.15162025
+fire,pos,False,['impossible'],1.0,0.22118041
+milk,pos,False,['variability_open'],1.0,0.4551998
+cheesecloth,pos,False,['unusual'],0.6,0.49853158
+candle,pos,False,['variability_open'],0.75,0.44401702
+soup,pos,False,['variability_open'],0.7272727272727273,0.5787706
+toilet,pos,False,['variability_open'],0.7,0.46225443
+ice,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5563048
+icicle,pos,True,"['affording_activity', 'typical_of_property']",0.9090909090909091,0.5519173
+cake,pos,False,['variability_open'],1.0,0.5458127
+toaster,pos,False,['variability_open'],0.5555555555555556,0.4896391
+idea,pos,False,['impossible'],0.7,0.2230111
+heating,pos,False,['impossible'],0.75,0.3155567
+pillow,pos,False,['variability_open'],0.7,0.5256847
+hatred,pos,False,['creative'],0.8888888888888888,0.18387431
+snow,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.49058938
+lip,pos,False,['unusual'],0.8,0.30877942
+bathtub,pos,False,['variability_open'],0.875,0.5565256
+juice,pos,False,"['variability_open', 'implied_category']",0.5454545454545454,0.46730462
+fireplace,pos,False,['variability_open'],0.875,0.47293183
+shoe,pos,False,"['unusual', 'variability_open']",0.625,0.37069765
+sawdust,pos,False,"['rare', 'unusual']",0.5555555555555556,0.49059442
+casserole,pos,False,['variability_open'],0.8,0.5606839
+glass,pos,False,['variability_open'],0.7,0.5405125
+rain,pos,False,['variability_open'],0.75,0.37439024
+winter,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3240304
+foot,pos,False,['unusual'],0.8888888888888888,0.28916252
+finger,pos,False,['variability_open'],0.625,0.2996726
+basement,pos,False,['variability_open'],0.875,0.39688206
+cream,pos,False,['variability_open'],0.875,0.4546243
+pie,pos,False,['variability_open'],0.8571428571428571,0.43680903
+heat,pos,False,['impossible'],0.9,0.32822764
+balloon,pos,False,['variability_open'],0.75,0.39273435
+fridge,pos,True,['affording_activity'],1.0,0.58318263
+lightning,pos,False,['impossible'],1.0,0.23145448
+summertime,pos,False,['rare'],1.0,0.3495063
+snowbank,neg,True,['affording_activity'],1.0,0.46573082
+lava,neg,False,['impossible'],0.9090909090909091,0.43409142
+snowfall,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.3804367
+outfit,neg,False,['unusual'],0.875,0.13531865
+berry,neg,False,['variability_open'],0.6666666666666666,0.49653673
+dust,neg,False,['unusual'],0.7142857142857143,0.3746063
+snowdrift,neg,True,"['affording_activity', 'typical_of_property']",0.8181818181818182,0.44552898
+problem,neg,False,['impossible'],0.625,0.15162025
+fire,neg,False,['impossible'],1.0,0.22118041
+milk,neg,False,['variability_open'],1.0,0.4551998
+cheesecloth,neg,False,['unusual'],0.6,0.49853158
+lemonade,neg,False,['variability_open'],0.875,0.48759294
+candle,neg,False,['variability_open'],0.75,0.44401702
+soup,neg,False,['variability_open'],0.7272727272727273,0.5787706
+toilet,neg,False,['variability_open'],0.7,0.46225443
+soda,neg,True,['typical_of_property'],0.8571428571428571,0.5146907
+ice,neg,True,"['typical_of_property', 'affording_activity']",1.0,0.5563048
+shelf,neg,False,['variability_open'],0.6,0.33796874
+curd,neg,False,['variability_open'],0.9,0.569426
+icicle,neg,True,"['affording_activity', 'typical_of_property']",0.9090909090909091,0.5519173
+cake,neg,False,['variability_open'],1.0,0.5458127
+toaster,neg,False,['variability_open'],0.5555555555555556,0.4896391
+pillow,neg,False,['variability_open'],0.7,0.5256847
+puddle,neg,False,['variability_open'],0.8888888888888888,0.56265044
+foam,neg,False,['variability_open'],0.625,0.51259536
+hatred,neg,False,['creative'],0.8888888888888888,0.18387431
+snow,neg,True,"['typical_of_property', 'affording_activity']",1.0,0.49058938
+hair,neg,False,['variability_open'],0.875,0.40184093
+lip,neg,False,['unusual'],0.8,0.30877942
+bathtub,neg,False,['variability_open'],0.875,0.5565256
+vapor,neg,False,['variability_open'],0.625,0.40799382
+juice,neg,False,"['variability_open', 'implied_category']",0.5454545454545454,0.46730462
+steam,neg,False,['impossible'],0.8571428571428571,0.28298226
+tile,neg,True,['variability_limited'],0.5714285714285714,0.43957222
+shoe,neg,False,"['unusual', 'variability_open']",0.625,0.37069765
+sawdust,neg,False,"['rare', 'unusual']",0.5555555555555556,0.49059442
+casserole,neg,False,['variability_open'],0.8,0.5606839
+glass,neg,False,['variability_open'],0.7,0.5405125
+rain,neg,False,['variability_open'],0.75,0.37439024
+people,neg,False,['variability_open'],0.6666666666666666,0.1622397
+winter,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.3240304
+pomade,neg,False,['rare'],0.5555555555555556,0.44276494
+kettle,neg,False,['variability_open'],1.0,0.44579077
+finger,neg,False,['variability_open'],0.625,0.2996726
+coffee,neg,False,['variability_open'],0.7777777777777778,0.4694159
+beer,neg,True,['affording_activity'],0.6,0.45884955
+cream,neg,False,['variability_open'],0.875,0.4546243
+slime,neg,False,['variability_open'],0.7777777777777778,0.42270327
+pie,neg,False,['variability_open'],0.8571428571428571,0.43680903
+mug,neg,False,['variability_open'],0.75,0.43371248
+heat,neg,False,['impossible'],0.9,0.32822764
+drink,neg,True,['affording_activity'],0.5555555555555556,0.45854267
+toe,neg,False,"['variability_open', 'unusual']",0.875,0.31757295
+tea,neg,False,['variability_open'],0.8571428571428571,0.382354
+popsicle,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.6124735
+lightning,neg,False,['impossible'],1.0,0.23145448
+summertime,neg,False,['rare'],1.0,0.3495063

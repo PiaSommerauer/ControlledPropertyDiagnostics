@@ -1,0 +1,63 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+pounder,pos,True,"['affording_activity', 'variability_limited']",0.7777777777777778,0.24001628
+cheese,pos,True,['variability_limited'],0.875,0.6710985
+auger,pos,False,['impossible'],0.875,0.26488015
+toaster,pos,True,['affording_activity'],0.8888888888888888,0.3921522
+taco,pos,True,"['variability_limited', 'affording_activity']",1.0,0.5293592
+cornmeal,pos,True,['affording_activity'],1.0,0.692076
+lime,pos,True,"['variability_limited', 'affording_activity']",0.7777777777777778,0.54361695
+meat,pos,True,"['typical_of_property', 'affording_activity', 'variability_limited']",1.0,0.59371036
+sauce,pos,True,['affording_activity'],1.0,0.7413243
+grasshopper,pos,False,"['rare', 'unusual']",1.0,0.34864154
+lance,pos,False,"['impossible', 'unusual']",0.6,0.2653775
+mallet,pos,False,['unusual'],0.625,0.36296487
+cabbage,pos,True,"['affording_activity', 'variability_limited']",1.0,0.72226894
+gavel,pos,False,['unusual'],0.5555555555555556,0.09951185
+microwave,pos,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.46703276
+lobster,pos,True,['variability_limited'],1.0,0.56189764
+bur,pos,False,['impossible'],0.6666666666666666,0.24683993
+clincher,pos,False,['impossible'],0.75,0.13249813
+hammer,pos,False,"['rare', 'unusual']",0.8333333333333334,0.16410196
+planer,pos,False,['impossible'],1.0,0.2570243
+router,pos,False,['impossible'],0.625,0.21139847
+beetle,pos,False,"['unusual', 'rare']",0.8888888888888888,0.30224156
+bevel,pos,False,"['unusual', 'impossible']",0.5555555555555556,0.3357749
+condiment,pos,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.6244278
+flour,pos,True,['typical_of_property'],1.0,0.60481095
+spade,pos,False,"['rare', 'unusual']",0.625,0.26407146
+blade,pos,True,"['variability_limited', 'typical_of_property', 'affording_activity']",0.5555555555555556,0.3653052
+shrimp,pos,True,"['variability_limited', 'affording_activity']",0.875,0.6179375
+penknife,pos,False,['unusual'],0.75,0.35434195
+pallet,pos,False,['impossible'],0.6666666666666666,0.2881699
+beef,pos,True,"['variability_limited', 'affording_activity']",1.0,0.4741515
+asparagus,pos,True,"['affording_activity', 'variability_limited']",1.0,0.7458159
+steak,pos,True,['variability_limited'],1.0,0.6297612
+canary,pos,False,['unusual'],0.75,0.13767475
+chisel,pos,False,['impossible'],0.6666666666666666,0.30155885
+pepperoni,pos,True,['affording_activity'],1.0,0.59289014
+knife,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.39091948
+oregano,pos,True,['variability_limited'],1.0,0.6314334
+opener,pos,True,['variability_limited'],0.75,0.14015377
+bacon,pos,True,['affording_activity'],1.0,0.6571746
+cornmeal,neg,True,['affording_activity'],1.0,0.692076
+radish,neg,True,"['variability_limited', 'affording_activity']",1.0,0.67750776
+tablespoon,neg,True,"['variability_limited', 'affording_activity']",0.8333333333333334,0.5804559
+hammer,neg,False,"['rare', 'unusual']",0.8333333333333334,0.16410196
+reamer,neg,False,['impossible'],0.8,0.35289267
+mallet,neg,False,['unusual'],0.625,0.36296487
+oregano,neg,True,['variability_limited'],1.0,0.6314334
+cutter,neg,True,['variability_limited'],0.8571428571428571,0.29603308
+hoe,neg,False,['unusual'],0.8571428571428571,0.31463543
+artichoke,neg,True,['affording_activity'],1.0,0.7185504
+pastry,neg,True,['affording_activity'],0.8333333333333334,0.6744901
+stamp,neg,False,['impossible'],1.0,0.14942694
+beetle,neg,False,"['unusual', 'rare']",0.8888888888888888,0.30224156
+spade,neg,False,"['rare', 'unusual']",0.625,0.26407146
+chicken,neg,True,['variability_limited'],0.9,0.65840346
+flatbread,neg,True,['variability_limited'],0.875,0.67183214
+stylus,neg,False,['unusual'],0.75,0.24169926
+burr,neg,False,['creative'],0.5555555555555556,0.29183316
+carrot,neg,True,['affording_activity'],1.0,0.4629849
+meat,neg,True,"['typical_of_property', 'affording_activity', 'variability_limited']",1.0,0.59371036
+condiment,neg,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.6244278
+stove,neg,True,['typical_of_property'],1.0,0.43119222

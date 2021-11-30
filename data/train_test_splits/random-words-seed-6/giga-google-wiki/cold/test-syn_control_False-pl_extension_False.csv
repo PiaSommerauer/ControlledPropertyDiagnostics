@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+hair,pos,False,['variability_open'],0.875,0.40184093
+sawdust,pos,False,"['rare', 'unusual']",0.5555555555555556,0.49059442
+oven,pos,False,['variability_open'],0.5555555555555556,0.57710373
+candle,pos,False,['variability_open'],0.75,0.44401702
+icicle,pos,True,"['affording_activity', 'typical_of_property']",0.9090909090909091,0.5519173
+foam,pos,False,['variability_open'],0.625,0.51259536
+fridge,pos,True,['affording_activity'],1.0,0.58318263
+sundae,pos,True,['affording_activity'],1.0,0.52118933
+snowfall,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3804367
+popsicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.6124735
+juice,pos,False,"['variability_open', 'implied_category']",0.5454545454545454,0.46730462
+snowdrift,pos,True,"['affording_activity', 'typical_of_property']",0.8181818181818182,0.44552898
+toilet,pos,False,['variability_open'],0.7,0.46225443
+permafrost,pos,True,['affording_activity'],1.0,0.37901953
+bathtub,pos,False,['variability_open'],0.875,0.5565256
+heat,pos,False,['impossible'],0.9,0.32822764
+eggshell,pos,False,['variability_open'],0.7777777777777778,0.4936669
+rain,pos,False,['variability_open'],0.75,0.37439024
+snowbank,pos,True,['affording_activity'],1.0,0.46573082
+vapor,pos,False,['variability_open'],0.625,0.40799382
+tortilla,pos,False,['variability_open'],0.7,0.46736723
+bath,pos,False,['unusual'],0.7777777777777778,0.4618975
+cheesecloth,pos,False,['unusual'],0.6,0.49853158
+mud,pos,False,['variability_open'],0.875,0.48231855
+vinyl,pos,False,['variability_open'],0.7,0.3879183
+puddle,pos,False,['variability_open'],0.8888888888888888,0.56265044
+iceberg,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.24733807
+shoe,neg,False,"['unusual', 'variability_open']",0.625,0.37069765
+balloon,neg,False,['variability_open'],0.75,0.39273435
+sky,neg,False,['variability_open'],0.75,0.33422157
+steam,neg,False,['impossible'],0.8571428571428571,0.28298226
+mug,neg,False,['variability_open'],0.75,0.43371248
+surface,neg,False,['variability_open'],0.75,0.3765158
+problem,neg,False,['impossible'],0.625,0.15162025
+finger,neg,False,['variability_open'],0.625,0.2996726

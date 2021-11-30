@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+coach,pos,True,"['affording_activity', 'typical_of_property']",0.7142857142857143,0.1186221
+tank,pos,False,['implied_category'],0.5714285714285714,0.31265852
+auto,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.38301212
+rig,pos,True,['affording_activity'],0.5555555555555556,0.39481997
+luggage,pos,True,['variability_limited'],0.875,0.44262165
+dray,pos,True,['affording_activity'],0.7777777777777778,0.44697
+streetcar,pos,True,['affording_activity'],0.875,0.45712313
+ambulance,pos,True,['affording_activity'],1.0,0.46928635
+dumper,pos,True,['affording_activity'],1.0,0.4845616
+airplane,pos,True,['affording_activity'],1.0,0.49027833
+stagecoach,pos,True,['affording_activity'],0.875,0.4935482
+sidecar,pos,True,['affording_activity'],1.0,0.49716026
+railcar,pos,True,['affording_activity'],0.7777777777777778,0.51756996
+tram,pos,True,['affording_activity'],0.875,0.5191706
+garage,pos,True,['variability_limited'],0.625,0.5217404
+automobile,pos,True,['affording_activity'],1.0,0.52909404
+undercarriage,pos,True,['affording_activity'],0.6666666666666666,0.53275937
+coupe,pos,True,['affording_activity'],0.875,0.5373074
+runabout,pos,True,['affording_activity'],0.75,0.54185027
+axle,pos,True,['affording_activity'],0.75,0.5453598
+pedicab,pos,True,['affording_activity'],1.0,0.5510616
+limousine,pos,True,['affording_activity'],1.0,0.5561286
+taxicab,pos,True,['affording_activity'],1.0,0.5649594
+roadster,pos,True,['affording_activity'],0.8571428571428571,0.5847035
+locomotive,pos,True,['affording_activity'],1.0,0.6113557
+lorry,pos,True,['affording_activity'],1.0,0.620798
+trolley,pos,True,['affording_activity'],1.0,0.63482165
+bus,pos,True,['affording_activity'],1.0,0.6430231
+hack,neg,False,['impossible'],1.0,0.070753016
+trap,neg,False,['unusual'],0.75,0.16928083
+cat,neg,False,['unusual'],0.75,0.24048693
+warship,neg,False,['impossible'],0.7142857142857143,0.27998853
+ship,neg,False,"['rare', 'unusual']",0.7142857142857143,0.31015143
+vessel,neg,False,"['unusual', 'rare']",0.7777777777777778,0.34593827
+yacht,neg,False,['unusual'],0.7777777777777778,0.36479196
+freighter,neg,False,['impossible'],0.625,0.37601984
+diesel,neg,False,['impossible'],0.875,0.4267391
+windshield,neg,False,['impossible'],0.875,0.4704797

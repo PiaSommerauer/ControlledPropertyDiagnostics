@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+warship,pos,False,['impossible'],0.7142857142857143,0.27998853
+passenger,pos,False,['creative'],0.7777777777777778,0.5226504
+boat,pos,False,['unusual'],0.7777777777777778,0.525697
+wheelbase,pos,True,['affording_activity'],0.75,0.41530937
+airplane,pos,True,['affording_activity'],1.0,0.49027833
+trailer,pos,True,['affording_activity'],1.0,0.5339814
+pram,pos,True,['affording_activity'],1.0,0.48951185
+chaise,pos,False,['unusual'],0.625,0.34369847
+windshield,pos,False,['impossible'],0.875,0.4704797
+trolley,pos,True,['affording_activity'],1.0,0.63482165
+limousine,pos,True,['affording_activity'],1.0,0.5561286
+battleship,pos,False,['impossible'],0.875,0.2997324
+dray,pos,True,['affording_activity'],0.7777777777777778,0.44697
+cabriolet,pos,True,['affording_activity'],1.0,0.518616
+saloon,pos,False,['implied_category'],0.625,0.49039406
+dumper,pos,True,['affording_activity'],1.0,0.4845616
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41738355
+sleigh,pos,False,"['impossible', 'unusual']",0.5714285714285714,0.55025065
+phaeton,pos,True,['affording_activity'],0.875,0.5392164
+motorcycle,pos,True,['affording_activity'],1.0,0.65223455
+locomotive,pos,True,['affording_activity'],1.0,0.6113557
+pedicab,pos,True,['affording_activity'],1.0,0.5510616
+coach,pos,True,"['affording_activity', 'typical_of_property']",0.7142857142857143,0.1186221
+heap,pos,False,['impossible'],0.8571428571428571,0.17982198
+ship,pos,False,"['rare', 'unusual']",0.7142857142857143,0.31015143
+minivan,pos,True,['affording_activity'],1.0,0.6654517
+machine,pos,True,['variability_limited'],1.0,0.35765854
+undercarriage,pos,True,['affording_activity'],0.6666666666666666,0.53275937
+luggage,neg,True,['variability_limited'],0.875,0.44262165
+trawler,neg,False,['impossible'],0.7142857142857143,0.37388614
+vehicle,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.70729595
+airplane,neg,True,['affording_activity'],1.0,0.49027833
+winch,neg,False,['unusual'],0.6666666666666666,0.47372
+scooter,neg,True,['affording_activity'],1.0,0.7302409
+minivan,neg,True,['affording_activity'],1.0,0.6654517
+heap,neg,False,['impossible'],0.8571428571428571,0.17982198
+wagon,neg,True,['affording_activity'],1.0,0.6711533
+cabriolet,neg,True,['affording_activity'],1.0,0.518616

@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bolt,pos,False,['afforded_unusual'],0.625,0.55379355
+manhole,pos,False,['creative'],0.75,0.37638247
+brake,pos,False,['impossible'],1.0,0.545015
+headboard,pos,False,"['unusual', 'creative']",0.7777777777777778,0.52813286
+axle,pos,True,['afforded_usual'],0.75,0.5792533
+pipe,pos,False,['afforded_unusual'],0.8571428571428571,0.5199605
+skateboard,pos,True,['afforded_usual'],0.7142857142857143,0.42429376
+shaft,pos,True,['variability_limited'],0.6666666666666666,0.5431764
+acrylic,pos,True,['variability_limited'],0.5714285714285714,0.41932523
+bead,pos,False,['implied_category'],0.875,0.54940766
+kiln,pos,False,"['creative', 'impossible']",0.7142857142857143,0.44582447
+tub,pos,True,['variability_limited'],0.8333333333333334,0.5669601
+tile,pos,False,['impossible'],0.7142857142857143,0.45454964
+tire,pos,True,['typical_of_property'],1.0,0.52169436
+driveshaft,pos,False,['unusual'],0.7142857142857143,0.5141256
+sprocket,pos,True,['afforded_usual'],0.875,0.63239825
+bike,pos,False,['implied_category'],0.7142857142857143,0.48570526
+fireplace,pos,False,['impossible'],0.7142857142857143,0.44046253
+bottle,pos,False,['implied_category'],0.8571428571428571,0.48292044
+nozzle,pos,True,['variability_limited'],0.6666666666666666,0.6529668
+peg,neg,False,['rare'],0.8571428571428571,0.2882008
+chock,neg,False,['creative'],0.625,0.2279267
+rifling,neg,True,['afforded_usual'],0.625,0.20351902
+ski,neg,False,['unusual'],0.7142857142857143,0.2629207
+paint,neg,True,['variability_limited'],0.6666666666666666,0.33942774
+saw,neg,True,['variability_limited'],0.7142857142857143,0.18060109
+ball,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.37349507
+bumper,neg,False,['unusual'],0.8888888888888888,0.40180433
+pen,neg,False,['afforded_unusual'],1.0,0.35748374
+candle,neg,True,['variability_limited'],0.7142857142857143,0.38963717
+barrel,neg,True,['typical_of_property'],0.8571428571428571,0.33082297
+pig,neg,False,['afforded_unusual'],1.0,0.32778084
+shovel,neg,False,['unusual'],0.8333333333333334,0.4404562

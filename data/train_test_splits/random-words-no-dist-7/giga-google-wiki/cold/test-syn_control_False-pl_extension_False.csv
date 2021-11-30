@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bottle,pos,False,['variability_open'],1.0,0.5323903
+curd,pos,False,['variability_open'],0.9,0.569426
+juice,pos,False,"['variability_open', 'implied_category']",0.5454545454545454,0.46730462
+tortilla,pos,False,['variability_open'],0.7,0.46736723
+icicle,pos,True,"['affording_activity', 'typical_of_property']",0.9090909090909091,0.5519173
+snowbank,pos,True,['affording_activity'],1.0,0.46573082
+permafrost,pos,True,['affording_activity'],1.0,0.37901953
+rain,pos,False,['variability_open'],0.75,0.37439024
+foot,pos,False,['unusual'],0.8888888888888888,0.28916252
+heat,pos,False,['impossible'],0.9,0.32822764
+lemonade,pos,False,['variability_open'],0.875,0.48759294
+bath,pos,False,['unusual'],0.7777777777777778,0.4618975
+tile,pos,True,['variability_limited'],0.5714285714285714,0.43957222
+rock,pos,False,['variability_open'],0.8,0.36024505
+shelf,pos,False,['variability_open'],0.6,0.33796874
+basement,pos,False,['variability_open'],0.875,0.39688206
+pillow,pos,False,['variability_open'],0.7,0.5256847
+fire,pos,False,['impossible'],1.0,0.22118041
+cheesecloth,pos,False,['unusual'],0.6,0.49853158
+snow,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.49058938
+vapor,pos,False,['variability_open'],0.625,0.40799382
+lip,pos,False,['unusual'],0.8,0.30877942
+mug,pos,False,['variability_open'],0.75,0.43371248
+snowfall,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3804367
+cream,pos,False,['variability_open'],0.875,0.4546243
+berry,pos,False,['variability_open'],0.6666666666666666,0.49653673
+puddle,neg,False,['variability_open'],0.8888888888888888,0.56265044
+foot,neg,False,['unusual'],0.8888888888888888,0.28916252
+fireplace,neg,False,['variability_open'],0.875,0.47293183
+berry,neg,False,['variability_open'],0.6666666666666666,0.49653673
+flame,neg,False,['impossible'],0.9,0.30373475
+shelf,neg,False,['variability_open'],0.6,0.33796874
+cheesecloth,neg,False,['unusual'],0.6,0.49853158
+pillow,neg,False,['variability_open'],0.7,0.5256847
+icicle,neg,True,"['affording_activity', 'typical_of_property']",0.9090909090909091,0.5519173

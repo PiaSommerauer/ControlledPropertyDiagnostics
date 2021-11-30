@@ -1,0 +1,94 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+waist,pos,False,['variability_open'],0.5714285714285714,0.49359077
+tunic,pos,True,['affording_activity'],0.625,0.6737839
+flannel,pos,True,['affording_activity'],0.8571428571428571,0.613497
+jumpsuit,pos,False,['variability_open'],0.75,0.60035676
+leather,pos,False,['variability_open'],0.8888888888888888,0.5572889
+shoe,pos,False,['variability_open'],0.8888888888888888,0.54737806
+turban,pos,False,['variability_open'],0.75,0.53844947
+heating,pos,True,['affording_activity'],1.0,0.22201033
+toilet,pos,False,['variability_open'],0.8888888888888888,0.34946868
+cuff,pos,False,['unusual'],0.9,0.3985693
+turtleneck,pos,True,['affording_activity'],0.7,0.6351141
+overcoat,pos,True,"['affording_activity', 'typical_of_property']",0.9,0.6569619
+shoelace,pos,False,['unusual'],0.75,0.47779146
+scarf,pos,True,['affording_activity'],0.875,0.7084844
+nightgown,pos,True,['affording_activity'],0.625,0.6731107
+corset,pos,False,['variability_open'],0.75,0.62111336
+taffeta,pos,False,"['unusual', 'variability_open']",0.5555555555555556,0.56792396
+jacket,pos,True,['affording_activity'],1.0,0.70704985
+blouse,pos,True,['variability_limited'],0.5714285714285714,0.6953734
+tea,pos,True,['typical_of_property'],0.875,0.27467903
+anklet,pos,False,['unusual'],0.8,0.41325086
+tortilla,pos,False,['variability_open'],0.7777777777777778,0.38404587
+wig,pos,False,['variability_open'],0.625,0.63805693
+coffee,pos,True,"['affording_activity', 'typical_of_property']",0.875,0.30538508
+winter,pos,False,"['unusual', 'variability_open', 'rare', 'creative']",0.625,0.26058483
+river,pos,False,"['rare', 'variability_open']",0.625,0.20865887
+cloak,pos,True,['affording_activity'],0.8,0.4595539
+water,pos,False,['variability_open'],0.875,0.26928794
+coat,pos,True,['affording_activity'],1.0,0.65210384
+jean,pos,False,['variability_open'],0.7777777777777778,0.55100334
+vinyl,pos,False,"['rare', 'variability_open']",0.5714285714285714,0.3709558
+blanket,pos,True,['affording_activity'],1.0,0.487226
+attire,pos,True,['affording_activity'],0.8333333333333334,0.5854871
+pullover,pos,True,['affording_activity'],0.9090909090909091,0.58661693
+toe,pos,False,['variability_open'],0.8888888888888888,0.39952835
+candle,pos,True,['affording_activity'],0.75,0.37668857
+lace,pos,False,['unusual'],0.6666666666666666,0.6144269
+outerwear,pos,True,['affording_activity'],1.0,0.50516427
+lava,pos,True,['affording_activity'],0.8888888888888888,0.25284752
+dress,pos,False,['variability_open'],0.8888888888888888,0.6977106
+waistcoat,pos,True,['affording_activity'],0.5555555555555556,0.6676554
+bed,pos,True,['affording_activity'],0.6,0.41687343
+juice,pos,False,['variability_open'],0.9,0.25770664
+beer,pos,False,['unusual'],0.8888888888888888,0.27338812
+collar,pos,False,['unusual'],0.75,0.49498248
+handkerchief,pos,False,"['rare', 'unusual']",0.5555555555555556,0.6018288
+underwear,pos,False,['variability_open'],0.8888888888888888,0.6333573
+denim,pos,True,['affording_activity'],0.6666666666666666,0.57722235
+quesadilla,pos,True,['affording_activity'],0.8,0.36895412
+strap,pos,False,['rare'],0.5555555555555556,0.49630055
+cummerbund,pos,False,['rare'],0.7777777777777778,0.58464444
+candy,pos,False,"['unusual', 'rare']",0.7777777777777778,0.31531033
+shalwar,pos,False,['variability_open'],1.0,0.5930084
+sleeve,pos,True,['affording_activity'],0.8571428571428571,0.47359344
+robe,pos,True,['typical_of_property'],0.8333333333333334,0.678738
+necktie,pos,False,['variability_open'],0.625,0.59901094
+fireplace,pos,True,['typical_of_property'],0.8888888888888888,0.40052286
+bodice,pos,False,['variability_open'],0.625,0.5385003
+helmet,pos,False,['variability_open'],0.7777777777777778,0.48056784
+loincloth,pos,False,['variability_open'],0.75,0.59117043
+comforter,pos,True,"['affording_activity', 'typical_of_property']",0.6666666666666666,0.5363063
+sandal,pos,False,['variability_open'],0.6666666666666666,0.5600947
+linen,pos,False,"['variability_open', 'unusual']",0.6666666666666666,0.5962438
+slipper,pos,True,['affording_activity'],0.875,0.5369383
+sun,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3026853
+garment,pos,True,['affording_activity'],0.9,0.5675573
+topcoat,pos,True,['affording_activity'],0.7777777777777778,0.44609132
+deerskin,pos,True,['affording_activity'],0.625,0.56837595
+undershirt,pos,True,['affording_activity'],0.875,0.5810022
+cheesecloth,pos,False,['variability_open'],0.5555555555555556,0.5084642
+clothing,pos,True,['affording_activity'],1.0,0.57899547
+soup,pos,True,['affording_activity'],1.0,0.38914967
+poncho,pos,True,['affording_activity'],0.625,0.6430471
+smoke,pos,False,['variability_open'],0.7777777777777778,0.2201565
+coverall,neg,True,['variability_limited'],0.5555555555555556,0.4942807
+atmosphere,neg,False,['variability_open'],0.8888888888888888,0.18388997
+stocking,neg,True,"['typical_of_property', 'affording_activity']",0.5555555555555556,0.32981873
+feather,neg,False,"['unusual', 'variability_open']",0.5714285714285714,0.39556596
+head,neg,False,['variability_open'],0.7,0.17630425
+sheepskin,neg,True,"['typical_of_property', 'affording_activity']",0.7777777777777778,0.5372232
+dragon,neg,True,['variability_limited'],0.5714285714285714,0.28929925
+boot,neg,True,['affording_activity'],0.625,0.39266697
+brogue,neg,False,['implied_category'],0.625,0.3573721
+mug,neg,False,['variability_open'],0.7777777777777778,0.36873534
+kettle,neg,True,['affording_activity'],0.7777777777777778,0.35575962
+icicle,neg,False,['impossible'],1.0,0.41802642
+forest,neg,False,['rare'],0.7777777777777778,0.20452023
+surfboard,neg,False,"['unusual', 'rare']",0.625,0.40987545
+feeling,neg,False,['creative'],0.9,0.19059111
+sword,neg,False,['unusual'],0.7777777777777778,0.37347126
+ice,neg,False,['impossible'],1.0,0.2828786
+idea,neg,False,"['creative', 'impossible']",0.8888888888888888,0.19903308
+problem,neg,False,['impossible'],0.875,0.09586232

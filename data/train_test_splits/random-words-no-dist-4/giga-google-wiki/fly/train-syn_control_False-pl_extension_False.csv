@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+seal,pos,False,['impossible'],0.75,0.2373394
+hog,pos,False,['impossible'],0.625,0.29978982
+capsule,pos,True,['variability_limited'],0.6666666666666666,0.25546384
+helicopter,pos,True,['afforded_usual'],1.0,0.4746256
+hawk,pos,True,['afforded_usual'],1.0,0.5029027
+hind,pos,False,['impossible'],0.7142857142857143,0.30011907
+mammal,pos,True,['variability_limited'],0.8571428571428571,0.61629474
+minnow,pos,False,['impossible'],1.0,0.38264194
+shell,pos,False,['impossible'],0.8333333333333334,0.23709217
+arrow,pos,True,['afforded_usual'],0.5714285714285714,0.4384613
+seagull,pos,True,['afforded_usual'],1.0,0.685988
+carrier,pos,False,['creative'],0.8571428571428571,0.22926761
+albatross,pos,True,['afforded_usual'],1.0,0.43432546
+emu,pos,False,"['impossible', 'creative']",0.75,0.4564313
+bogie,pos,False,['impossible'],0.875,0.13144554
+forklift,pos,False,['impossible'],0.8333333333333334,0.20355411
+poacher,pos,False,['impossible'],0.8888888888888888,0.34240755
+woodpecker,pos,True,['afforded_usual'],1.0,0.6334919
+monkey,pos,False,"['creative', 'impossible']",0.75,0.48104003
+lemur,pos,False,"['creative', 'impossible']",0.625,0.55800664
+quail,pos,True,['afforded_usual'],0.6666666666666666,0.5998553
+chinook,pos,True,['afforded_usual'],0.6666666666666666,0.41414872
+sloop,pos,False,['impossible'],0.6666666666666666,0.31367093
+butterfly,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.5320281
+stallion,pos,False,"['creative', 'impossible']",0.8888888888888888,0.27835503
+pelican,neg,True,['afforded_usual'],0.75,0.6783921
+van,neg,False,['impossible'],0.8571428571428571,0.2100715
+plane,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.4697583
+helicopter,neg,True,['afforded_usual'],1.0,0.4746256
+twinjet,neg,True,['afforded_usual'],0.8888888888888888,0.31231782
+ass,neg,False,['impossible'],0.875,0.2199138
+boat,neg,False,"['impossible', 'creative']",0.8571428571428571,0.35753998
+forklift,neg,False,['impossible'],0.8333333333333334,0.20355411
+quail,neg,True,['afforded_usual'],0.6666666666666666,0.5998553
+butterfly,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.5320281

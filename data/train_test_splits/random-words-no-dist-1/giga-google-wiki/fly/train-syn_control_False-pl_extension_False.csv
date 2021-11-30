@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+taxi,pos,False,['impossible'],1.0,0.21567914
+tower,pos,False,['impossible'],1.0,0.29128492
+heap,pos,False,['impossible'],0.875,0.122688234
+ferry,pos,False,['impossible'],0.8571428571428571,0.2434468
+gull,pos,True,['afforded_usual'],1.0,0.6935383
+interceptor,pos,False,['impossible'],0.7142857142857143,0.29894334
+duck,pos,True,['afforded_usual'],0.75,0.5719325
+seal,pos,False,['impossible'],0.75,0.2373394
+pigeon,pos,True,['afforded_usual'],1.0,0.6565624
+sausage,pos,False,['impossible'],0.8888888888888888,0.29520938
+arrow,pos,True,['afforded_usual'],0.5714285714285714,0.4384613
+silverback,pos,False,['impossible'],1.0,0.402405
+plane,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.4697583
+stock,pos,False,['impossible'],1.0,0.1447363
+boat,pos,False,"['impossible', 'creative']",0.8571428571428571,0.35753998
+deer,pos,False,['impossible'],1.0,0.5296513
+catfish,pos,False,['impossible'],0.8888888888888888,0.42619786
+puffin,pos,True,['afforded_usual'],1.0,0.6198982
+pheasant,pos,True,['afforded_usual'],0.7142857142857143,0.5719934
+jet,pos,True,['afforded_usual'],1.0,0.42870754
+sky,pos,True,"['typical_of_property', 'afforded_usual']",0.5714285714285714,0.41446564
+forklift,pos,False,['impossible'],0.8333333333333334,0.20355411
+submarine,pos,False,['impossible'],0.8888888888888888,0.34564707
+car,pos,False,['creative'],1.0,0.24417764
+basset,pos,False,"['unusual', 'impossible', 'rare']",0.7142857142857143,0.3868651
+ass,neg,False,['impossible'],0.875,0.2199138
+heap,neg,False,['impossible'],0.875,0.122688234
+crow,neg,True,['afforded_usual'],1.0,0.58019143
+plaice,neg,False,['impossible'],1.0,0.358488
+gull,neg,True,['afforded_usual'],1.0,0.6935383
+bobcat,neg,False,['impossible'],0.7142857142857143,0.5257265
+plane,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.4697583
+deer,neg,False,['impossible'],1.0,0.5296513
+catfish,neg,False,['impossible'],0.8888888888888888,0.42619786
+butterfly,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.5320281

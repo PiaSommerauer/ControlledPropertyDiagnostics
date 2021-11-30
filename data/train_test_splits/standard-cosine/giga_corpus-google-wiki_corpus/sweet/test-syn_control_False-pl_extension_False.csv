@@ -1,0 +1,62 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+date,pos,True,"['variability_limited', 'typical_of_property']",0.6666666666666666,0.06629818
+jam,pos,True,['affording_activity'],0.8571428571428571,0.22827384
+spud,pos,True,['variability_limited'],0.8571428571428571,0.37851673
+nut,pos,True,['variability_limited'],0.7777777777777778,0.44760954
+cob,pos,True,['variability_limited'],0.5555555555555556,0.457613
+candy,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.4758049
+pie,pos,True,['typical_of_property'],1.0,0.4830922
+donut,pos,True,['affording_activity'],1.0,0.49014267
+groundnut,pos,True,['variability_limited'],0.875,0.49172172
+cookie,pos,True,"['typical_of_property', 'affording_activity', 'variability_limited']",1.0,0.5040099
+flavoring,pos,True,['affording_activity'],0.7142857142857143,0.5100462
+taro,pos,True,['variability_limited'],0.8571428571428571,0.53085744
+flavor,pos,True,"['typical_of_property', 'affording_activity']",0.7777777777777778,0.53938276
+corn,pos,True,['variability_limited'],0.875,0.5423323
+peanut,pos,True,['variability_limited'],0.5555555555555556,0.55072016
+saskatoon,pos,True,['affording_activity'],0.5714285714285714,0.555923
+tangerine,pos,True,['affording_activity'],1.0,0.5646267
+condiment,pos,True,['variability_limited'],0.625,0.5727488
+yoghurt,pos,True,['variability_limited'],0.875,0.5831782
+biscuit,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.588393
+sultana,pos,True,"['variability_limited', 'affording_activity']",0.875,0.59130687
+juice,pos,True,['affording_activity'],1.0,0.59187806
+sugar,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.594489
+walnut,pos,True,['variability_limited'],0.6666666666666666,0.60313225
+puree,pos,True,['variability_limited'],0.625,0.60801774
+currant,pos,True,['variability_limited'],0.875,0.61704594
+tabasco,pos,True,['variability_limited'],0.7142857142857143,0.62888944
+beet,pos,True,['variability_limited'],0.8571428571428571,0.6322858
+dewberry,pos,True,['variability_limited'],0.875,0.6415632
+coconut,pos,True,['variability_limited'],1.0,0.6511517
+banana,pos,True,['variability_limited'],1.0,0.659509
+lychee,pos,True,['affording_activity'],0.7777777777777778,0.66830915
+fennel,pos,True,['variability_limited'],0.5714285714285714,0.6744532
+pomegranate,pos,True,['variability_limited'],1.0,0.6788037
+honey,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.6840574
+onion,pos,True,['variability_limited'],0.875,0.6872852
+emperor,neg,False,"['impossible', 'creative']",0.625,0.09733478
+mast,neg,False,"['impossible', 'unusual']",0.5714285714285714,0.10934065
+pulse,neg,False,"['unusual', 'impossible']",0.5555555555555556,0.13777076
+pip,neg,False,"['unusual', 'rare']",0.625,0.14689301
+pod,neg,False,['rare'],0.625,0.23426738
+sardine,neg,False,['impossible'],0.7142857142857143,0.36614752
+mussel,neg,False,['creative'],0.5555555555555556,0.43650687
+butter,neg,False,"['rare', 'unusual']",0.6666666666666666,0.45718613
+soy,neg,True,['variability_limited'],0.5714285714285714,0.45941612
+cottonseed,neg,False,['impossible'],0.9,0.46469787
+pork,neg,True,['variability_limited'],0.5555555555555556,0.46941066
+scallop,neg,False,['impossible'],0.7777777777777778,0.47832945
+veg,neg,True,['variability_limited'],0.875,0.4829325
+linseed,neg,False,['impossible'],0.6666666666666666,0.49839458
+wintergreen,neg,False,['impossible'],0.6666666666666666,0.5148752
+legume,neg,True,['variability_limited'],0.5555555555555556,0.5239234
+rye,neg,True,['variability_limited'],0.6666666666666666,0.53783387
+rice,neg,True,['variability_limited'],0.5714285714285714,0.56894296
+chipotle,neg,False,"['unusual', 'rare']",0.625,0.5913149
+vinaigrette,neg,False,"['unusual', 'rare', 'creative']",0.625,0.59415096
+olive,neg,True,['variability_limited'],0.5555555555555556,0.5986343
+cheese,neg,False,"['rare', 'unusual']",0.7142857142857143,0.6123587
+lentil,neg,False,['unusual'],0.625,0.61605006
+sorrel,neg,False,"['unusual', 'impossible']",0.7142857142857143,0.6194305
+zucchini,neg,True,['variability_limited'],0.625,0.63576055

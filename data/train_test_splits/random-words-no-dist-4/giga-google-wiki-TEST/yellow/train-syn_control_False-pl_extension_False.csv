@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+gorilla,pos,False,"['impossible', 'unusual']",0.625,0.33566388
+huckleberry,pos,False,['unusual'],0.9,0.5221078
+tire,pos,False,['unusual'],1.0,0.23454033
+water,pos,False,"['rare', 'unusual']",1.0,0.32598725
+cloak,pos,False,['rare'],0.5555555555555556,0.15680355
+chameleon,pos,False,"['rare', 'unusual']",0.7142857142857143,0.2706672
+apple,pos,True,['variability_limited'],0.8571428571428571,0.6787194
+sheep,pos,False,['unusual'],0.875,0.38074136
+carrot,pos,False,['rare'],0.7777777777777778,0.48309362
+sun,pos,True,"['variability_limited', 'typical_of_property']",1.0,0.3592802
+plum,pos,True,['variability_limited'],0.875,0.39833874
+marigold,pos,True,"['typical_of_property', 'variability_limited']",1.0,0.63135695
+berry,pos,False,['unusual'],0.5555555555555556,0.6967838
+bean,pos,False,"['unusual', 'rare']",0.7777777777777778,0.5978436
+orchid,pos,False,['variability_open'],0.75,0.5942502
+brick,pos,False,['unusual'],1.0,0.3081485
+human,pos,False,['unusual'],0.7142857142857143,0.16617398
+cactus,pos,False,"['rare', 'unusual']",0.875,0.5789672
+cannon,pos,False,['unusual'],1.0,0.2726428
+guava,pos,False,['rare'],0.8888888888888888,0.60835975
+vanilla,pos,False,"['rare', 'unusual']",0.5714285714285714,0.4796686
+night,pos,False,['creative'],0.8571428571428571,0.09812018
+pyramid,pos,False,['typical_of_concept'],0.7777777777777778,0.25981033
+grapefruit,pos,True,['variability_limited'],0.875,0.61381644
+piano,pos,False,['unusual'],1.0,0.25131038
+grape,neg,False,"['unusual', 'rare']",0.7777777777777778,0.6403732
+gorilla,neg,False,"['impossible', 'unusual']",0.625,0.33566388
+sun,neg,True,"['variability_limited', 'typical_of_property']",1.0,0.3592802
+calf,neg,False,"['unusual', 'rare']",0.8571428571428571,0.28849176
+marigold,neg,True,"['typical_of_property', 'variability_limited']",1.0,0.63135695
+berry,neg,False,['unusual'],0.5555555555555556,0.6967838
+butter,neg,True,['variability_limited'],0.7142857142857143,0.40282094
+human,neg,False,['unusual'],0.7142857142857143,0.16617398
+cactus,neg,False,"['rare', 'unusual']",0.875,0.5789672
+guava,neg,False,['rare'],0.8888888888888888,0.60835975
+pyramid,neg,False,['typical_of_concept'],0.7777777777777778,0.25981033
+sandpaper,neg,False,['variability_open'],0.5714285714285714,0.3533044

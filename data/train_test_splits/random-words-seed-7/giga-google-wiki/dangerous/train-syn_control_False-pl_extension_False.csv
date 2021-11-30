@@ -1,0 +1,69 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+hijacker,pos,True,['affording_activity'],0.625,0.4200055
+turtle,pos,False,"['unusual', 'rare']",0.8888888888888888,0.37200397
+bolo,pos,True,['affording_activity'],0.7142857142857143,0.5061341
+jack,pos,False,['unusual'],1.0,0.25383776
+alligator,pos,True,['affording_activity'],0.875,0.47624654
+torpedo,pos,True,['affording_activity'],0.875,0.40266666
+racketeer,pos,True,['typical_of_property'],0.6666666666666666,0.3518949
+sword,pos,True,['typical_of_property'],1.0,0.570199
+mallet,pos,False,"['variability_open', 'implied_category']",0.75,0.49895167
+thief,pos,True,"['affording_activity', 'typical_of_property']",0.625,0.46616507
+conspiracy,pos,True,['typical_of_property'],0.6666666666666666,0.2922945
+rabbit,pos,False,['unusual'],0.875,0.42945895
+knife,pos,True,['typical_of_property'],1.0,0.6267747
+gang,pos,True,['affording_activity'],0.875,0.43860132
+shotgun,pos,True,['affording_activity'],1.0,0.5841921
+tiger,pos,True,['affording_activity'],1.0,0.41289717
+henchman,pos,True,"['typical_of_property', 'affording_activity']",0.625,0.44519848
+venom,pos,True,['typical_of_property'],1.0,0.40201533
+hornbill,pos,False,['unusual'],0.8571428571428571,0.35461617
+buckshot,pos,True,['affording_activity'],1.0,0.51906157
+harpoon,pos,True,['affording_activity'],0.875,0.5227922
+conspirator,pos,True,"['affording_activity', 'typical_of_property']",0.5714285714285714,0.3792921
+coyote,pos,True,['affording_activity'],0.8333333333333334,0.46756488
+terrorism,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.31512955
+naproxen,pos,True,['variability_limited'],0.6666666666666666,0.28290483
+traitor,pos,True,['affording_activity'],0.75,0.3599031
+bayonet,pos,True,['affording_activity'],1.0,0.50198185
+firearm,pos,True,['typical_of_property'],0.75,0.6054142
+isoniazid,pos,False,['unusual'],0.8571428571428571,0.2658858
+war,pos,True,['typical_of_property'],1.0,0.2573786
+virus,pos,True,['affording_activity'],1.0,0.2996453
+handgun,pos,True,['affording_activity'],1.0,0.6232992
+bootlegger,pos,True,['variability_limited'],0.625,0.3863879
+goat,pos,False,"['rare', 'unusual']",0.8,0.3485685
+shaft,pos,False,['variability_open'],0.75,0.26956093
+blade,pos,True,"['typical_of_property', 'affording_activity']",0.75,0.43245912
+rod,pos,False,['rare'],0.6666666666666666,0.39304003
+mafioso,pos,True,['affording_activity'],1.0,0.40020186
+punk,neg,False,"['rare', 'variability_open']",0.75,0.23670186
+fire,neg,True,['typical_of_property'],0.7142857142857143,0.3310084
+blunderbuss,neg,True,['affording_activity'],1.0,0.4574907
+nightstick,neg,True,['affording_activity'],0.5714285714285714,0.5218988
+hack,neg,True,"['typical_of_property', 'variability_limited']",0.5714285714285714,0.35186616
+pentobarbital,neg,False,['implied_category'],0.6666666666666666,0.3381256
+sniper,neg,True,['affording_activity'],1.0,0.51015013
+grenade,neg,True,['affording_activity'],1.0,0.5652793
+scalpel,neg,True,['variability_limited'],0.625,0.419115
+hammer,neg,True,['affording_activity'],0.6666666666666666,0.40498966
+bucket,neg,False,"['unusual', 'rare']",1.0,0.28735313
+tuck,neg,False,['creative'],0.5714285714285714,0.19245377
+gutter,neg,False,['unusual'],0.75,0.26720244
+clipper,neg,False,['unusual'],0.75,0.29011098
+crease,neg,False,"['creative', 'impossible']",0.6,0.18007101
+hoe,neg,False,['unusual'],0.75,0.3105072
+iodine,neg,False,['rare'],0.8571428571428571,0.20659047
+buffer,neg,False,['unusual'],0.7142857142857143,0.119261555
+bill,neg,False,['impossible'],0.625,0.1538852
+nursing,neg,False,"['rare', 'unusual']",0.875,0.10847338
+menthol,neg,False,"['creative', 'unusual']",0.625,0.17595948
+opener,neg,False,['rare'],1.0,0.18006541
+bar,neg,False,['unusual'],1.0,0.2365156
+dip,neg,False,"['unusual', 'creative']",0.5555555555555556,0.113751344
+arm,neg,False,['unusual'],0.875,0.29538113
+mop,neg,False,['rare'],1.0,0.19030878
+ointment,neg,False,['unusual'],0.875,0.20071717
+blender,neg,False,['rare'],0.6666666666666666,0.2706907
+laxative,neg,False,['unusual'],1.0,0.23363054
+cure,neg,False,"['rare', 'unusual']",0.6666666666666666,0.17215092

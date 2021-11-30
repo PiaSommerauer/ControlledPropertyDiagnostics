@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+wheel,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.5672695
+glass,pos,True,['variability_limited'],0.5555555555555556,0.49029538
+piston,pos,False,['unusual'],0.7777777777777778,0.5659023
+handrail,pos,False,['unusual'],0.8888888888888888,0.5126548
+plunger,pos,False,['unusual'],0.9,0.56247455
+eyelet,pos,True,['variability_limited'],0.625,0.55707306
+shoe,pos,False,['unusual'],0.875,0.4604292
+pencil,pos,False,['unusual'],0.875,0.43728867
+acrylic,pos,True,['variability_limited'],0.5714285714285714,0.41932523
+tire,pos,True,['typical_of_property'],1.0,0.52169436
+bearing,pos,True,['variability_limited'],0.7142857142857143,0.23795624
+shaft,pos,True,['variability_limited'],0.6666666666666666,0.5431764
+handlebar,pos,True,['variability_limited'],0.5714285714285714,0.59850216
+windshield,pos,False,"['unusual', 'rare']",0.875,0.5484622
+grindstone,pos,False,['implied_category'],0.75,0.26973435
+chock,pos,False,['creative'],0.625,0.2279267
+bolt,pos,False,['afforded_unusual'],0.625,0.55379355
+lever,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.52429765
+pig,pos,False,['afforded_unusual'],1.0,0.32778084
+flywheel,pos,True,['variability_limited'],0.7142857142857143,0.4928941
+pencil,neg,False,['unusual'],0.875,0.43728867
+blade,neg,False,['unusual'],0.75,0.5788013
+manhole,neg,False,['creative'],0.75,0.37638247
+pig,neg,False,['afforded_unusual'],1.0,0.32778084
+pipe,neg,False,['afforded_unusual'],0.8571428571428571,0.5199605
+eyelet,neg,True,['variability_limited'],0.625,0.55707306
+shaft,neg,True,['variability_limited'],0.6666666666666666,0.5431764
+marble,neg,True,"['afforded_usual', 'variability_limited']",0.625,0.3667297
+windshield,neg,False,"['unusual', 'rare']",0.875,0.5484622
+bolt,neg,False,['afforded_unusual'],0.625,0.55379355
+bearing,neg,True,['variability_limited'],0.7142857142857143,0.23795624
+brick,neg,False,"['creative', 'unusual', 'rare']",0.625,0.3397937
+brake,neg,False,['impossible'],1.0,0.545015

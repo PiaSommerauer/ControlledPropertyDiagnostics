@@ -1,0 +1,63 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+garlic,pos,True,"['variability_limited', 'affording_activity']",1.0,0.7352823
+screwdriver,pos,False,['impossible'],0.75,0.33045936
+slicer,pos,True,['variability_limited'],0.75,0.54448456
+cucumber,pos,True,"['affording_activity', 'variability_limited']",0.875,0.70763487
+gavel,pos,False,['unusual'],0.5555555555555556,0.09951185
+marinade,pos,True,"['affording_activity', 'variability_limited']",1.0,0.6703208
+stylus,pos,False,['unusual'],0.75,0.24169926
+drill,pos,False,['unusual'],0.625,0.113733836
+chicken,pos,True,['variability_limited'],0.9,0.65840346
+bean,pos,True,['affording_activity'],0.8333333333333334,0.5956325
+scraper,pos,True,['variability_limited'],0.5555555555555556,0.31407127
+clipper,pos,False,['impossible'],0.75,0.24291039
+trowel,pos,False,['unusual'],0.6666666666666666,0.41905615
+bread,pos,True,['affording_activity'],0.875,0.5783786
+dough,pos,True,['affording_activity'],1.0,0.59306943
+bevel,pos,False,"['unusual', 'impossible']",0.5555555555555556,0.3357749
+jigsaw,pos,False,['impossible'],1.0,0.16218264
+jackknife,pos,False,['impossible'],0.625,0.295274
+oven,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5430124
+spade,pos,False,"['rare', 'unusual']",0.625,0.26407146
+steak,pos,True,['variability_limited'],1.0,0.6297612
+microwave,pos,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.46703276
+pounder,pos,True,"['affording_activity', 'variability_limited']",0.7777777777777778,0.24001628
+carrot,pos,True,['affording_activity'],1.0,0.4629849
+hacksaw,pos,False,['impossible'],0.6666666666666666,0.29339457
+radish,pos,True,"['variability_limited', 'affording_activity']",1.0,0.67750776
+violin,pos,False,['impossible'],1.0,0.25117236
+sickle,pos,False,['unusual'],0.8888888888888888,0.24651216
+shaver,pos,False,"['unusual', 'impossible']",0.5714285714285714,0.26462132
+scythe,pos,False,['impossible'],0.9,0.20576057
+pimento,pos,True,['variability_limited'],0.7777777777777778,0.71960694
+burr,pos,False,['creative'],0.5555555555555556,0.29183316
+confit,pos,True,['affording_activity'],0.875,0.66392267
+noodle,pos,True,"['affording_activity', 'variability_limited']",1.0,0.5865345
+asparagus,pos,True,"['affording_activity', 'variability_limited']",1.0,0.7458159
+cabbage,pos,True,"['affording_activity', 'variability_limited']",1.0,0.72226894
+pineapple,pos,True,['variability_limited'],1.0,0.64701873
+almond,pos,True,['variability_limited'],1.0,0.5723453
+sausage,pos,True,"['variability_limited', 'affording_activity']",1.0,0.6252361
+toaster,pos,True,['affording_activity'],0.8888888888888888,0.3921522
+gang,neg,False,['impossible'],0.8888888888888888,0.0671308
+stylus,neg,False,['unusual'],0.75,0.24169926
+mayonnaise,neg,True,['affording_activity'],1.0,0.7176897
+cucumber,neg,True,"['affording_activity', 'variability_limited']",0.875,0.70763487
+scythe,neg,False,['impossible'],0.9,0.20576057
+drill,neg,False,['unusual'],0.625,0.113733836
+confit,neg,True,['affording_activity'],0.875,0.66392267
+trowel,neg,False,['unusual'],0.6666666666666666,0.41905615
+pastry,neg,True,['affording_activity'],0.8333333333333334,0.6744901
+mushroom,neg,True,"['affording_activity', 'variability_limited']",0.7777777777777778,0.56099576
+aubergine,neg,True,['affording_activity'],1.0,0.59714806
+cutlery,neg,True,['affording_activity'],0.7777777777777778,0.39621678
+steak,neg,True,['variability_limited'],1.0,0.6297612
+shaver,neg,False,"['unusual', 'impossible']",0.5714285714285714,0.26462132
+hoe,neg,False,['unusual'],0.8571428571428571,0.31463543
+apron,neg,True,['affording_activity'],0.875,0.36871204
+corn,neg,True,"['affording_activity', 'variability_limited']",1.0,0.49787173
+pimento,neg,True,['variability_limited'],0.7777777777777778,0.71960694
+slaw,neg,True,"['variability_limited', 'affording_activity']",1.0,0.6819473
+pounder,neg,True,"['affording_activity', 'variability_limited']",0.7777777777777778,0.24001628
+prawn,neg,True,['variability_limited'],1.0,0.568131
+scraper,neg,True,['variability_limited'],0.5555555555555556,0.31407127

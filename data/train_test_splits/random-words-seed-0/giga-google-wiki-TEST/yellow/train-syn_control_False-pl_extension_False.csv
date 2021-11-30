@@ -1,0 +1,69 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+radish,pos,False,['unusual'],0.6666666666666666,0.6654802
+guava,pos,False,['rare'],0.8888888888888888,0.60835975
+nectarine,pos,True,['variability_limited'],0.75,0.6368363
+banana,pos,True,['variability_limited'],0.9,0.6403897
+lemon,pos,True,['typical_of_property'],1.0,0.6242678
+spinach,pos,False,['unusual'],0.875,0.52412635
+sunflower,pos,True,['typical_of_property'],0.875,0.6319959
+marigold,pos,True,"['typical_of_property', 'variability_limited']",1.0,0.63135695
+cider,pos,True,['variability_limited'],0.7142857142857143,0.48440745
+corn,pos,True,['typical_of_property'],1.0,0.50636154
+garlic,pos,False,['unusual'],0.75,0.57949436
+flower,pos,True,['typical_of_property'],0.6666666666666666,0.6844545
+allspice,pos,False,['unusual'],0.7777777777777778,0.453802
+tomato,pos,False,['rare'],0.875,0.67435014
+daisy,pos,True,['variability_limited'],0.8571428571428571,0.6083796
+vanilla,pos,False,"['rare', 'unusual']",0.5714285714285714,0.4796686
+daffodil,pos,True,['variability_limited'],0.875,0.5845071
+vegetable,pos,False,['rare'],0.7142857142857143,0.5687152
+football,pos,False,['unusual'],0.7777777777777778,0.21264924
+lemongrass,pos,False,['unusual'],1.0,0.5333268
+apple,pos,True,['variability_limited'],0.8571428571428571,0.6787194
+bean,pos,False,"['unusual', 'rare']",0.7777777777777778,0.5978436
+peach,pos,True,['variability_limited'],0.875,0.7087465
+pineapple,pos,True,['variability_limited'],0.75,0.6446127
+butter,pos,True,['variability_limited'],0.7142857142857143,0.40282094
+cheetah,neg,True,['variability_limited'],0.875,0.3277836
+bus,neg,False,['variability_open'],1.0,0.19366477
+mustard,neg,True,['typical_of_property'],0.8888888888888888,0.4912226
+plum,neg,True,['variability_limited'],0.875,0.39833874
+lion,neg,True,['variability_limited'],0.8571428571428571,0.28565127
+corncob,neg,True,"['typical_of_property', 'variability_limited']",0.875,0.49093652
+hornet,neg,True,['variability_limited'],1.0,0.45761687
+yolk,neg,False,['typical_of_concept'],0.875,0.47656408
+locust,neg,True,['variability_limited'],0.875,0.47573277
+sun,neg,True,"['variability_limited', 'typical_of_property']",1.0,0.3592802
+taxi,neg,True,['typical_of_property'],0.7142857142857143,0.23427296
+sandpaper,neg,False,['variability_open'],0.5714285714285714,0.3533044
+paint,neg,False,['variability_open'],0.8571428571428571,0.27776328
+champagne,neg,True,['variability_limited'],0.7777777777777778,0.364284
+huckleberry,neg,False,['unusual'],0.9,0.5221078
+brick,neg,False,['unusual'],1.0,0.3081485
+car,neg,False,['rare'],0.5555555555555556,0.24911427
+frog,neg,False,['rare'],0.7,0.5343546
+emerald,neg,False,['impossible'],0.7,0.43324593
+cactus,neg,False,"['rare', 'unusual']",0.875,0.5789672
+water,neg,False,"['rare', 'unusual']",1.0,0.32598725
+fir,neg,False,['impossible'],0.6666666666666666,0.4072007
+lobster,neg,False,"['unusual', 'rare']",0.7142857142857143,0.44572344
+thundercloud,neg,False,"['impossible', 'unusual']",0.6666666666666666,0.25291455
+seaweed,neg,False,"['rare', 'unusual']",1.0,0.4755748
+eucalyptus,neg,False,['unusual'],0.7142857142857143,0.528816
+jade,neg,False,['unusual'],1.0,0.4156527
+herring,neg,False,['unusual'],0.6666666666666666,0.3726883
+cannon,neg,False,['unusual'],1.0,0.2726428
+tank,neg,False,"['unusual', 'rare']",0.875,0.18245724
+skunk,neg,False,"['impossible', 'unusual']",0.625,0.49498174
+kingfisher,neg,False,['unusual'],0.625,0.4151056
+sheep,neg,False,['unusual'],0.875,0.38074136
+oven,neg,False,['unusual'],1.0,0.2934659
+pecan,neg,False,['unusual'],0.6666666666666666,0.54430676
+cloak,neg,False,['rare'],0.5555555555555556,0.15680355
+truffle,neg,False,['unusual'],0.75,0.53082186
+aubergine,neg,False,['unusual'],0.6666666666666666,0.5345868
+jean,neg,False,"['rare', 'unusual']",0.8888888888888888,0.27129307
+millipede,neg,False,"['unusual', 'rare']",0.7142857142857143,0.40906465
+alligator,neg,False,['unusual'],0.625,0.36724773
+fox,neg,False,"['rare', 'unusual']",0.75,0.40346876
+chameleon,neg,False,"['rare', 'unusual']",0.7142857142857143,0.2706672

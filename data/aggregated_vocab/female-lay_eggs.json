@@ -1,0 +1,1776 @@
+{
+    "granddaughter": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "soprano": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "actress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "bride": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "headmistress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "governess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "madam": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "showgirl": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "mare": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "coquette": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "dowager": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "nymph": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "grandma": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "handmaid": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "witch": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "chambermaid": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "lady": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "handmaiden": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "goddess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "countess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "woman": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "temptress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "amazon": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "stepmother": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "princess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "mistress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "heroine": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "peri": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "ballerina": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "mrs": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "mother": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "mum": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "masseuse": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "ram": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "driver": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "king": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "stepfather": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "pirate": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "gentleman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "inmate": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "hermit": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "master": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "novice": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "surveyor": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "trafficker": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "grandfather": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "monastic": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "bondsman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "batman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "waiter": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "christ": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "boy": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "baritone": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "junior": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "lion": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "superman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "settler": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "federalist": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "fisherman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "friar": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "diplomat": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "liberal": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "monk": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "hero": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "groom": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "manager": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "mister": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "prisoner": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "newcomer": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "imposter": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "adventurer": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "psychologist": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "poet": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "brother": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "businessman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "neurobiologist": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "hematologist": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "headmaster": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "patriarch": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "valet": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "sculptor": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "paterfamilias": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "pioneer": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "duke": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "socialite": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "lad": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "scorer": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "man": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "original",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    },
+    "senator": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": false,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        },
+        "source": "extension",
+        "model_vocabs": [
+            "giga",
+            "wiki_full",
+            "googlenews",
+            "giga_corpus",
+            "wiki_corpus"
+        ]
+    }
+}

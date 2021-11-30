@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+heating,pos,False,['impossible'],0.75,0.31259853
+winter,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3214373
+outfit,pos,False,['unusual'],0.875,0.13897468
+atmosphere,pos,False,['variability_open'],0.7,0.27865383
+sky,pos,False,['variability_open'],0.75,0.33310235
+jungle,pos,False,['unusual'],0.8888888888888888,0.24244529
+casserole,pos,False,['variability_open'],0.8,0.56065506
+toaster,pos,False,['variability_open'],0.5555555555555556,0.49002755
+snow,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.48774394
+cheesecloth,pos,False,['unusual'],0.6,0.498847
+heat,pos,False,['impossible'],0.9,0.32336172
+flame,pos,False,['impossible'],0.9,0.300354
+glass,pos,False,['variability_open'],0.7,0.5407915
+hair,pos,False,['variability_open'],0.875,0.4002852
+drink,pos,True,['affording_activity'],0.5555555555555556,0.46436617
+vapor,pos,False,['variability_open'],0.625,0.4075316
+surface,pos,False,['variability_open'],0.75,0.37312713
+toilet,pos,False,['variability_open'],0.7,0.46059996
+mug,pos,False,['variability_open'],0.75,0.43829343
+juice,pos,False,"['variability_open', 'implied_category']",0.5454545454545454,0.46833315
+oven,pos,False,['variability_open'],0.5555555555555556,0.5755857
+shelf,pos,False,['variability_open'],0.6,0.3398007
+fireplace,pos,False,['variability_open'],0.875,0.47117448
+eggshell,pos,False,['variability_open'],0.7777777777777778,0.49246615
+quesadilla,pos,False,"['unusual', 'rare']",0.75,0.42467898
+ice,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.55514586
+shoe,pos,False,"['unusual', 'variability_open']",0.625,0.36852923
+heating,neg,False,['impossible'],0.75,0.31259853
+atmosphere,neg,False,['variability_open'],0.7,0.27865383
+glass,neg,False,['variability_open'],0.7,0.5407915
+casserole,neg,False,['variability_open'],0.8,0.56065506
+soup,neg,False,['variability_open'],0.7272727272727273,0.5774629
+dust,neg,False,['unusual'],0.7142857142857143,0.36956137
+lip,neg,False,['unusual'],0.8,0.30891275
+can,neg,False,['variability_open'],0.7777777777777778,0.21809144
+finger,neg,False,['variability_open'],0.625,0.29839963
+juice,neg,False,"['variability_open', 'implied_category']",0.5454545454545454,0.46833315

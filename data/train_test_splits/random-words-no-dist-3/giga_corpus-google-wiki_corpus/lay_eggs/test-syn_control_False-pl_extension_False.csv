@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+pachyderm,pos,False,['impossible'],0.8571428571428571,0.38527688
+whiff,pos,False,['impossible'],0.7777777777777778,0.13868503
+collie,pos,False,['impossible'],0.8888888888888888,0.33622438
+muskrat,pos,False,['impossible'],0.7142857142857143,0.5818912
+hen,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.5474571
+albatross,pos,True,['afforded_usual'],0.875,0.41030174
+hobby,pos,False,"['unusual', 'impossible']",0.5714285714285714,0.21053939
+equine,pos,False,['impossible'],1.0,0.224331
+drum,pos,False,['impossible'],1.0,0.1825706
+mankind,pos,False,['impossible'],0.875,0.1317909
+giraffe,pos,False,['impossible'],0.875,0.47149017
+hack,pos,False,['impossible'],0.875,0.09834061
+cock,pos,False,['impossible'],0.7777777777777778,0.42466602
+chicken,neg,True,"['typical_of_property', 'afforded_usual']",1.0,0.5377945
+whale,neg,False,['impossible'],0.7777777777777778,0.61364204
+ibex,neg,False,['impossible'],0.75,0.456332
+sardine,neg,True,['afforded_usual'],1.0,0.5063383
+bulldog,neg,False,['impossible'],0.8888888888888888,0.29957926
+hen,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.5474571
+collie,neg,False,['impossible'],0.8888888888888888,0.33622438
+bass,neg,True,['afforded_usual'],0.625,0.49731264
+giraffe,neg,False,['impossible'],0.875,0.47149017
+armadillo,neg,False,['impossible'],1.0,0.46425775
+merino,neg,False,['impossible'],1.0,0.26755255
+muskrat,neg,False,['impossible'],0.7142857142857143,0.5818912
+platypus,neg,True,['afforded_usual'],0.7142857142857143,0.47372994
+drum,neg,False,['impossible'],1.0,0.1825706
+hind,neg,False,['impossible'],0.6,0.35952458
+egret,neg,True,['afforded_usual'],0.8888888888888888,0.66434276
+cock,neg,False,['impossible'],0.7777777777777778,0.42466602
+equine,neg,False,['impossible'],1.0,0.224331
+whiff,neg,False,['impossible'],0.7777777777777778,0.13868503
+cob,neg,False,['impossible'],0.75,0.3204153
+bonobo,neg,False,['impossible'],0.8571428571428571,0.41201168
+hobby,neg,False,"['unusual', 'impossible']",0.5714285714285714,0.21053939

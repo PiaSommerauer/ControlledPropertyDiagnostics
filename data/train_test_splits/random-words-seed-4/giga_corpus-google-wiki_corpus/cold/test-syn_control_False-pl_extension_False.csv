@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+water,pos,True,['affording_activity'],0.875,0.49820596
+tortilla,pos,False,['variability_open'],0.7,0.46473455
+basement,pos,False,['variability_open'],0.875,0.39477068
+fire,pos,False,['impossible'],1.0,0.21892853
+shelf,pos,False,['variability_open'],0.6,0.3398007
+skin,pos,False,['variability_open'],0.8888888888888888,0.41000655
+toaster,pos,False,['variability_open'],0.5555555555555556,0.49002755
+snow,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.48774394
+freezer,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.53617513
+eggshell,pos,False,['variability_open'],0.7777777777777778,0.49246615
+ice,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.55514586
+tea,pos,False,['variability_open'],0.8571428571428571,0.38450262
+icicle,pos,True,"['affording_activity', 'typical_of_property']",0.9090909090909091,0.5492279
+fridge,pos,True,['affording_activity'],1.0,0.5868425
+dogwood,pos,False,['variability_open'],0.875,0.36128998
+mud,pos,False,['variability_open'],0.875,0.47788167
+tummy,pos,False,['unusual'],0.8181818181818182,0.45036706
+surface,pos,False,['variability_open'],0.75,0.37312713
+soda,pos,True,['typical_of_property'],0.8571428571428571,0.5202148
+fireplace,pos,False,['variability_open'],0.875,0.47117448
+drink,pos,True,['affording_activity'],0.5555555555555556,0.46436617
+berry,pos,False,['variability_open'],0.6666666666666666,0.49565363
+lightning,pos,False,['impossible'],1.0,0.23010184
+glass,pos,False,['variability_open'],0.7,0.5407915
+permafrost,pos,True,['affording_activity'],1.0,0.37721232
+oven,pos,False,['variability_open'],0.5555555555555556,0.5755857
+smoke,pos,False,['impossible'],0.6,0.33656493
+toe,neg,False,"['variability_open', 'unusual']",0.875,0.31567204
+people,neg,False,['variability_open'],0.6666666666666666,0.16279715
+growler,neg,True,['affording_activity'],0.6666666666666666,0.42755708
+idea,neg,False,['impossible'],0.7,0.22369696
+iceberg,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.2482867
+pie,neg,False,['variability_open'],0.8571428571428571,0.43692863
+finger,neg,False,['variability_open'],0.625,0.29839963
+nose,neg,False,"['variability_open', 'rare', 'unusual']",0.75,0.39986378
+jungle,neg,False,['unusual'],0.8888888888888888,0.24244529
+outfit,neg,False,['unusual'],0.875,0.13897468

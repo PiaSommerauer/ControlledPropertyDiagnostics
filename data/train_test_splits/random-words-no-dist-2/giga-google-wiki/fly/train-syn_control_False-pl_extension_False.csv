@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+fowl,pos,True,['variability_limited'],0.5714285714285714,0.5403323
+stork,pos,True,['afforded_usual'],1.0,0.5798848
+seal,pos,False,['impossible'],0.75,0.2373394
+duck,pos,True,['afforded_usual'],0.75,0.5719325
+woodpecker,pos,True,['afforded_usual'],1.0,0.6334919
+albatross,pos,True,['afforded_usual'],1.0,0.43432546
+saloon,pos,False,['impossible'],0.875,0.17551063
+trailer,pos,False,['impossible'],0.75,0.19587964
+robin,pos,True,['afforded_usual'],1.0,0.69409066
+chick,pos,False,['impossible'],0.6666666666666666,0.51037395
+boat,pos,False,"['impossible', 'creative']",0.8571428571428571,0.35753998
+bream,pos,False,['impossible'],1.0,0.36361355
+quail,pos,True,['afforded_usual'],0.6666666666666666,0.5998553
+sky,pos,True,"['typical_of_property', 'afforded_usual']",0.5714285714285714,0.41446564
+ostrich,pos,False,['impossible'],1.0,0.41866797
+tractor,pos,False,['impossible'],0.8888888888888888,0.25298995
+toy,pos,True,['variability_limited'],1.0,0.2851564
+buffalo,pos,False,['impossible'],1.0,0.5101844
+poacher,pos,False,['impossible'],0.8888888888888888,0.34240755
+pelican,pos,True,['afforded_usual'],0.75,0.6783921
+truck,pos,False,['impossible'],0.8888888888888888,0.2373268
+crow,pos,True,['afforded_usual'],1.0,0.58019143
+craft,pos,True,['variability_limited'],0.625,0.36363137
+steamer,pos,False,['impossible'],0.8888888888888888,0.25998306
+minesweeper,pos,False,['impossible'],1.0,0.305722
+seal,neg,False,['impossible'],0.75,0.2373394
+woodpecker,neg,True,['afforded_usual'],1.0,0.6334919
+albatross,neg,True,['afforded_usual'],1.0,0.43432546
+boat,neg,False,"['impossible', 'creative']",0.8571428571428571,0.35753998
+jet,neg,True,['afforded_usual'],1.0,0.42870754
+ounce,neg,False,['impossible'],0.7777777777777778,0.15884358
+sky,neg,True,"['typical_of_property', 'afforded_usual']",0.5714285714285714,0.41446564
+tractor,neg,False,['impossible'],0.8888888888888888,0.25298995
+catfish,neg,False,['impossible'],0.8888888888888888,0.42619786
+toy,neg,True,['variability_limited'],1.0,0.2851564

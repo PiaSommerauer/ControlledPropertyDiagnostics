@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bottle,pos,False,['implied_category'],0.8571428571428571,0.48746595
+windshield,pos,False,"['unusual', 'rare']",0.875,0.55287534
+propeller,pos,True,['variability_limited'],0.7142857142857143,0.5811537
+skateboard,pos,True,['afforded_usual'],0.7142857142857143,0.41997814
+handlebar,pos,True,['variability_limited'],0.5714285714285714,0.5860211
+brick,pos,False,"['creative', 'unusual', 'rare']",0.625,0.3497493
+brake,pos,False,['impossible'],1.0,0.5420535
+wheel,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.5646348
+tire,pos,True,['typical_of_property'],1.0,0.5213456
+cylinder,pos,True,['typical_of_property'],0.75,0.62507945
+bolt,pos,False,['afforded_unusual'],0.625,0.5538602
+blade,pos,False,['unusual'],0.75,0.5738746
+gearshift,pos,False,['rare'],0.8333333333333334,0.5576992
+glass,pos,True,['variability_limited'],0.5555555555555556,0.49914417
+driveshaft,pos,False,['unusual'],0.7142857142857143,0.5084131
+shaft,pos,True,['variability_limited'],0.6666666666666666,0.53998077
+dowel,pos,False,['implied_category'],0.7142857142857143,0.6035735
+leather,pos,False,"['unusual', 'rare']",0.6666666666666666,0.4317971
+washer,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5833144
+chimney,pos,False,['unusual'],0.75,0.45253792
+projectile,neg,False,['unusual'],0.6666666666666666,0.4091375
+pig,neg,False,['afforded_unusual'],1.0,0.32827947
+ball,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.37178212
+windowpane,neg,False,['impossible'],0.5714285714285714,0.42124844
+nut,neg,True,['variability_limited'],0.7777777777777778,0.40933654
+shoe,neg,False,['unusual'],0.875,0.45693544
+cart,neg,True,['variability_limited'],0.625,0.45323122
+bumper,neg,False,['unusual'],0.8888888888888888,0.403807
+rail,neg,True,['afforded_usual'],0.9,0.26524115
+shovel,neg,False,['unusual'],0.8333333333333334,0.44609937
+hammer,neg,False,"['rare', 'unusual']",0.7142857142857143,0.35450855
+bucket,neg,False,['afforded_unusual'],1.0,0.48687991
+flywheel,neg,True,['variability_limited'],0.7142857142857143,0.485367

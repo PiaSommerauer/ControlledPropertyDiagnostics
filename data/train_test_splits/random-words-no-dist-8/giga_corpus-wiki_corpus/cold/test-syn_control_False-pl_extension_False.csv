@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+hatred,pos,False,['creative'],0.8888888888888888,0.18772677
+fridge,pos,True,['affording_activity'],1.0,0.5868425
+milk,pos,False,['variability_open'],1.0,0.4553908
+candle,pos,False,['variability_open'],0.75,0.44350854
+pavement,pos,False,['variability_open'],0.9,0.47636905
+foam,pos,False,['variability_open'],0.625,0.5099515
+berry,pos,False,['variability_open'],0.6666666666666666,0.49565363
+basement,pos,False,['variability_open'],0.875,0.39477068
+river,pos,False,['typical_of_concept'],0.7777777777777778,0.36006382
+winter,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3214373
+snowdrift,pos,True,"['affording_activity', 'typical_of_property']",0.8181818181818182,0.44572055
+balloon,pos,False,['variability_open'],0.75,0.3913312
+soda,pos,True,['typical_of_property'],0.8571428571428571,0.5202148
+summertime,pos,False,['rare'],1.0,0.35038903
+fireplace,pos,False,['variability_open'],0.875,0.47117448
+freezer,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.53617513
+dust,pos,False,['unusual'],0.7142857142857143,0.36956137
+sawdust,pos,False,"['rare', 'unusual']",0.5555555555555556,0.4879071
+atmosphere,pos,False,['variability_open'],0.7,0.27865383
+slime,pos,False,['variability_open'],0.7777777777777778,0.42016736
+toe,pos,False,"['variability_open', 'unusual']",0.875,0.31567204
+bathtub,pos,False,['variability_open'],0.875,0.5535053
+toilet,pos,False,['variability_open'],0.7,0.46059996
+lemonade,pos,False,['variability_open'],0.875,0.49157587
+idea,pos,False,['impossible'],0.7,0.22369696
+skin,pos,False,['variability_open'],0.8888888888888888,0.41000655
+cake,pos,False,['variability_open'],1.0,0.5431257
+slime,neg,False,['variability_open'],0.7777777777777778,0.42016736
+icicle,neg,True,"['affording_activity', 'typical_of_property']",0.9090909090909091,0.5492279
+milk,neg,False,['variability_open'],1.0,0.4553908
+tea,neg,False,['variability_open'],0.8571428571428571,0.38450262
+tortilla,neg,False,['variability_open'],0.7,0.46473455
+lip,neg,False,['unusual'],0.8,0.30891275
+coffee,neg,False,['variability_open'],0.7777777777777778,0.47201458
+water,neg,True,['affording_activity'],0.875,0.49820596
+mug,neg,False,['variability_open'],0.75,0.43829343
+winter,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.3214373

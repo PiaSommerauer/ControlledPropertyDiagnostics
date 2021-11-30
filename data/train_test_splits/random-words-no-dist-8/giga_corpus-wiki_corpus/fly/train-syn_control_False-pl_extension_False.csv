@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+grouper,pos,False,['impossible'],0.75,0.400736
+ass,pos,False,['impossible'],0.875,0.22526336
+amberjack,pos,False,['impossible'],0.7142857142857143,0.3981407
+skimmer,pos,False,['creative'],0.625,0.3141136
+bomber,pos,True,['afforded_usual'],0.7777777777777778,0.36306897
+whistler,pos,False,['impossible'],0.6666666666666666,0.27822843
+submarine,pos,False,['impossible'],0.8888888888888888,0.340479
+monkey,pos,False,"['creative', 'impossible']",0.75,0.48784816
+fowl,pos,True,['variability_limited'],0.5714285714285714,0.54403377
+sky,pos,True,"['typical_of_property', 'afforded_usual']",0.5714285714285714,0.4148786
+sloop,pos,False,['impossible'],0.6666666666666666,0.3112522
+nightingale,pos,True,['afforded_usual'],1.0,0.52174485
+hog,pos,False,['impossible'],0.625,0.3067673
+boat,pos,False,"['impossible', 'creative']",0.8571428571428571,0.3505006
+car,pos,False,['creative'],1.0,0.24527834
+ostrich,pos,False,['impossible'],1.0,0.4188289
+flicker,pos,True,['afforded_usual'],0.625,0.26367196
+shark,pos,False,['impossible'],1.0,0.4913865
+barnacle,pos,False,['impossible'],1.0,0.40031123
+pelican,pos,True,['afforded_usual'],0.75,0.67842084
+lorry,pos,False,"['creative', 'impossible']",1.0,0.22363771
+seal,pos,False,['impossible'],0.75,0.2330038
+titi,pos,False,['impossible'],0.625,0.45781165
+heap,pos,False,['impossible'],0.875,0.12456575
+gnu,pos,False,['impossible'],1.0,0.30314764
+groundhog,pos,False,['impossible'],0.9,0.47361478
+fowl,neg,True,['variability_limited'],0.5714285714285714,0.54403377
+sky,neg,True,"['typical_of_property', 'afforded_usual']",0.5714285714285714,0.4148786
+nightingale,neg,True,['afforded_usual'],1.0,0.52174485
+junk,neg,False,"['impossible', 'creative']",0.75,0.19936004
+buffalo,neg,False,['impossible'],1.0,0.50874585
+toy,neg,True,['variability_limited'],1.0,0.2840915
+machine,neg,True,['variability_limited'],1.0,0.20725827
+lemur,neg,False,"['creative', 'impossible']",0.625,0.5611925
+groundhog,neg,False,['impossible'],0.9,0.47361478

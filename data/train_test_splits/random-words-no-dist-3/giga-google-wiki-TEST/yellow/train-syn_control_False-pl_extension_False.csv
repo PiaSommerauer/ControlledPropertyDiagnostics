@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+daisy,pos,True,['variability_limited'],0.8571428571428571,0.6083796
+milk,pos,False,['unusual'],0.8571428571428571,0.45035923
+mamey,pos,False,"['rare', 'unusual']",0.625,0.61913466
+bean,pos,False,"['unusual', 'rare']",0.7777777777777778,0.5978436
+locust,pos,True,['variability_limited'],0.875,0.47573277
+paint,pos,False,['variability_open'],0.8571428571428571,0.27776328
+skunk,pos,False,"['impossible', 'unusual']",0.625,0.49498174
+cactus,pos,False,"['rare', 'unusual']",0.875,0.5789672
+marigold,pos,True,"['typical_of_property', 'variability_limited']",1.0,0.63135695
+bus,pos,False,['variability_open'],1.0,0.19366477
+clarinet,pos,False,['rare'],0.6666666666666666,0.24389845
+apple,pos,True,['variability_limited'],0.8571428571428571,0.6787194
+dandelion,pos,True,['typical_of_property'],0.7777777777777778,0.67545027
+tomato,pos,False,['rare'],0.875,0.67435014
+hornet,pos,True,['variability_limited'],1.0,0.45761687
+plum,pos,True,['variability_limited'],0.875,0.39833874
+banana,pos,True,['variability_limited'],0.9,0.6403897
+sandpaper,pos,False,['variability_open'],0.5714285714285714,0.3533044
+guava,pos,False,['rare'],0.8888888888888888,0.60835975
+huckleberry,pos,False,['unusual'],0.9,0.5221078
+walnut,pos,False,"['unusual', 'creative', 'rare']",0.7142857142857143,0.5478684
+pineapple,pos,True,['variability_limited'],0.75,0.6446127
+sheep,pos,False,['unusual'],0.875,0.38074136
+night,pos,False,['creative'],0.8571428571428571,0.09812018
+grape,pos,False,"['unusual', 'rare']",0.7777777777777778,0.6403732
+daisy,neg,True,['variability_limited'],0.8571428571428571,0.6083796
+alligator,neg,False,['unusual'],0.625,0.36724773
+lemonade,neg,True,"['variability_limited', 'typical_of_property']",0.625,0.49409065
+cactus,neg,False,"['rare', 'unusual']",0.875,0.5789672
+bus,neg,False,['variability_open'],1.0,0.19366477
+cheetah,neg,True,['variability_limited'],0.875,0.3277836
+apple,neg,True,['variability_limited'],0.8571428571428571,0.6787194
+dandelion,neg,True,['typical_of_property'],0.7777777777777778,0.67545027
+tomato,neg,False,['rare'],0.875,0.67435014
+hornet,neg,True,['variability_limited'],1.0,0.45761687
+human,neg,False,['unusual'],0.7142857142857143,0.16617398
+pineapple,neg,True,['variability_limited'],0.75,0.6446127

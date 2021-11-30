@@ -1,0 +1,40 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+cloak,pos,False,['rare'],0.5555555555555556,0.16660812
+vanilla,pos,False,"['rare', 'unusual']",0.5714285714285714,0.4690292
+oven,pos,False,['unusual'],1.0,0.29887044
+grape,pos,False,"['unusual', 'rare']",0.7777777777777778,0.63169456
+brick,pos,False,['unusual'],1.0,0.31149665
+lobster,pos,False,"['unusual', 'rare']",0.7142857142857143,0.45030096
+cannon,pos,False,['unusual'],1.0,0.2748222
+chive,pos,False,"['unusual', 'rare']",0.8571428571428571,0.59015566
+piano,pos,False,['unusual'],1.0,0.26231954
+pyramid,pos,False,['typical_of_concept'],0.7777777777777778,0.26590508
+gherkin,pos,False,['unusual'],0.7777777777777778,0.5397427
+cider,pos,True,['variability_limited'],0.7142857142857143,0.47916165
+berry,pos,False,['unusual'],0.5555555555555556,0.6888302
+pineapple,pos,True,['variability_limited'],0.75,0.63665736
+lemongrass,pos,False,['unusual'],1.0,0.5256253
+cherry,pos,False,['rare'],0.75,0.4790368
+spinach,pos,False,['unusual'],0.875,0.5154232
+yolk,pos,False,['typical_of_concept'],0.875,0.4783442
+beer,pos,True,['variability_limited'],1.0,0.41979638
+cheese,pos,True,['variability_limited'],0.8888888888888888,0.5263451
+clarinet,pos,False,['rare'],0.6666666666666666,0.25229925
+orchid,pos,False,['variability_open'],0.75,0.59779924
+water,pos,False,"['rare', 'unusual']",1.0,0.32388514
+miner,pos,False,['creative'],0.7777777777777778,0.16657256
+butter,pos,True,['variability_limited'],0.7142857142857143,0.39719942
+sandpaper,pos,False,['variability_open'],0.5714285714285714,0.3555915
+tire,neg,False,['unusual'],1.0,0.2316741
+grape,neg,False,"['unusual', 'rare']",0.7777777777777778,0.63169456
+skunk,neg,False,"['impossible', 'unusual']",0.625,0.50510323
+piano,neg,False,['unusual'],1.0,0.26231954
+gherkin,neg,False,['unusual'],0.7777777777777778,0.5397427
+flower,neg,True,['typical_of_property'],0.6666666666666666,0.68211675
+buttercup,neg,False,['typical_of_concept'],0.75,0.581842
+mamey,neg,False,"['rare', 'unusual']",0.625,0.6147125
+syrup,neg,False,['rare'],0.5714285714285714,0.51796615
+lemongrass,neg,False,['unusual'],1.0,0.5256253
+yolk,neg,False,['typical_of_concept'],0.875,0.4783442
+milk,neg,False,['unusual'],0.8571428571428571,0.44723415
+butter,neg,True,['variability_limited'],0.7142857142857143,0.39719942

@@ -1,0 +1,37 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+stagecoach,pos,True,['affording_activity'],0.875,0.49276042
+windshield,pos,False,['impossible'],0.875,0.46897617
+tram,pos,True,['affording_activity'],0.875,0.5244891
+wagon,pos,True,['affording_activity'],1.0,0.6675086
+warship,pos,False,['impossible'],0.7142857142857143,0.2809547
+lorry,pos,True,['affording_activity'],1.0,0.6216436
+scooter,pos,True,['affording_activity'],1.0,0.73185
+axle,pos,True,['affording_activity'],0.75,0.5449375
+garage,pos,True,['variability_limited'],0.625,0.5229987
+carriage,pos,True,['affording_activity'],1.0,0.54425657
+diner,pos,True,['variability_limited'],0.6666666666666666,0.36553776
+vehicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.7091357
+cabriolet,pos,True,['affording_activity'],1.0,0.5154702
+undercarriage,pos,True,['affording_activity'],0.6666666666666666,0.53294516
+minivan,pos,True,['affording_activity'],1.0,0.6648687
+driver,pos,False,['creative'],0.875,0.51448303
+roadster,pos,True,['affording_activity'],0.8571428571428571,0.58136195
+bike,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.65243834
+cart,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5552182
+bicycle,pos,True,['affording_activity'],1.0,0.6394161
+freighter,pos,False,['impossible'],0.625,0.37581208
+snowplow,pos,True,['affording_activity'],0.75,0.57231355
+taxicab,pos,True,['affording_activity'],1.0,0.56581306
+locomotive,pos,True,['affording_activity'],1.0,0.6130605
+frigate,pos,False,['impossible'],0.75,0.2525019
+buggy,pos,True,['affording_activity'],1.0,0.5818664
+battleship,neg,False,['impossible'],0.875,0.2993035
+airplane,neg,True,['affording_activity'],1.0,0.49353716
+stage,neg,True,['variability_limited'],0.6666666666666666,0.12233525
+automobile,neg,True,['affording_activity'],1.0,0.52820355
+luggage,neg,True,['variability_limited'],0.875,0.4450127
+unicycle,neg,True,['affording_activity'],1.0,0.44629517
+pram,neg,True,['affording_activity'],1.0,0.488536
+carrier,neg,True,['affording_activity'],0.75,0.21327722
+rig,neg,True,['affording_activity'],0.5555555555555556,0.3954881
+sidecar,neg,True,['affording_activity'],1.0,0.49719772

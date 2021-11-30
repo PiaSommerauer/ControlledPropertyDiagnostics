@@ -1,0 +1,68 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+arrow,pos,True,['variability_limited'],1.0,0.44595918
+outrigger,pos,True,['variability_limited'],1.0,0.5459735
+sword,pos,True,['variability_limited'],0.5555555555555556,0.46010423
+pen,pos,False,"['unusual', 'rare']",1.0,0.35809365
+footrest,pos,True,['variability_limited'],0.6666666666666666,0.62674916
+fence,pos,True,"['typical_of_property', 'variability_limited']",1.0,0.4080077
+deck,pos,True,['variability_limited'],0.8333333333333334,0.52399206
+rope,pos,False,['impossible'],0.5555555555555556,0.5786298
+wood,pos,True,['typical_of_property'],0.9,0.57139426
+oar,pos,True,['variability_limited'],0.75,0.5658702
+chimney,pos,False,"['impossible', 'unusual']",0.625,0.5216656
+pedal,pos,True,['variability_limited'],0.5714285714285714,0.47012758
+violin,pos,True,['affording_activity'],0.8888888888888888,0.4096238
+bridge,pos,True,['variability_limited'],0.625,0.4021672
+toothpick,pos,True,['variability_limited'],0.8571428571428571,0.5464795
+spear,pos,True,['variability_limited'],1.0,0.42279214
+dowel,pos,True,['variability_limited'],1.0,0.6408563
+washtub,pos,True,['variability_limited'],0.75,0.6164867
+hardboard,pos,True,['affording_activity'],1.0,0.5012156
+floorboard,pos,True,"['variability_limited', 'typical_of_property']",1.0,0.5227216
+bookcase,pos,True,['typical_of_property'],1.0,0.56356764
+trowel,pos,False,['rare'],0.75,0.50781673
+wheelbarrow,pos,True,['variability_limited'],0.7,0.45395967
+truss,pos,True,['variability_limited'],0.6666666666666666,0.56341225
+boat,pos,True,"['typical_of_property', 'variability_limited']",0.6666666666666666,0.48089367
+paddle,pos,True,['variability_limited'],0.75,0.55525875
+girder,pos,True,['variability_limited'],0.6,0.5193885
+corkscrew,pos,True,['variability_limited'],0.75,0.44821623
+windshield,pos,False,"['rare', 'unusual']",0.625,0.45589787
+joist,pos,True,['variability_limited'],0.875,0.5800933
+roof,pos,True,['variability_limited'],0.875,0.4897825
+wheel,pos,True,['variability_limited'],0.625,0.39688227
+kayak,pos,True,['variability_limited'],1.0,0.4769361
+blade,pos,True,['variability_limited'],0.6666666666666666,0.5404827
+plunger,pos,True,['variability_limited'],0.8888888888888888,0.5213945
+spade,pos,True,['variability_limited'],0.875,0.43272543
+cello,pos,True,['affording_activity'],1.0,0.40040916
+rudder,pos,True,['variability_limited'],1.0,0.49997738
+ladle,pos,True,['variability_limited'],1.0,0.49072543
+armrest,pos,True,['variability_limited'],0.625,0.47298405
+broom,pos,True,['variability_limited'],1.0,0.5434433
+soffit,pos,True,['variability_limited'],1.0,0.5577656
+timber,pos,True,['affording_activity'],0.8571428571428571,0.41189563
+window,pos,True,['variability_limited'],0.8571428571428571,0.4234139
+flute,pos,True,['variability_limited'],1.0,0.468685
+rod,pos,True,['variability_limited'],1.0,0.6089633
+knife,pos,True,['variability_limited'],0.5714285714285714,0.43139565
+board,neg,True,['typical_of_property'],0.8571428571428571,0.18675773
+clapboard,neg,True,"['typical_of_property', 'variability_limited', 'affording_activity']",0.8333333333333334,0.42881083
+barrel,neg,True,"['affording_activity', 'variability_limited']",0.875,0.30939263
+bow,neg,True,['variability_limited'],1.0,0.4173739
+clock,neg,True,['variability_limited'],0.75,0.2182257
+plank,neg,True,"['affording_activity', 'typical_of_property']",0.875,0.42881507
+stool,neg,True,['variability_limited'],1.0,0.47908854
+stick,neg,True,['typical_of_property'],0.8571428571428571,0.3558097
+pin,neg,True,['variability_limited'],0.5555555555555556,0.37944457
+ladder,neg,True,['variability_limited'],0.875,0.44476014
+mop,neg,True,['variability_limited'],0.625,0.22655584
+club,neg,False,['typical_of_concept'],0.625,0.18732876
+puppet,neg,True,['variability_limited'],0.75,0.2786948
+rock,neg,False,['impossible'],0.8571428571428571,0.34732038
+deal,neg,False,['creative'],0.5555555555555556,0.06916339
+rail,neg,True,['variability_limited'],0.5714285714285714,0.24851753
+anchor,neg,False,['rare'],0.7777777777777778,0.24329087
+cannon,neg,False,"['impossible', 'unusual']",0.5555555555555556,0.36823305
+date,neg,False,['impossible'],1.0,0.06613561
+saw,neg,False,['unusual'],0.7142857142857143,0.1287859

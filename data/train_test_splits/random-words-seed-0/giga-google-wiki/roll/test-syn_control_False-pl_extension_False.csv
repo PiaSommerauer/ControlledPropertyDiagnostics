@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+leather,pos,False,"['unusual', 'rare']",0.6666666666666666,0.4317971
+plastic,pos,True,['variability_limited'],0.8571428571428571,0.52113134
+brake,pos,False,['impossible'],1.0,0.5420535
+cylinder,pos,True,['typical_of_property'],0.75,0.62507945
+paddle,pos,False,['unusual'],0.8888888888888888,0.4698199
+surfboard,pos,False,"['impossible', 'unusual']",0.7142857142857143,0.4455074
+roller,pos,True,['afforded_usual'],1.0,0.5731565
+blade,pos,False,['unusual'],0.75,0.5738746
+brick,pos,False,"['creative', 'unusual', 'rare']",0.625,0.3497493
+propeller,pos,True,['variability_limited'],0.7142857142857143,0.5811537
+manhole,pos,False,['creative'],0.75,0.38006768
+tire,pos,True,['typical_of_property'],1.0,0.5213456
+lathe,pos,True,['variability_limited'],0.5714285714285714,0.57864237
+kiln,pos,False,"['creative', 'impossible']",0.7142857142857143,0.45303658
+headboard,pos,False,"['unusual', 'creative']",0.7777777777777778,0.5299129
+acrylic,pos,True,['variability_limited'],0.5714285714285714,0.42522267
+glass,pos,True,['variability_limited'],0.5555555555555556,0.49914417
+shoe,pos,False,['unusual'],0.875,0.45693544
+gearshift,pos,False,['rare'],0.8333333333333334,0.5576992
+radiator,pos,False,['afforded_unusual'],0.875,0.6535448
+bearing,neg,True,['variability_limited'],0.7142857142857143,0.239581
+pen,neg,False,['afforded_unusual'],1.0,0.3577229
+rifling,neg,True,['afforded_usual'],0.625,0.20636004
+paint,neg,True,['variability_limited'],0.6666666666666666,0.34653127
+saw,neg,True,['variability_limited'],0.7142857142857143,0.18770774
+ball,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.37178212
+wagon,neg,True,['afforded_usual'],0.7,0.44949603
+pencil,neg,False,['unusual'],0.875,0.43711558
+bumper,neg,False,['unusual'],0.8888888888888888,0.403807
+cart,neg,True,['variability_limited'],0.625,0.45323122
+millstone,neg,True,['afforded_usual'],0.5714285714285714,0.230046
+peg,neg,False,['rare'],0.8571428571428571,0.28497058
+handrail,neg,False,['unusual'],0.8888888888888888,0.5148268

@@ -1,0 +1,63 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+sickle,pos,False,['unusual'],0.8888888888888888,0.24651216
+tortilla,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.620195
+taco,pos,True,"['variability_limited', 'affording_activity']",1.0,0.5293592
+gavel,pos,False,['unusual'],0.5555555555555556,0.09951185
+pestle,pos,True,['affording_activity'],0.875,0.5518869
+cabbage,pos,True,"['affording_activity', 'variability_limited']",1.0,0.72226894
+drill,pos,False,['unusual'],0.625,0.113733836
+lobster,pos,True,['variability_limited'],1.0,0.56189764
+pimento,pos,True,['variability_limited'],0.7777777777777778,0.71960694
+knife,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.39091948
+bread,pos,True,['affording_activity'],0.875,0.5783786
+oven,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5430124
+spanner,pos,False,['unusual'],0.75,0.19107078
+stamp,pos,False,['impossible'],1.0,0.14942694
+flannel,pos,False,['impossible'],0.9,0.33421126
+soup,pos,True,['affording_activity'],1.0,0.72009075
+corkscrew,pos,True,['variability_limited'],0.5714285714285714,0.32050648
+mallet,pos,False,['unusual'],0.625,0.36296487
+flour,pos,True,['typical_of_property'],1.0,0.60481095
+sparrow,pos,False,['unusual'],0.6666666666666666,0.26002344
+pallet,pos,False,['impossible'],0.6666666666666666,0.2881699
+vegetable,pos,True,"['variability_limited', 'affording_activity', 'typical_of_property']",0.875,0.6400325
+chorizo,pos,True,['variability_limited'],1.0,0.6819242
+switchblade,pos,False,"['rare', 'unusual']",0.75,0.31312877
+bur,pos,False,['impossible'],0.6666666666666666,0.24683993
+slicer,pos,True,['variability_limited'],0.75,0.54448456
+rhubarb,pos,True,"['variability_limited', 'affording_activity']",1.0,0.6897571
+chickpea,pos,True,"['affording_activity', 'variability_limited']",1.0,0.55507994
+oregano,pos,True,['variability_limited'],1.0,0.6314334
+rice,pos,True,['affording_activity'],1.0,0.5572981
+microwave,pos,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.46703276
+lentil,pos,True,['affording_activity'],1.0,0.6050384
+bass,pos,True,['variability_limited'],0.8888888888888888,0.2751699
+cheese,pos,True,['variability_limited'],0.875,0.6710985
+trowel,pos,False,['unusual'],0.6666666666666666,0.41905615
+reamer,pos,False,['impossible'],0.8,0.35289267
+spinach,pos,True,['affording_activity'],0.8888888888888888,0.6548663
+pepperoni,pos,True,['affording_activity'],1.0,0.59289014
+comb,pos,False,['unusual'],0.7142857142857143,0.23532692
+beetle,pos,False,"['unusual', 'rare']",0.8888888888888888,0.30224156
+garlic,neg,True,"['variability_limited', 'affording_activity']",1.0,0.7352823
+stamper,neg,False,['impossible'],0.8888888888888888,0.2430239
+slicer,neg,True,['variability_limited'],0.75,0.54448456
+trowel,neg,False,['unusual'],0.6666666666666666,0.41905615
+mayonnaise,neg,True,['affording_activity'],1.0,oov
+clincher,neg,False,['impossible'],0.75,0.13249813
+clipper,neg,False,['impossible'],0.75,0.24291039
+spanner,neg,False,['unusual'],0.75,0.19107078
+pasta,neg,True,"['affording_activity', 'typical_of_property', 'variability_limited']",1.0,0.72113425
+meat,neg,True,"['typical_of_property', 'affording_activity', 'variability_limited']",1.0,0.59371036
+tortilla,neg,True,"['typical_of_property', 'affording_activity']",1.0,0.620195
+beetle,neg,False,"['unusual', 'rare']",0.8888888888888888,0.30224156
+oregano,neg,True,['variability_limited'],1.0,0.6314334
+rhubarb,neg,True,"['variability_limited', 'affording_activity']",1.0,0.6897571
+chorizo,neg,True,['variability_limited'],1.0,0.6819242
+stamp,neg,False,['impossible'],1.0,0.14942694
+vegetable,neg,True,"['variability_limited', 'affording_activity', 'typical_of_property']",0.875,0.6400325
+spinach,neg,True,['affording_activity'],0.8888888888888888,0.6548663
+comb,neg,False,['unusual'],0.7142857142857143,0.23532692
+corn,neg,True,"['affording_activity', 'variability_limited']",1.0,0.49787173
+chainsaw,neg,False,"['unusual', 'rare']",0.6666666666666666,0.25920972
+knife,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.39091948

@@ -1,0 +1,64 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+playroom,pos,True,['variability_limited'],0.8888888888888888,0.5783671
+lavatory,pos,True,['variability_limited'],0.8571428571428571,0.5772631
+bookshelf,pos,True,['variability_limited'],1.0,0.6918318
+pen,pos,False,['unusual'],0.75,0.34567294
+stairwell,pos,True,['variability_limited'],0.7142857142857143,0.5672737
+mainframe,pos,True,['variability_limited'],0.6666666666666666,0.2813683
+footrest,pos,True,['variability_limited'],0.625,0.51172704
+photocopier,pos,True,['variability_limited'],1.0,0.4899182
+screen,pos,True,"['typical_of_property', 'variability_limited']",1.0,0.44077727
+room,pos,True,['affording_activity'],0.7142857142857143,0.6296895
+floor,pos,False,['variability_open'],0.625,0.4486356
+locker,pos,True,['variability_limited'],0.7777777777777778,0.5255543
+sphere,pos,False,['impossible'],1.0,0.19106887
+typewriter,pos,True,['variability_limited'],0.875,0.5224421
+bathroom,pos,True,['variability_limited'],0.625,0.70680636
+apple,pos,False,['unusual'],0.75,0.2266786
+armoire,pos,True,['variability_limited'],1.0,0.65165037
+globe,pos,False,['impossible'],0.7777777777777778,0.113706075
+cubicle,pos,True,"['affording_activity', 'variability_limited', 'typical_of_property']",0.75,0.63504726
+countertop,pos,True,['variability_limited'],0.875,0.62276113
+kitchenette,pos,True,['variability_limited'],0.75,0.60261756
+wallpaper,pos,True,['variability_limited'],0.875,0.51914793
+couch,pos,False,['variability_open'],0.6666666666666666,0.60312796
+computer,pos,True,['variability_limited'],0.625,0.47148263
+foyer,pos,True,['variability_limited'],0.75,0.61455905
+closet,pos,False,['variability_open'],0.625,0.61248285
+file,pos,True,['variability_limited'],0.8888888888888888,0.28237024
+fireplace,pos,True,['variability_limited'],0.5714285714285714,0.6211379
+keypad,pos,True,['variability_limited'],0.7142857142857143,0.49183542
+dresser,pos,True,['variability_limited'],0.5555555555555556,0.6646079
+notebook,pos,True,['variability_limited'],0.6666666666666666,0.45280966
+ball,pos,False,['impossible'],0.75,0.20835797
+washroom,pos,True,['variability_limited'],0.75,0.5234052
+classroom,pos,True,['variability_limited'],1.0,0.47962263
+tortilla,pos,True,['variability_limited'],0.7142857142857143,0.27972335
+hardware,pos,True,['variability_limited'],0.6666666666666666,0.34298027
+cupboard,pos,True,['variability_limited'],0.625,0.5872683
+armrest,pos,True,"['variability_limited', 'affording_activity']",0.6,0.5934158
+drawer,pos,True,['variability_limited'],0.875,0.6265254
+disk,pos,False,['impossible'],0.5714285714285714,0.35872406
+diskette,pos,True,"['variability_limited', 'affording_activity']",0.5555555555555556,0.3294253
+workroom,pos,True,['variability_limited'],0.625,0.5689959
+snack,pos,False,['variability_open'],0.875,0.34780425
+dumbwaiter,pos,True,['variability_limited'],0.625,0.5868574
+kitchen,pos,False,['variability_open'],1.0,0.7152838
+toilet,pos,True,['variability_limited'],0.875,0.55952835
+basement,pos,True,['variability_limited'],0.8571428571428571,0.5886268
+server,pos,True,['variability_limited'],0.5714285714285714,0.40371197
+orange,pos,False,"['unusual', 'rare']",0.8333333333333334,0.19633351
+hallway,pos,True,['variability_limited'],0.7142857142857143,0.6182629
+laptop,pos,True,['variability_limited'],0.5714285714285714,0.5564086
+pantry,pos,True,['variability_limited'],0.5714285714285714,0.4936581
+tart,neg,True,['variability_limited'],0.8333333333333334,0.20526049
+floppy,neg,True,"['variability_limited', 'affording_activity']",0.5714285714285714,0.3506282
+bookmark,neg,False,"['variability_open', 'rare']",0.6,0.33307418
+shelf,neg,True,['affording_activity'],0.75,0.43334824
+luggage,neg,True,['variability_limited'],0.75,0.389885
+rack,neg,True,['variability_limited'],0.8888888888888888,0.4514841
+parlor,neg,True,['variability_limited'],0.875,0.41938272
+page,neg,True,['variability_limited'],0.625,0.30965889
+mug,neg,False,"['rare', 'unusual']",1.0,0.3553411
+tape,neg,True,['variability_limited'],0.75,0.29531488
+wheel,neg,False,['impossible'],1.0,0.2907561

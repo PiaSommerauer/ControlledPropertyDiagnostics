@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+battleship,pos,False,['impossible'],0.875,0.2997324
+locomotive,pos,True,['affording_activity'],1.0,0.6113557
+truck,pos,True,['affording_activity'],1.0,0.74560654
+saloon,pos,False,['implied_category'],0.625,0.49039406
+snowplow,pos,True,['affording_activity'],0.75,0.57062674
+motorcar,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5978849
+winch,pos,False,['unusual'],0.6666666666666666,0.47372
+tram,pos,True,['affording_activity'],0.875,0.5191706
+machine,pos,True,['variability_limited'],1.0,0.35765854
+chassis,pos,True,['affording_activity'],0.75,0.4836028
+motorbike,pos,True,['affording_activity'],1.0,0.6539564
+hack,pos,False,['impossible'],1.0,0.070753016
+auto,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.38301212
+vehicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.70729595
+coupe,pos,True,['affording_activity'],0.875,0.5373074
+undercarriage,pos,True,['affording_activity'],0.6666666666666666,0.53275937
+footrest,pos,True,['variability_limited'],0.7777777777777778,0.45378962
+bike,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.6493297
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41738355
+warship,pos,False,['impossible'],0.7142857142857143,0.27998853
+trolley,pos,True,['affording_activity'],1.0,0.63482165
+scooter,pos,True,['affording_activity'],1.0,0.7302409
+coach,pos,True,"['affording_activity', 'typical_of_property']",0.7142857142857143,0.1186221
+cabriolet,pos,True,['affording_activity'],1.0,0.518616
+pram,pos,True,['affording_activity'],1.0,0.48951185
+diesel,pos,False,['impossible'],0.875,0.4267391
+chaise,pos,False,['unusual'],0.625,0.34369847
+windshield,pos,False,['impossible'],0.875,0.4704797
+saloon,neg,False,['implied_category'],0.625,0.49039406
+wheelbase,neg,True,['affording_activity'],0.75,0.41530937
+airplane,neg,True,['affording_activity'],1.0,0.49027833
+boat,neg,False,['unusual'],0.7777777777777778,0.525697
+winch,neg,False,['unusual'],0.6666666666666666,0.47372
+passenger,neg,False,['creative'],0.7777777777777778,0.5226504
+stagecoach,neg,True,['affording_activity'],0.875,0.4935482
+truck,neg,True,['affording_activity'],1.0,0.74560654
+yacht,neg,False,['unusual'],0.7777777777777778,0.36479196
+wheel,neg,False,['typical_of_concept'],0.5714285714285714,0.5433404

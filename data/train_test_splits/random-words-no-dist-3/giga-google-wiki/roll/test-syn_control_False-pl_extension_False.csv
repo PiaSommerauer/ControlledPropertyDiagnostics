@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bolt,pos,False,['afforded_unusual'],0.625,0.5538602
+windshield,pos,False,"['unusual', 'rare']",0.875,0.55287534
+ball,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.37178212
+gearshift,pos,False,['rare'],0.8333333333333334,0.5576992
+brake,pos,False,['impossible'],1.0,0.5420535
+handlebar,pos,True,['variability_limited'],0.5714285714285714,0.5860211
+dowel,pos,False,['implied_category'],0.7142857142857143,0.6035735
+bottle,pos,False,['implied_category'],0.8571428571428571,0.48746595
+candle,pos,True,['variability_limited'],0.7142857142857143,0.3972191
+bumper,pos,False,['unusual'],0.8888888888888888,0.403807
+rail,pos,True,['afforded_usual'],0.9,0.26524115
+roller,pos,True,['afforded_usual'],1.0,0.5731565
+grindstone,pos,False,['implied_category'],0.75,0.27055153
+nut,pos,True,['variability_limited'],0.7777777777777778,0.40933654
+backboard,pos,False,['unusual'],0.8571428571428571,0.4256954
+brick,pos,False,"['creative', 'unusual', 'rare']",0.625,0.3497493
+barrel,pos,True,['typical_of_property'],0.8571428571428571,0.33377588
+manhole,pos,False,['creative'],0.75,0.38006768
+driveshaft,pos,False,['unusual'],0.7142857142857143,0.5084131
+pen,pos,False,['afforded_unusual'],1.0,0.3577229
+manhole,neg,False,['creative'],0.75,0.38006768
+radiator,neg,False,['afforded_unusual'],0.875,0.6535448
+plastic,neg,True,['variability_limited'],0.8571428571428571,0.52113134
+pen,neg,False,['afforded_unusual'],1.0,0.3577229
+dowel,neg,False,['implied_category'],0.7142857142857143,0.6035735
+nut,neg,True,['variability_limited'],0.7777777777777778,0.40933654
+candle,neg,True,['variability_limited'],0.7142857142857143,0.3972191
+washer,neg,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5833144
+handlebar,neg,True,['variability_limited'],0.5714285714285714,0.5860211
+barrel,neg,True,['typical_of_property'],0.8571428571428571,0.33377588
+roller,neg,True,['afforded_usual'],1.0,0.5731565
+propeller,neg,True,['variability_limited'],0.7142857142857143,0.5811537
+nozzle,neg,True,['variability_limited'],0.6666666666666666,0.6508434

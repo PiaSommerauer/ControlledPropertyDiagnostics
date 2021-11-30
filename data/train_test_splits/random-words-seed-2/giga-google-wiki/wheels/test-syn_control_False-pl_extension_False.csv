@@ -1,0 +1,37 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+vessel,pos,False,"['unusual', 'rare']",0.7777777777777778,0.3464041
+vehicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.7091357
+caravan,pos,True,['affording_activity'],0.875,0.5182072
+cart,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5552182
+trolley,pos,True,['affording_activity'],1.0,0.637359
+windshield,pos,False,['impossible'],0.875,0.46897617
+minivan,pos,True,['affording_activity'],1.0,0.6648687
+sleigh,pos,False,"['impossible', 'unusual']",0.5714285714285714,0.54508895
+yacht,pos,False,['unusual'],0.7777777777777778,0.3658095
+tractor,pos,True,['affording_activity'],1.0,0.6897495
+van,pos,True,['affording_activity'],1.0,0.6923946
+handcart,pos,True,['affording_activity'],1.0,0.49502712
+frigate,pos,False,['impossible'],0.75,0.2525019
+taxicab,pos,True,['affording_activity'],1.0,0.56581306
+undercarriage,pos,True,['affording_activity'],0.6666666666666666,0.53294516
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41810352
+tram,pos,True,['affording_activity'],0.875,0.5244891
+motorcycle,pos,True,['affording_activity'],1.0,0.6540722
+backhoe,pos,True,['affording_activity'],1.0,0.51021343
+snowplow,pos,True,['affording_activity'],0.75,0.57231355
+wheelbase,pos,True,['affording_activity'],0.75,0.41358152
+lorry,pos,True,['affording_activity'],1.0,0.6216436
+coupe,pos,True,['affording_activity'],0.875,0.5340114
+chaise,pos,False,['unusual'],0.625,0.34253293
+locomotive,pos,True,['affording_activity'],1.0,0.6130605
+footrest,pos,True,['variability_limited'],0.7777777777777778,0.4550975
+rig,neg,True,['affording_activity'],0.5555555555555556,0.3954881
+tank,neg,False,['implied_category'],0.5714285714285714,0.3131133
+luggage,neg,True,['variability_limited'],0.875,0.4450127
+carrier,neg,True,['affording_activity'],0.75,0.21327722
+machine,neg,True,['variability_limited'],1.0,0.35959432
+winch,neg,False,['unusual'],0.6666666666666666,0.47342262
+coach,neg,True,"['affording_activity', 'typical_of_property']",0.7142857142857143,0.1235034
+racer,neg,True,['affording_activity'],0.8333333333333334,0.39096326
+motorcar,neg,True,"['typical_of_property', 'affording_activity']",1.0,0.5945565
+heap,neg,False,['impossible'],0.8571428571428571,0.18076815

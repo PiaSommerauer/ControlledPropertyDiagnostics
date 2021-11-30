@@ -1,0 +1,40 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+wasp,pos,True,['variability_limited'],1.0,0.5614943
+chive,pos,False,"['unusual', 'rare']",0.8571428571428571,0.59015566
+miner,pos,False,['creative'],0.7777777777777778,0.16657256
+calf,pos,False,"['unusual', 'rare']",0.8571428571428571,0.29243258
+dandelion,pos,True,['typical_of_property'],0.7777777777777778,0.6739996
+corn,pos,True,['typical_of_property'],1.0,0.497932
+human,pos,False,['unusual'],0.7142857142857143,0.17897007
+piano,pos,False,['unusual'],1.0,0.26231954
+pistachio,pos,False,['rare'],0.875,0.52050966
+fox,pos,False,"['rare', 'unusual']",0.75,0.4202643
+budgie,pos,True,['variability_limited'],0.7777777777777778,0.4726838
+flower,pos,True,['typical_of_property'],0.6666666666666666,0.68211675
+jade,pos,False,['unusual'],1.0,0.42556527
+beer,pos,True,['variability_limited'],1.0,0.41979638
+cactus,pos,False,"['rare', 'unusual']",0.875,0.5833816
+pineapple,pos,True,['variability_limited'],0.75,0.63665736
+cherry,pos,False,['rare'],0.75,0.4790368
+syrup,pos,False,['rare'],0.5714285714285714,0.51796615
+sun,pos,True,"['variability_limited', 'typical_of_property']",1.0,0.3702005
+bottle,pos,False,"['unusual', 'rare']",0.7777777777777778,0.39970127
+football,pos,False,['unusual'],0.7777777777777778,0.2105879
+cannon,pos,False,['unusual'],1.0,0.2748222
+chocolate,pos,False,['unusual'],0.875,0.55927795
+sunbeam,pos,True,['variability_limited'],1.0,0.44341126
+plum,pos,True,['variability_limited'],0.875,0.39078987
+orange,pos,False,['rare'],0.7777777777777778,0.48820958
+wasp,neg,True,['variability_limited'],1.0,0.5614943
+calf,neg,False,"['unusual', 'rare']",0.8571428571428571,0.29243258
+piano,neg,False,['unusual'],1.0,0.26231954
+herring,neg,False,['unusual'],0.6666666666666666,0.37411276
+fox,neg,False,"['rare', 'unusual']",0.75,0.4202643
+jade,neg,False,['unusual'],1.0,0.42556527
+truffle,neg,False,['unusual'],0.75,0.5252472
+cherry,neg,False,['rare'],0.75,0.4790368
+crow,neg,False,['impossible'],0.8571428571428571,0.4110695
+football,neg,False,['unusual'],0.7777777777777778,0.2105879
+mamey,neg,False,"['rare', 'unusual']",0.625,0.6147125
+sunbeam,neg,True,['variability_limited'],1.0,0.44341126
+berry,neg,False,['unusual'],0.5555555555555556,0.6888302

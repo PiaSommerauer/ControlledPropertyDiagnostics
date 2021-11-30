@@ -1,0 +1,73 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+zebra,pos,False,['impossible'],0.8888888888888888,0.43158498
+silverback,pos,False,['impossible'],1.0,0.402405
+ostrich,pos,False,['impossible'],1.0,0.41866797
+flycatcher,pos,True,['afforded_usual'],0.75,0.6043138
+seagull,pos,True,['afforded_usual'],1.0,0.685988
+emu,pos,False,"['impossible', 'creative']",0.75,0.4564313
+monkey,pos,False,"['creative', 'impossible']",0.75,0.48104003
+plaice,pos,False,['impossible'],1.0,0.358488
+sunfish,pos,False,['impossible'],1.0,0.4779475
+duck,pos,True,['afforded_usual'],0.75,0.5719325
+tiger,pos,False,['impossible'],1.0,0.4876917
+mammal,pos,True,['variability_limited'],0.8571428571428571,0.61629474
+wren,pos,True,['afforded_usual'],1.0,0.6517535
+bream,pos,False,['impossible'],1.0,0.36361355
+giraffe,pos,False,['impossible'],0.8888888888888888,0.49209404
+chinook,pos,True,['afforded_usual'],0.6666666666666666,0.41414872
+catfish,pos,False,['impossible'],0.8888888888888888,0.42619786
+lemur,pos,False,"['creative', 'impossible']",0.625,0.55800664
+woodpecker,pos,True,['afforded_usual'],1.0,0.6334919
+gull,pos,True,['afforded_usual'],1.0,0.6935383
+nightingale,pos,True,['afforded_usual'],1.0,0.5076186
+owl,pos,True,"['afforded_usual', 'typical_of_property']",0.875,0.7183219
+haddock,pos,False,['impossible'],0.875,0.39462563
+bobcat,pos,False,['impossible'],0.7142857142857143,0.5257265
+pheasant,pos,True,['afforded_usual'],0.7142857142857143,0.5719934
+marabou,neg,True,['afforded_usual'],0.6666666666666666,0.49540552
+vulture,neg,True,['afforded_usual'],1.0,0.5401001
+toy,neg,True,['variability_limited'],1.0,0.2851564
+craft,neg,True,['variability_limited'],0.625,0.36363137
+puffin,neg,True,['afforded_usual'],1.0,0.6198982
+butterfly,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.5320281
+stork,neg,True,['afforded_usual'],1.0,0.5798848
+jet,neg,True,['afforded_usual'],1.0,0.42870754
+balloon,neg,True,"['typical_of_property', 'afforded_usual']",0.8333333333333334,0.43544155
+twinjet,neg,True,['afforded_usual'],0.8888888888888888,0.31231782
+wing,neg,True,['afforded_usual'],1.0,0.30023417
+flicker,neg,True,['afforded_usual'],0.625,0.26402718
+machine,neg,True,['variability_limited'],1.0,0.21255876
+airship,neg,True,['afforded_usual'],1.0,0.43738848
+chow,neg,False,['impossible'],1.0,0.248249
+watchdog,neg,False,['impossible'],0.8571428571428571,0.1086859
+lion,neg,False,['impossible'],0.8888888888888888,0.34868205
+steamer,neg,False,['impossible'],0.8888888888888888,0.25998306
+forklift,neg,False,['impossible'],0.8333333333333334,0.20355411
+minnow,neg,False,['impossible'],1.0,0.38264194
+schooner,neg,False,['impossible'],0.75,0.3402758
+coupe,neg,False,"['impossible', 'creative']",0.75,0.28009397
+jalopy,neg,False,['impossible'],0.875,0.27874935
+bark,neg,False,['unusual'],0.625,0.33014563
+ass,neg,False,['impossible'],0.875,0.2199138
+skimmer,neg,False,['creative'],0.625,0.32367018
+basset,neg,False,"['unusual', 'impossible', 'rare']",0.7142857142857143,0.3868651
+hind,neg,False,['impossible'],0.7142857142857143,0.30011907
+lorry,neg,False,"['creative', 'impossible']",1.0,0.21272299
+heap,neg,False,['impossible'],0.875,0.122688234
+hog,neg,False,['impossible'],0.625,0.29978982
+shell,neg,False,['impossible'],0.8333333333333334,0.23709217
+interceptor,neg,False,['impossible'],0.7142857142857143,0.29894334
+pussy,neg,False,"['creative', 'impossible']",0.7777777777777778,0.2785594
+howler,neg,False,['creative'],0.7777777777777778,0.18350129
+cart,neg,False,['creative'],0.875,0.17120478
+car,neg,False,['creative'],1.0,0.24417764
+bogie,neg,False,['impossible'],0.875,0.13144554
+knot,neg,False,['impossible'],0.75,0.16720921
+junk,neg,False,"['impossible', 'creative']",0.75,0.20112151
+fryer,neg,False,['impossible'],1.0,0.2410502
+mouse,neg,False,['impossible'],0.8888888888888888,0.31366292
+stock,neg,False,['impossible'],1.0,0.1447363
+seal,neg,False,['impossible'],0.75,0.2373394
+taxi,neg,False,['impossible'],1.0,0.21567914
+sloop,neg,False,['impossible'],0.6666666666666666,0.31367093
+barnacle,neg,False,['impossible'],1.0,0.39995742

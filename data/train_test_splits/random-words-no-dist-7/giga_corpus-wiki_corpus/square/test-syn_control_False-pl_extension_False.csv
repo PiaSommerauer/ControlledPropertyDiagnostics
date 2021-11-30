@@ -1,0 +1,44 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+lavatory,pos,True,['variability_limited'],0.8571428571428571,0.5732579
+diskette,pos,True,"['variability_limited', 'affording_activity']",0.5555555555555556,0.33309108
+shelf,pos,True,['affording_activity'],0.75,0.4329475
+bedroom,pos,True,['variability_limited'],0.75,0.59932494
+hallway,pos,True,['variability_limited'],0.7142857142857143,0.6147517
+armoire,pos,True,['variability_limited'],1.0,0.6513575
+pantry,pos,True,['variability_limited'],0.5714285714285714,0.49121395
+locker,pos,True,['variability_limited'],0.7777777777777778,0.522702
+toilet,pos,True,['variability_limited'],0.875,0.5550135
+clipboard,pos,True,"['variability_limited', 'affording_activity']",0.8571428571428571,0.4455453
+pen,pos,False,['unusual'],0.75,0.34553516
+console,pos,True,['variability_limited'],0.7142857142857143,0.436962
+marble,pos,False,['variability_open'],0.6666666666666666,0.39333397
+folder,pos,True,['variability_limited'],0.8571428571428571,0.5341588
+ball,pos,False,['impossible'],0.75,0.20770451
+macintosh,pos,True,['variability_limited'],0.7777777777777778,0.29098237
+mainframe,pos,True,['variability_limited'],0.6666666666666666,0.28685513
+cds,pos,False,['impossible'],0.75,0.2705727
+cupboard,pos,True,['variability_limited'],0.625,0.5839016
+stairwell,pos,True,['variability_limited'],0.7142857142857143,0.5636289
+kitchenette,pos,True,['variability_limited'],0.75,0.5981977
+mug,pos,False,"['rare', 'unusual']",1.0,0.35359758
+balcony,pos,True,['variability_limited'],0.8571428571428571,0.47526044
+card,pos,True,['typical_of_property'],0.7777777777777778,0.2512629
+sideboard,pos,True,['variability_limited'],0.8571428571428571,0.58548504
+suite,pos,True,['variability_limited'],0.875,0.39035714
+box,pos,True,['typical_of_property'],0.75,0.41230962
+closet,pos,False,['variability_open'],0.625,0.6108121
+frisbee,pos,False,"['creative', 'unusual']",0.625,0.26559964
+basement,pos,True,['variability_limited'],0.8571428571428571,0.5866021
+bookshelf,pos,True,['variability_limited'],1.0,0.6904991
+window,pos,True,['affording_activity'],0.6666666666666666,0.5179889
+doorbell,pos,True,['variability_limited'],0.5714285714285714,0.42497677
+cube,pos,True,"['typical_of_property', 'affording_activity']",0.875,0.4697857
+workstation,pos,True,['variability_limited'],0.8571428571428571,0.50815403
+drawer,neg,True,['variability_limited'],0.875,0.6251524
+room,neg,True,['affording_activity'],0.7142857142857143,0.62752724
+bathroom,neg,True,['variability_limited'],0.625,0.7026667
+floor,neg,False,['variability_open'],0.625,0.44537374
+hallway,neg,True,['variability_limited'],0.7142857142857143,0.6147517
+closet,neg,False,['variability_open'],0.625,0.6108121
+bookmark,neg,False,"['variability_open', 'rare']",0.6,0.33633092
+box,neg,True,['typical_of_property'],0.75,0.41230962

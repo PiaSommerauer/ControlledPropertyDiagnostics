@@ -1,0 +1,40 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+budgie,pos,True,['variability_limited'],0.7777777777777778,0.4726838
+apple,pos,True,['variability_limited'],0.8571428571428571,0.6714467
+corn,pos,True,['typical_of_property'],1.0,0.497932
+champagne,pos,True,['variability_limited'],0.7777777777777778,0.36282545
+walnut,pos,False,"['unusual', 'creative', 'rare']",0.7142857142857143,0.54628396
+mamey,pos,False,"['rare', 'unusual']",0.625,0.6147125
+gorilla,pos,False,"['impossible', 'unusual']",0.625,0.34504926
+water,pos,False,"['rare', 'unusual']",1.0,0.32388514
+cherry,pos,False,['rare'],0.75,0.4790368
+emerald,pos,False,['impossible'],0.7,0.43661934
+grapefruit,pos,True,['variability_limited'],0.875,0.60657275
+paint,pos,False,['variability_open'],0.8571428571428571,0.27697375
+bottle,pos,False,"['unusual', 'rare']",0.7777777777777778,0.39970127
+tomato,pos,False,['rare'],0.875,0.66354495
+mustard,pos,True,['typical_of_property'],0.8888888888888888,0.47995138
+nectarine,pos,True,['variability_limited'],0.75,0.62883204
+yolk,pos,False,['typical_of_concept'],0.875,0.4783442
+alligator,pos,False,['unusual'],0.625,0.37334716
+sheep,pos,False,['unusual'],0.875,0.39424127
+daffodil,pos,True,['variability_limited'],0.875,0.5853205
+jade,pos,False,['unusual'],1.0,0.42556527
+cheese,pos,True,['variability_limited'],0.8888888888888888,0.5263451
+pecan,pos,False,['unusual'],0.6666666666666666,0.53672534
+sandpaper,pos,False,['variability_open'],0.5714285714285714,0.3555915
+syrup,pos,False,['rare'],0.5714285714285714,0.51796615
+pawpaw,pos,False,['rare'],0.625,0.62568086
+beer,neg,True,['variability_limited'],1.0,0.41979638
+corn,neg,True,['typical_of_property'],1.0,0.497932
+champagne,neg,True,['variability_limited'],0.7777777777777778,0.36282545
+giraffe,neg,True,['typical_of_property'],0.8888888888888888,0.427438
+herb,neg,False,['rare'],0.875,0.5678155
+bottle,neg,False,"['unusual', 'rare']",0.7777777777777778,0.39970127
+kingfisher,neg,False,['unusual'],0.625,0.43400595
+tomato,neg,False,['rare'],0.875,0.66354495
+nectarine,neg,True,['variability_limited'],0.75,0.62883204
+sunflower,neg,True,['typical_of_property'],0.875,0.6251704
+sandpaper,neg,False,['variability_open'],0.5714285714285714,0.3555915
+syrup,neg,False,['rare'],0.5714285714285714,0.51796615
+pawpaw,neg,False,['rare'],0.625,0.62568086

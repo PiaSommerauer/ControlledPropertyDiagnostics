@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+lorry,pos,True,['affording_activity'],1.0,0.620798
+warship,pos,False,['impossible'],0.7142857142857143,0.27998853
+auto,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.38301212
+taxicab,pos,True,['affording_activity'],1.0,0.5649594
+tram,pos,True,['affording_activity'],0.875,0.5191706
+limousine,pos,True,['affording_activity'],1.0,0.5561286
+motorcar,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5978849
+airplane,pos,True,['affording_activity'],1.0,0.49027833
+buggy,pos,True,['affording_activity'],1.0,0.5829192
+toboggan,pos,False,['unusual'],0.75,0.43901289
+luggage,pos,True,['variability_limited'],0.875,0.44262165
+carriage,pos,True,['affording_activity'],1.0,0.5453826
+chaise,pos,False,['unusual'],0.625,0.34369847
+footrest,pos,True,['variability_limited'],0.7777777777777778,0.45378962
+suv,pos,True,['affording_activity'],0.875,0.61364734
+hearse,pos,True,['affording_activity'],1.0,0.5535417
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41738355
+vehicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.70729595
+motorbike,pos,True,['affording_activity'],1.0,0.6539564
+van,pos,True,['affording_activity'],1.0,0.69436264
+cab,pos,True,['affording_activity'],1.0,0.69740826
+bicycle,pos,True,['affording_activity'],1.0,0.6358282
+trawler,pos,False,['impossible'],0.7142857142857143,0.37388614
+rickshaw,pos,True,['affording_activity'],1.0,0.6312858
+truck,pos,True,['affording_activity'],1.0,0.74560654
+locomotive,pos,True,['affording_activity'],1.0,0.6113557
+saloon,pos,False,['implied_category'],0.625,0.49039406
+bike,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.6493297
+diner,neg,True,['variability_limited'],0.6666666666666666,0.36464572
+unicycle,neg,True,['affording_activity'],1.0,0.4448947
+stage,neg,True,['variability_limited'],0.6666666666666666,0.11864333
+gondola,neg,False,"['unusual', 'impossible']",0.7142857142857143,0.4933623
+trailer,neg,True,['affording_activity'],1.0,0.5339814
+winch,neg,False,['unusual'],0.6666666666666666,0.47372
+machine,neg,True,['variability_limited'],1.0,0.35765854
+racer,neg,True,['affording_activity'],0.8333333333333334,0.38876554
+pedicab,neg,True,['affording_activity'],1.0,0.5510616
+sidecar,neg,True,['affording_activity'],1.0,0.49716026

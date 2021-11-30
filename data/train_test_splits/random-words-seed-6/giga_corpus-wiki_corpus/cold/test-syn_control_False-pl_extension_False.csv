@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+toaster,pos,False,['variability_open'],0.5555555555555556,0.49002755
+berry,pos,False,['variability_open'],0.6666666666666666,0.49565363
+mud,pos,False,['variability_open'],0.875,0.47788167
+snowdrift,pos,True,"['affording_activity', 'typical_of_property']",0.8181818181818182,0.44572055
+casserole,pos,False,['variability_open'],0.8,0.56065506
+toilet,pos,False,['variability_open'],0.7,0.46059996
+eggshell,pos,False,['variability_open'],0.7777777777777778,0.49246615
+juice,pos,False,"['variability_open', 'implied_category']",0.5454545454545454,0.46833315
+tortilla,pos,False,['variability_open'],0.7,0.46473455
+bathtub,pos,False,['variability_open'],0.875,0.5535053
+winter,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3214373
+soup,pos,False,['variability_open'],0.7272727272727273,0.5774629
+dogwood,pos,False,['variability_open'],0.875,0.36128998
+rock,pos,False,['variability_open'],0.8,0.36453685
+skin,pos,False,['variability_open'],0.8888888888888888,0.41000655
+coffee,pos,False,['variability_open'],0.7777777777777778,0.47201458
+drink,pos,True,['affording_activity'],0.5555555555555556,0.46436617
+oven,pos,False,['variability_open'],0.5555555555555556,0.5755857
+candle,pos,False,['variability_open'],0.75,0.44350854
+milk,pos,False,['variability_open'],1.0,0.4553908
+bath,pos,False,['unusual'],0.7777777777777778,0.4592478
+heat,pos,False,['impossible'],0.9,0.32336172
+tea,pos,False,['variability_open'],0.8571428571428571,0.38450262
+dust,pos,False,['unusual'],0.7142857142857143,0.36956137
+fireplace,pos,False,['variability_open'],0.875,0.47117448
+rain,pos,False,['variability_open'],0.75,0.36924094
+beer,pos,True,['affording_activity'],0.6,0.46762648
+atmosphere,neg,False,['variability_open'],0.7,0.27865383
+iceberg,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.2482867
+growler,neg,True,['affording_activity'],0.6666666666666666,0.42755708
+finger,neg,False,['variability_open'],0.625,0.29839963
+steam,neg,False,['impossible'],0.8571428571428571,0.28350922
+can,neg,False,['variability_open'],0.7777777777777778,0.21809144
+mug,neg,False,['variability_open'],0.75,0.43829343
+sundae,neg,True,['affording_activity'],1.0,0.52478486
+cake,neg,False,['variability_open'],1.0,0.5431257
+toe,neg,False,"['variability_open', 'unusual']",0.875,0.31567204

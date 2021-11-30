@@ -1,0 +1,69 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+hijacker,pos,True,['affording_activity'],0.625,0.4200055
+arrow,pos,True,['affording_activity'],1.0,0.5504179
+hack,pos,True,"['typical_of_property', 'variability_limited']",0.5714285714285714,0.35186616
+looter,pos,True,"['typical_of_property', 'variability_limited']",0.6666666666666666,0.4879026
+blender,pos,False,['rare'],0.6666666666666666,0.2706907
+bolo,pos,True,['affording_activity'],0.7142857142857143,0.5061341
+alligator,pos,True,['affording_activity'],0.875,0.47624654
+torpedo,pos,True,['affording_activity'],0.875,0.40266666
+hammer,pos,True,['affording_activity'],0.6666666666666666,0.40498966
+racketeer,pos,True,['typical_of_property'],0.6666666666666666,0.3518949
+thief,pos,True,"['affording_activity', 'typical_of_property']",0.625,0.46616507
+plot,pos,False,['variability_open'],0.8888888888888888,0.30710664
+henchman,pos,True,"['typical_of_property', 'affording_activity']",0.625,0.44519848
+pusher,pos,False,['unusual'],0.7142857142857143,0.28463
+slice,pos,False,['impossible'],0.5555555555555556,0.20809779
+crease,pos,False,"['creative', 'impossible']",0.6,0.18007101
+hornbill,pos,False,['unusual'],0.8571428571428571,0.35461617
+fork,pos,False,['rare'],0.8571428571428571,0.24447815
+tap,pos,False,['unusual'],1.0,0.08529247
+harpoon,pos,True,['affording_activity'],0.875,0.5227922
+tuck,pos,False,['creative'],0.5714285714285714,0.19245377
+terrorism,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.31512955
+glove,pos,False,['unusual'],1.0,0.31152302
+mop,pos,False,['rare'],1.0,0.19030878
+weapon,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.63621455
+bayonet,pos,True,['affording_activity'],1.0,0.50198185
+firearm,pos,True,['typical_of_property'],0.75,0.6054142
+hoe,pos,False,['unusual'],0.75,0.3105072
+handgun,pos,True,['affording_activity'],1.0,0.6232992
+gunman,pos,True,['typical_of_property'],0.8571428571428571,0.53147775
+fire,pos,True,['typical_of_property'],0.7142857142857143,0.3310084
+dip,pos,False,"['unusual', 'creative']",0.5555555555555556,0.113751344
+snake,pos,True,['typical_of_property'],0.75,0.55397975
+gun,pos,True,['typical_of_property'],1.0,0.6597955
+pestle,pos,False,['unusual'],0.625,0.35925454
+rod,pos,False,['rare'],0.6666666666666666,0.39304003
+knife,pos,True,['typical_of_property'],1.0,0.6267747
+arm,pos,False,['unusual'],0.875,0.29538113
+traitor,neg,True,['affording_activity'],0.75,0.3599031
+malaria,neg,True,['typical_of_property'],0.6666666666666666,0.25842732
+bow,neg,True,['affording_activity'],0.75,0.35168818
+poison,neg,True,"['typical_of_property', 'affording_activity']",1.0,0.4684668
+hippopotamus,neg,False,['typical_of_concept'],0.7777777777777778,0.33530307
+gang,neg,True,['affording_activity'],0.875,0.43860132
+venom,neg,True,['typical_of_property'],1.0,0.40201533
+virus,neg,True,['affording_activity'],1.0,0.2996453
+neurotoxin,neg,True,['affording_activity'],1.0,0.35345623
+flack,neg,False,['unusual'],0.7777777777777778,0.17088482
+bucket,neg,False,"['unusual', 'rare']",1.0,0.28735313
+turtle,neg,False,"['unusual', 'rare']",0.8888888888888888,0.37200397
+isoniazid,neg,False,['unusual'],0.8571428571428571,0.2658858
+file,neg,False,['rare'],1.0,0.090946175
+iodine,neg,False,['rare'],0.8571428571428571,0.20659047
+buffer,neg,False,['unusual'],0.7142857142857143,0.119261555
+businessman,neg,False,"['rare', 'unusual']",1.0,0.22546287
+naproxen,neg,True,['variability_limited'],0.6666666666666666,0.28290483
+nursing,neg,False,"['rare', 'unusual']",0.875,0.10847338
+menthol,neg,False,"['creative', 'unusual']",0.625,0.17595948
+plane,neg,False,['rare'],1.0,0.31735688
+soup,neg,False,"['rare', 'unusual']",0.875,0.24743521
+ointment,neg,False,['unusual'],0.875,0.20071717
+starter,neg,False,['unusual'],0.5555555555555556,0.1678345
+toad,neg,False,['unusual'],1.0,0.42389998
+elixir,neg,False,['rare'],0.75,0.23411542
+penicillin,neg,False,['rare'],0.875,0.2932512
+laxative,neg,False,['unusual'],1.0,0.23363054
+rabbit,neg,False,['unusual'],0.875,0.42945895
+cure,neg,False,"['rare', 'unusual']",0.6666666666666666,0.17215092

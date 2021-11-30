@@ -1,0 +1,63 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+pastry,pos,True,['affording_activity'],0.8333333333333334,0.6744901
+beef,pos,True,"['variability_limited', 'affording_activity']",1.0,0.4741515
+chutney,pos,True,"['variability_limited', 'affording_activity']",1.0,0.67450666
+slaw,pos,True,"['variability_limited', 'affording_activity']",1.0,0.6819473
+sickle,pos,False,['unusual'],0.8888888888888888,0.24651216
+flatbread,pos,True,['variability_limited'],0.875,0.67183214
+stew,pos,True,"['affording_activity', 'typical_of_property']",0.625,0.5568142
+cauliflower,pos,True,"['variability_limited', 'affording_activity']",0.875,0.7410048
+bevel,pos,False,"['unusual', 'impossible']",0.5555555555555556,0.3357749
+lettuce,pos,True,['affording_activity'],1.0,0.65836453
+taco,pos,True,"['variability_limited', 'affording_activity']",1.0,0.5293592
+steak,pos,True,['variability_limited'],1.0,0.6297612
+dough,pos,True,['affording_activity'],1.0,0.59306943
+reamer,pos,False,['impossible'],0.8,0.35289267
+spoon,pos,True,['variability_limited'],0.875,0.613629
+blade,pos,True,"['variability_limited', 'typical_of_property', 'affording_activity']",0.5555555555555556,0.3653052
+potato,pos,True,['affording_activity'],1.0,0.68159074
+vegetable,pos,True,"['variability_limited', 'affording_activity', 'typical_of_property']",0.875,0.6400325
+asparagus,pos,True,"['affording_activity', 'variability_limited']",1.0,0.7458159
+tablespoon,pos,True,"['variability_limited', 'affording_activity']",0.8333333333333334,0.5804559
+chickpea,pos,True,"['affording_activity', 'variability_limited']",1.0,0.55507994
+vinaigrette,pos,True,"['affording_activity', 'variability_limited']",1.0,0.6997086
+coconut,pos,True,"['variability_limited', 'affording_activity']",0.75,0.5445399
+hoe,pos,False,['unusual'],0.8571428571428571,0.31463543
+cleaver,pos,True,['variability_limited'],0.9,0.3716535
+cabbage,pos,True,"['affording_activity', 'variability_limited']",1.0,0.72226894
+scalpel,pos,False,"['rare', 'unusual']",0.875,0.29336047
+spinach,pos,True,['affording_activity'],0.8888888888888888,0.6548663
+corn,pos,True,"['affording_activity', 'variability_limited']",1.0,0.49787173
+slicer,pos,True,['variability_limited'],0.75,0.54448456
+chisel,pos,False,['impossible'],0.6666666666666666,0.30155885
+stove,pos,True,['typical_of_property'],1.0,0.43119222
+cucumber,pos,True,"['affording_activity', 'variability_limited']",0.875,0.70763487
+spade,pos,False,"['rare', 'unusual']",0.625,0.26407146
+pasta,pos,True,"['affording_activity', 'typical_of_property', 'variability_limited']",1.0,0.72113425
+rice,pos,True,['affording_activity'],1.0,0.5572981
+cheese,pos,True,['variability_limited'],0.875,0.6710985
+meat,pos,True,"['typical_of_property', 'affording_activity', 'variability_limited']",1.0,0.59371036
+ham,pos,True,['variability_limited'],1.0,0.5958572
+sauce,pos,True,['affording_activity'],1.0,0.7413243
+cream,neg,True,['variability_limited'],0.8888888888888888,0.48996463
+canary,neg,False,['unusual'],0.75,0.13767475
+snip,neg,False,['impossible'],0.7142857142857143,0.32430902
+scraper,neg,True,['variability_limited'],0.5555555555555556,0.31407127
+grappler,neg,False,['impossible'],0.7,0.14955504
+clipper,neg,False,['impossible'],0.75,0.24291039
+mower,neg,False,['impossible'],0.75,0.2700992
+hatchet,neg,False,['unusual'],0.6666666666666666,0.1753067
+opener,neg,True,['variability_limited'],0.75,0.14015377
+planer,neg,False,['impossible'],1.0,0.2570243
+prawn,neg,True,['variability_limited'],1.0,0.568131
+flannel,neg,False,['impossible'],0.9,0.33421126
+stamp,neg,False,['impossible'],1.0,0.14942694
+gutter,neg,False,['impossible'],0.625,0.15347123
+mussel,neg,True,"['variability_limited', 'affording_activity']",0.875,0.43451926
+scallop,neg,True,"['variability_limited', 'affording_activity']",1.0,0.54832935
+jigsaw,neg,False,['impossible'],1.0,0.16218264
+stylus,neg,False,['unusual'],0.75,0.24169926
+beetle,neg,False,"['unusual', 'rare']",0.8888888888888888,0.30224156
+scoop,neg,True,['affording_activity'],1.0,0.2983996
+lance,neg,False,"['impossible', 'unusual']",0.6,0.2653775
+mustard,neg,True,"['variability_limited', 'affording_activity']",1.0,0.5451403

@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+windowpane,pos,False,['impossible'],0.5714285714285714,0.42124844
+acrylic,pos,True,['variability_limited'],0.5714285714285714,0.42522267
+nut,pos,True,['variability_limited'],0.7777777777777778,0.40933654
+windscreen,pos,False,['afforded_unusual'],0.625,0.5503014
+leather,pos,False,"['unusual', 'rare']",0.6666666666666666,0.4317971
+shaft,pos,True,['variability_limited'],0.6666666666666666,0.53998077
+cloth,pos,False,['afforded_unusual'],0.5714285714285714,0.51386243
+tub,pos,True,['variability_limited'],0.8333333333333334,0.5736203
+saw,pos,True,['variability_limited'],0.7142857142857143,0.18770774
+plastic,pos,True,['variability_limited'],0.8571428571428571,0.52113134
+donkey,pos,False,['impossible'],0.6666666666666666,0.33825222
+footrest,pos,False,['afforded_unusual'],0.75,0.619017
+propeller,pos,True,['variability_limited'],0.7142857142857143,0.5811537
+rifling,pos,True,['afforded_usual'],0.625,0.20636004
+candle,pos,True,['variability_limited'],0.7142857142857143,0.3972191
+washer,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5833144
+rail,pos,True,['afforded_usual'],0.9,0.26524115
+paint,pos,True,['variability_limited'],0.6666666666666666,0.34653127
+wheelbarrow,pos,True,['afforded_usual'],0.7142857142857143,0.5043647
+brake,pos,False,['impossible'],1.0,0.5420535
+windscreen,neg,False,['afforded_unusual'],0.625,0.5503014
+tub,neg,True,['variability_limited'],0.8333333333333334,0.5736203
+paint,neg,True,['variability_limited'],0.6666666666666666,0.34653127
+grindstone,neg,False,['implied_category'],0.75,0.27055153
+candle,neg,True,['variability_limited'],0.7142857142857143,0.3972191
+dowel,neg,False,['implied_category'],0.7142857142857143,0.6035735
+driveshaft,neg,False,['unusual'],0.7142857142857143,0.5084131
+fireplace,neg,False,['impossible'],0.7142857142857143,0.44751912
+handlebar,neg,True,['variability_limited'],0.5714285714285714,0.5860211
+windowpane,neg,False,['impossible'],0.5714285714285714,0.42124844
+brake,neg,False,['impossible'],1.0,0.5420535
+hammer,neg,False,"['rare', 'unusual']",0.7142857142857143,0.35450855
+shoe,neg,False,['unusual'],0.875,0.45693544

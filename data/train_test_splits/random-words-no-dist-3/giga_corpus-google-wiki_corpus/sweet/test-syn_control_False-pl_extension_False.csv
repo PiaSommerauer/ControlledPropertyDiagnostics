@@ -1,0 +1,62 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+rhubarb,pos,True,['variability_limited'],0.6666666666666666,0.7490405
+plantain,pos,True,"['variability_limited', 'affording_activity']",0.6,0.5992234
+gift,pos,False,['variability_open'],0.6666666666666666,0.23473272
+squash,pos,True,['variability_limited'],0.875,0.4494801
+linseed,pos,False,['impossible'],0.6666666666666666,0.49839458
+orange,pos,True,['variability_limited'],0.8571428571428571,0.46227032
+sultana,pos,True,"['variability_limited', 'affording_activity']",0.875,0.59130687
+parsnip,pos,True,['variability_limited'],0.875,0.6937722
+cookie,pos,True,"['typical_of_property', 'affording_activity', 'variability_limited']",1.0,0.5040099
+iceberg,pos,False,['impossible'],0.875,0.13978161
+wine,pos,True,['variability_limited'],0.8571428571428571,0.5064885
+chipotle,pos,False,"['unusual', 'rare']",0.625,0.5913149
+raisin,pos,True,['affording_activity'],0.8571428571428571,0.66116804
+kale,pos,False,"['unusual', 'rare']",0.875,0.67373383
+lobster,pos,False,['creative'],0.625,0.4589983
+yogurt,pos,True,['variability_limited'],0.8888888888888888,0.6102949
+bean,pos,False,['unusual'],0.625,0.6584504
+lime,pos,False,"['unusual', 'creative']",0.8333333333333334,0.5934365
+chilli,pos,True,['variability_limited'],1.0,0.6534519
+mangosteen,pos,True,"['affording_activity', 'variability_limited']",1.0,0.5409133
+pip,pos,False,"['unusual', 'rare']",0.625,0.14689301
+peach,pos,True,"['affording_activity', 'variability_limited']",1.0,0.7204667
+grain,pos,False,"['unusual', 'rare']",0.7142857142857143,0.39760596
+chocolate,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.64065576
+cheese,pos,False,"['rare', 'unusual']",0.7142857142857143,0.6123587
+chickpea,pos,False,"['rare', 'unusual']",0.8333333333333334,0.5407502
+vegetable,pos,True,['variability_limited'],0.6666666666666666,0.6699626
+zucchini,pos,True,['variability_limited'],0.625,0.63576055
+currant,pos,True,['variability_limited'],0.875,0.61704594
+tomato,pos,True,['variability_limited'],1.0,0.74946755
+soybean,pos,True,['variability_limited'],0.625,0.45075238
+sugar,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.594489
+mast,pos,False,"['impossible', 'unusual']",0.5714285714285714,0.10934065
+tamarind,pos,True,['affording_activity'],0.875,0.6839824
+jam,pos,True,['affording_activity'],0.8571428571428571,0.22827384
+cider,pos,True,['variability_limited'],0.8571428571428571,0.5524297
+tomato,neg,True,['variability_limited'],1.0,0.74946755
+freestone,neg,False,['impossible'],0.6666666666666666,0.56929094
+currant,neg,True,['variability_limited'],0.875,0.61704594
+chicken,neg,False,['creative'],0.75,0.52084583
+flavor,neg,True,"['typical_of_property', 'affording_activity']",0.7777777777777778,0.53938276
+huckleberry,neg,True,['affording_activity'],0.8888888888888888,0.59446234
+bulgur,neg,False,['rare'],0.75,0.5949145
+radish,neg,True,['variability_limited'],0.625,0.67639685
+donut,neg,True,['affording_activity'],1.0,0.49014267
+cider,neg,True,['variability_limited'],0.8571428571428571,0.5524297
+broccoli,neg,False,['unusual'],0.8888888888888888,0.68132436
+breadfruit,neg,True,['variability_limited'],0.8571428571428571,0.56694937
+rice,neg,True,['variability_limited'],0.5714285714285714,0.56894296
+lime,neg,False,"['unusual', 'creative']",0.8333333333333334,0.5934365
+groundnut,neg,True,['variability_limited'],0.875,0.49172172
+tamarind,neg,True,['affording_activity'],0.875,0.6839824
+spud,neg,True,['variability_limited'],0.8571428571428571,0.37851673
+dewberry,neg,True,['variability_limited'],0.875,0.6415632
+mast,neg,False,"['impossible', 'unusual']",0.5714285714285714,0.10934065
+apricot,neg,True,['affording_activity'],1.0,0.76396036
+legume,neg,True,['variability_limited'],0.5555555555555556,0.5239234
+cookie,neg,True,"['typical_of_property', 'affording_activity', 'variability_limited']",1.0,0.5040099
+veg,neg,True,['variability_limited'],0.875,0.4829325
+sugar,neg,True,"['typical_of_property', 'affording_activity']",1.0,0.594489
+sultana,neg,True,"['variability_limited', 'affording_activity']",0.875,0.59130687

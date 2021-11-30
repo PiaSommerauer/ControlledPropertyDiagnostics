@@ -1,0 +1,50 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+truffle,pos,True,['variability_limited'],0.75,0.4722923
+radish,pos,False,"['unusual', 'rare']",0.7142857142857143,0.49433878
+flower,pos,False,['rare'],1.0,0.4856189
+snake,pos,True,['variability_limited'],0.625,0.684155
+frog,pos,True,['variability_limited'],0.875,0.69841146
+dolphin,pos,True,['variability_limited'],0.6666666666666666,0.52445894
+bottle,pos,False,"['rare', 'unusual']",0.625,0.38614067
+alligator,pos,False,['unusual'],0.75,0.5964066
+tar,pos,True,['typical_of_property'],0.7777777777777778,0.28629026
+pear,pos,False,['unusual'],0.8888888888888888,0.47559083
+tomato,pos,False,['unusual'],0.7142857142857143,0.4497479
+beet,pos,False,"['rare', 'unusual']",0.75,0.38256016
+grape,pos,True,['variability_limited'],0.7142857142857143,0.4507389
+parrot,pos,False,['rare'],1.0,0.5780915
+lime,pos,False,"['rare', 'unusual']",0.7142857142857143,0.32878947
+rat,pos,True,['variability_limited'],0.875,0.5745304
+millipede,pos,True,['variability_limited'],0.8333333333333334,0.56418097
+buttercup,pos,False,"['unusual', 'rare']",0.7142857142857143,0.44841266
+onion,pos,False,['unusual'],0.6,0.38404256
+opossum,pos,True,['variability_limited'],0.875,0.59250027
+pelican,pos,True,['variability_limited'],0.8571428571428571,0.59087694
+woodpecker,pos,True,['variability_limited'],0.75,0.5772849
+paint,pos,False,['variability_open'],1.0,0.24953139
+honey,pos,False,"['unusual', 'impossible']",0.7142857142857143,0.49793497
+butter,pos,False,['impossible'],0.6666666666666666,0.21814749
+apple,pos,False,['unusual'],0.875,0.4962304
+calf,pos,True,['variability_limited'],0.75,0.42292327
+magpie,pos,True,['variability_limited'],0.75,0.56059664
+ketchup,pos,False,['unusual'],0.75,0.36817846
+cider,pos,False,['unusual'],0.7777777777777778,0.26670215
+fir,pos,False,['impossible'],0.75,0.34914753
+avocado,pos,False,['unusual'],1.0,0.4141473
+balloon,neg,False,['variability_open'],1.0,0.36136124
+stocking,neg,False,"['typical_of_concept', 'variability_open']",0.6666666666666666,0.25198787
+bra,neg,False,['variability_open'],0.875,0.3656582
+heart,neg,False,['creative'],1.0,0.21057792
+weasel,neg,True,['variability_limited'],1.0,0.43886468
+gown,neg,False,['variability_open'],1.0,0.32524332
+brick,neg,False,"['rare', 'unusual']",0.75,0.2714918
+football,neg,False,['variability_open'],0.7777777777777778,0.20520946
+supermarket,neg,False,['rare'],0.7777777777777778,0.28655094
+lantern,neg,False,['variability_open'],1.0,0.41232774
+pupil,neg,False,"['implied_category', 'typical_of_concept']",0.5714285714285714,0.21020299
+suit,neg,True,['typical_of_property'],0.75,0.22839469
+night,neg,True,"['typical_of_property', 'affording_activity', 'variability_limited']",0.8571428571428571,0.17913347
+lark,neg,False,['rare'],1.0,0.26338324
+lion,neg,True,['variability_limited'],0.6666666666666666,0.44306508
+market,neg,False,['variability_open'],0.6666666666666666,0.14351775
+sun,neg,False,['creative'],1.0,0.2835681

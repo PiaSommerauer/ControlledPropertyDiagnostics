@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+toilet,pos,False,['variability_open'],0.7,0.46059996
+surface,pos,False,['variability_open'],0.75,0.37312713
+lava,pos,False,['impossible'],0.9090909090909091,0.43176058
+vinyl,pos,False,['variability_open'],0.7,0.3913125
+lemonade,pos,False,['variability_open'],0.875,0.49157587
+ice,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.55514586
+fireplace,pos,False,['variability_open'],0.875,0.47117448
+rock,pos,False,['variability_open'],0.8,0.36453685
+soda,pos,True,['typical_of_property'],0.8571428571428571,0.5202148
+snow,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.48774394
+bath,pos,False,['unusual'],0.7777777777777778,0.4592478
+beer,pos,True,['affording_activity'],0.6,0.46762648
+hair,pos,False,['variability_open'],0.875,0.4002852
+dogwood,pos,False,['variability_open'],0.875,0.36128998
+curd,pos,False,['variability_open'],0.9,0.5671155
+eggshell,pos,False,['variability_open'],0.7777777777777778,0.49246615
+bathtub,pos,False,['variability_open'],0.875,0.5535053
+pillow,pos,False,['variability_open'],0.7,0.5246011
+freezer,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.53617513
+milk,pos,False,['variability_open'],1.0,0.4553908
+rain,pos,False,['variability_open'],0.75,0.36924094
+candle,pos,False,['variability_open'],0.75,0.44350854
+quesadilla,pos,False,"['unusual', 'rare']",0.75,0.42467898
+skin,pos,False,['variability_open'],0.8888888888888888,0.41000655
+cheesecloth,pos,False,['unusual'],0.6,0.498847
+puddle,pos,False,['variability_open'],0.8888888888888888,0.5581222
+heating,pos,False,['impossible'],0.75,0.31259853
+shelf,neg,False,['variability_open'],0.6,0.3398007
+balloon,neg,False,['variability_open'],0.75,0.3913312
+toe,neg,False,"['variability_open', 'unusual']",0.875,0.31567204
+kettle,neg,False,['variability_open'],1.0,0.44769546
+hatred,neg,False,['creative'],0.8888888888888888,0.18772677
+people,neg,False,['variability_open'],0.6666666666666666,0.16279715
+finger,neg,False,['variability_open'],0.625,0.29839963
+can,neg,False,['variability_open'],0.7777777777777778,0.21809144
+idea,neg,False,['impossible'],0.7,0.22369696
+mug,neg,False,['variability_open'],0.75,0.43829343

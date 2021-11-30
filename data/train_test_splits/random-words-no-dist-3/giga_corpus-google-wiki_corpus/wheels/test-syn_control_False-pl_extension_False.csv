@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+runabout,pos,True,['affording_activity'],0.75,0.54185027
+heap,pos,False,['impossible'],0.8571428571428571,0.17982198
+frigate,pos,False,['impossible'],0.75,0.25461134
+motorcar,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5978849
+yacht,pos,False,['unusual'],0.7777777777777778,0.36479196
+wagon,pos,True,['affording_activity'],1.0,0.6711533
+snowplow,pos,True,['affording_activity'],0.75,0.57062674
+carriage,pos,True,['affording_activity'],1.0,0.5453826
+coupe,pos,True,['affording_activity'],0.875,0.5373074
+jeep,pos,True,['affording_activity'],1.0,0.6478769
+saloon,pos,False,['implied_category'],0.625,0.49039406
+bus,pos,True,['affording_activity'],1.0,0.6430231
+lorry,pos,True,['affording_activity'],1.0,0.620798
+automobile,pos,True,['affording_activity'],1.0,0.52909404
+suv,pos,True,['affording_activity'],0.875,0.61364734
+dray,pos,True,['affording_activity'],0.7777777777777778,0.44697
+pedicab,pos,True,['affording_activity'],1.0,0.5510616
+streetcar,pos,True,['affording_activity'],0.875,0.45712313
+wheel,pos,False,['typical_of_concept'],0.5714285714285714,0.5433404
+warship,pos,False,['impossible'],0.7142857142857143,0.27998853
+luggage,pos,True,['variability_limited'],0.875,0.44262165
+trolley,pos,True,['affording_activity'],1.0,0.63482165
+scooter,pos,True,['affording_activity'],1.0,0.7302409
+ambulance,pos,True,['affording_activity'],1.0,0.46928635
+roadster,pos,True,['affording_activity'],0.8571428571428571,0.5847035
+cart,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5561618
+trawler,pos,False,['impossible'],0.7142857142857143,0.37388614
+diner,pos,True,['variability_limited'],0.6666666666666666,0.36464572
+hearse,neg,True,['affording_activity'],1.0,0.5535417
+train,neg,True,['affording_activity'],1.0,0.5238274
+yacht,neg,False,['unusual'],0.7777777777777778,0.36479196
+motorbike,neg,True,['affording_activity'],1.0,0.6539564
+automobile,neg,True,['affording_activity'],1.0,0.52909404
+scooter,neg,True,['affording_activity'],1.0,0.7302409
+tugboat,neg,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41738355
+bogie,neg,True,['affording_activity'],0.7142857142857143,0.46373865
+suv,neg,True,['affording_activity'],0.875,0.61364734
+dray,neg,True,['affording_activity'],0.7777777777777778,0.44697

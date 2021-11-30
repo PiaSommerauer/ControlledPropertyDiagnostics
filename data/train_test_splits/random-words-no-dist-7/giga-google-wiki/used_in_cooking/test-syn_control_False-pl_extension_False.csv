@@ -1,0 +1,61 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+lime,pos,True,"['variability_limited', 'affording_activity']",0.7777777777777778,0.54361695
+spiciness,pos,True,['variability_limited'],1.0,0.5259076
+spoon,pos,True,['variability_limited'],0.875,0.613629
+mayonnaise,pos,True,['affording_activity'],1.0,0.7176897
+sickle,pos,False,['unusual'],0.8888888888888888,0.24651216
+router,pos,False,['impossible'],0.625,0.21139847
+pincer,pos,False,['unusual'],0.6,0.24756293
+mustard,pos,True,"['variability_limited', 'affording_activity']",1.0,0.5451403
+clipper,pos,False,['impossible'],0.75,0.24291039
+spanner,pos,False,['unusual'],0.75,0.19107078
+tablespoon,pos,True,"['variability_limited', 'affording_activity']",0.8333333333333334,0.5804559
+cutlery,pos,True,['affording_activity'],0.7777777777777778,0.39621678
+scalpel,pos,False,"['rare', 'unusual']",0.875,0.29336047
+chicken,pos,True,['variability_limited'],0.9,0.65840346
+cabbage,pos,True,"['affording_activity', 'variability_limited']",1.0,0.72226894
+galangal,pos,True,"['variability_limited', 'affording_activity']",1.0,0.63040394
+beetle,pos,False,"['unusual', 'rare']",0.8888888888888888,0.30224156
+rhubarb,pos,True,"['variability_limited', 'affording_activity']",1.0,0.6897571
+pestle,pos,True,['affording_activity'],0.875,0.5518869
+garlic,pos,True,"['variability_limited', 'affording_activity']",1.0,0.7352823
+pineapple,pos,True,['variability_limited'],1.0,0.64701873
+carrot,pos,True,['affording_activity'],1.0,0.4629849
+grappler,pos,False,['impossible'],0.7,0.14955504
+blade,pos,True,"['variability_limited', 'typical_of_property', 'affording_activity']",0.5555555555555556,0.3653052
+canary,pos,False,['unusual'],0.75,0.13767475
+auger,pos,False,['impossible'],0.875,0.26488015
+polisher,pos,False,['impossible'],0.9,0.21155034
+knife,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.39091948
+microwave,pos,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.46703276
+jackknife,pos,False,['impossible'],0.625,0.295274
+grater,pos,True,['variability_limited'],1.0,0.53080684
+pepperoni,pos,True,['affording_activity'],1.0,0.59289014
+flour,pos,True,['typical_of_property'],1.0,0.60481095
+meat,pos,True,"['typical_of_property', 'affording_activity', 'variability_limited']",1.0,0.59371036
+almond,pos,True,['variability_limited'],1.0,0.5723453
+asparagus,pos,True,"['affording_activity', 'variability_limited']",1.0,0.7458159
+lentil,pos,True,['affording_activity'],1.0,0.6050384
+shrimp,pos,True,"['variability_limited', 'affording_activity']",0.875,0.6179375
+oregano,pos,True,['variability_limited'],1.0,0.6314334
+snip,pos,False,['impossible'],0.7142857142857143,0.32430902
+broccoli,neg,True,"['affording_activity', 'variability_limited']",0.8888888888888888,0.72153354
+jackknife,neg,False,['impossible'],0.625,0.295274
+mustard,neg,True,"['variability_limited', 'affording_activity']",1.0,0.5451403
+corkscrew,neg,True,['variability_limited'],0.5714285714285714,0.32050648
+radish,neg,True,"['variability_limited', 'affording_activity']",1.0,0.67750776
+marinade,neg,True,"['affording_activity', 'variability_limited']",1.0,0.6703208
+bean,neg,True,['affording_activity'],0.8333333333333334,0.5956325
+condiment,neg,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.6244278
+pepperoni,neg,True,['affording_activity'],1.0,0.59289014
+meat,neg,True,"['typical_of_property', 'affording_activity', 'variability_limited']",1.0,0.59371036
+corn,neg,True,"['affording_activity', 'variability_limited']",1.0,0.49787173
+router,neg,False,['impossible'],0.625,0.21139847
+spade,neg,False,"['rare', 'unusual']",0.625,0.26407146
+snip,neg,False,['impossible'],0.7142857142857143,0.32430902
+scalpel,neg,False,"['rare', 'unusual']",0.875,0.29336047
+cutlery,neg,True,['affording_activity'],0.7777777777777778,0.39621678
+rhubarb,neg,True,"['variability_limited', 'affording_activity']",1.0,0.6897571
+pastry,neg,True,['affording_activity'],0.8333333333333334,0.6744901
+beetle,neg,False,"['unusual', 'rare']",0.8888888888888888,0.30224156
+taco,neg,True,"['variability_limited', 'affording_activity']",1.0,0.5293592

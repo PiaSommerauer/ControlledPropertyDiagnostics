@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+cob,pos,False,['impossible'],0.75,0.3204153
+lark,pos,True,['afforded_usual'],1.0,0.30060104
+rattlesnake,pos,True,['afforded_usual'],0.8571428571428571,0.57097065
+hackney,pos,False,['impossible'],0.7142857142857143,0.21234904
+collie,pos,False,['impossible'],0.8888888888888888,0.33622438
+pig,pos,False,['impossible'],0.875,0.49145028
+trout,pos,True,['afforded_usual'],1.0,0.7364139
+giraffe,pos,False,['impossible'],0.875,0.47149017
+hen,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.5474571
+jade,pos,False,['impossible'],1.0,0.31373185
+grade,pos,False,['impossible'],1.0,0.028787311
+plaice,pos,True,['afforded_usual'],0.8571428571428571,0.599578
+mankind,pos,False,['impossible'],0.875,0.1317909
+curlew,neg,True,['afforded_usual'],1.0,0.69823694
+mankind,neg,False,['impossible'],0.875,0.1317909
+turkey,neg,True,['afforded_usual'],0.875,0.5713765
+lark,neg,True,['afforded_usual'],1.0,0.30060104
+stork,neg,True,['afforded_usual'],0.8571428571428571,0.5338522
+lynx,neg,False,['impossible'],0.875,0.5040024
+crane,neg,False,['implied_category'],0.5555555555555556,0.3486002
+halibut,neg,True,['afforded_usual'],0.6666666666666666,0.652856
+tortoise,neg,True,['afforded_usual'],0.875,0.5395438
+hare,neg,False,['impossible'],0.875,0.4739401
+platypus,neg,True,['afforded_usual'],0.7142857142857143,0.47372994
+hackney,neg,False,['impossible'],0.7142857142857143,0.21234904
+grade,neg,False,['impossible'],1.0,0.028787311
+flounder,neg,False,['implied_category'],0.625,0.606861
+salmon,neg,True,['afforded_usual'],0.875,0.6508945
+egret,neg,True,['afforded_usual'],0.8888888888888888,0.66434276
+bonobo,neg,False,['impossible'],0.8571428571428571,0.41201168
+hobby,neg,False,"['unusual', 'impossible']",0.5714285714285714,0.21053939
+rattlesnake,neg,True,['afforded_usual'],0.8571428571428571,0.57097065
+bull,neg,False,['impossible'],0.75,0.3199824
+hen,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.5474571
+cob,neg,False,['impossible'],0.75,0.3204153

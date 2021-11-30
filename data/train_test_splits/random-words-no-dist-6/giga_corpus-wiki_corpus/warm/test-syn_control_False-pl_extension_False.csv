@@ -1,0 +1,64 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+telephone,pos,False,"['unusual', 'rare']",0.625,0.11188165
+bandana,pos,False,"['unusual', 'rare']",0.75,0.5896639
+glass,pos,False,['variability_open'],0.8,0.34916094
+scarf,pos,True,['affording_activity'],0.875,0.7084844
+grosgrain,pos,False,['unusual'],0.8,0.6496634
+surfboard,pos,False,"['unusual', 'rare']",0.625,0.40987545
+nightgown,pos,True,['affording_activity'],0.625,0.6731107
+bathtub,pos,False,['variability_open'],0.8888888888888888,0.40067434
+cake,pos,False,['variability_open'],0.8888888888888888,0.37976855
+bodice,pos,False,['variability_open'],0.625,0.5385003
+vinyl,pos,False,"['rare', 'variability_open']",0.5714285714285714,0.3709558
+jumpsuit,pos,False,['variability_open'],0.75,0.60035676
+topcoat,pos,True,['affording_activity'],0.7777777777777778,0.44609132
+sheepskin,pos,True,"['typical_of_property', 'affording_activity']",0.7777777777777778,0.5372232
+sun,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3026853
+quesadilla,pos,True,['affording_activity'],0.8,0.36895412
+shoe,pos,False,['variability_open'],0.8888888888888888,0.54737806
+fireplace,pos,True,['typical_of_property'],0.8888888888888888,0.40052286
+headgear,pos,False,['variability_open'],0.8571428571428571,0.5973722
+deerskin,pos,True,['affording_activity'],0.625,0.56837595
+problem,pos,False,['impossible'],0.875,0.09586232
+corset,pos,False,['variability_open'],0.75,0.62111336
+earring,pos,False,['unusual'],0.7777777777777778,0.52716744
+bikini,pos,False,['unusual'],0.7777777777777778,0.53932625
+garment,pos,True,['affording_activity'],0.9,0.5675573
+drink,pos,False,['variability_open'],0.9,0.2832825
+leotard,pos,False,['variability_open'],0.625,0.60513496
+handkerchief,pos,False,"['rare', 'unusual']",0.5555555555555556,0.6018288
+coffee,pos,True,"['affording_activity', 'typical_of_property']",0.875,0.30538508
+cuff,pos,False,['unusual'],0.9,0.3985693
+casserole,pos,True,['affording_activity'],0.875,0.44201666
+stove,pos,True,['affording_activity'],0.7777777777777778,0.42507097
+footwear,pos,True,['affording_activity'],0.8333333333333334,0.47957915
+bag,pos,False,['rare'],0.8888888888888888,0.46135843
+winter,pos,False,"['unusual', 'variability_open', 'rare', 'creative']",0.625,0.26058483
+turtleneck,pos,True,['affording_activity'],0.7,0.6351141
+undergarment,pos,False,['variability_open'],0.6666666666666666,0.6429588
+basement,pos,False,['variability_open'],0.8,0.26746628
+sleeve,pos,True,['affording_activity'],0.8571428571428571,0.47359344
+turban,pos,False,['variability_open'],0.75,0.53844947
+chiffon,pos,False,['variability_open'],0.5555555555555556,0.5778967
+glove,pos,True,['affording_activity'],1.0,0.46225363
+pomade,pos,False,['unusual'],0.8888888888888888,0.47273204
+shawl,pos,True,['affording_activity'],0.875,0.6599373
+calfskin,pos,True,['affording_activity'],0.6666666666666666,0.55310076
+vapor,pos,True,['affording_activity'],0.6666666666666666,0.21394894
+leather,pos,False,['variability_open'],0.8888888888888888,0.5572889
+loincloth,pos,False,['variability_open'],0.75,0.59117043
+stocking,pos,True,"['typical_of_property', 'affording_activity']",0.5555555555555556,0.32981873
+forest,pos,False,['rare'],0.7777777777777778,0.20452023
+attire,neg,True,['affording_activity'],0.8333333333333334,0.5854871
+scarf,neg,True,['affording_activity'],0.875,0.7084844
+mug,neg,False,['variability_open'],0.7777777777777778,0.36873534
+nightgown,neg,True,['affording_activity'],0.625,0.6731107
+underwear,neg,False,['variability_open'],0.8888888888888888,0.6333573
+chiffon,neg,False,['variability_open'],0.5555555555555556,0.5778967
+sheepskin,neg,True,"['typical_of_property', 'affording_activity']",0.7777777777777778,0.5372232
+coverall,neg,True,['variability_limited'],0.5555555555555556,0.4942807
+linen,neg,False,"['variability_open', 'unusual']",0.6666666666666666,0.5962438
+tea,neg,True,['typical_of_property'],0.875,0.27467903
+smoke,neg,False,['variability_open'],0.7777777777777778,0.2201565
+fireplace,neg,True,['typical_of_property'],0.8888888888888888,0.40052286
+bathrobe,neg,True,['affording_activity'],0.9,0.6180168

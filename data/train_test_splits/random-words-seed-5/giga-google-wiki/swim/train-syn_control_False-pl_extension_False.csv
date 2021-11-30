@@ -1,0 +1,69 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+robin,pos,False,"['creative', 'impossible', 'unusual']",0.5714285714285714,0.6000173
+springbok,pos,False,['unusual'],0.625,0.46162093
+whiting,pos,True,['afforded_usual'],0.8333333333333334,0.56271297
+trout,pos,True,['afforded_usual'],1.0,0.7184233
+shrimp,pos,True,['afforded_usual'],0.875,0.6317118
+partridge,pos,False,['unusual'],0.6666666666666666,0.44354555
+cat,pos,False,['afforded_unusual'],0.8,0.5998478
+fawn,pos,False,['afforded_unusual'],0.8888888888888888,0.4988719
+plaice,pos,True,"['typical_of_property', 'afforded_usual']",0.8571428571428571,0.56836444
+cockatoo,pos,False,['unusual'],0.7142857142857143,0.47799563
+bloodhound,pos,False,['afforded_unusual'],0.8888888888888888,0.34646052
+retriever,pos,False,['afforded_unusual'],0.875,0.44550788
+hippo,pos,True,['afforded_usual'],1.0,0.55831087
+buzzard,pos,False,['impossible'],1.0,0.5604802
+hake,pos,True,['afforded_usual'],1.0,0.5556024
+rodent,pos,True,['variability_limited'],0.625,0.56945115
+frog,pos,True,['afforded_usual'],0.8,0.6481599
+sturgeon,pos,True,['afforded_usual'],0.8571428571428571,0.71427405
+bulldog,pos,False,['afforded_unusual'],0.75,0.4340237
+shark,pos,True,['afforded_usual'],1.0,0.6443264
+coho,pos,True,['afforded_usual'],1.0,0.62131083
+sunfish,pos,True,['afforded_usual'],1.0,0.66980654
+colobus,pos,False,['unusual'],0.8888888888888888,0.57720417
+duckling,pos,True,['afforded_usual'],1.0,0.5378324
+mammal,pos,True,['variability_limited'],1.0,0.68122864
+puppy,pos,False,['afforded_unusual'],0.875,0.5006826
+crow,pos,False,['impossible'],0.7142857142857143,0.51806647
+herring,pos,True,['afforded_usual'],1.0,0.6631376
+rockfish,pos,True,['afforded_usual'],1.0,0.68514645
+rooster,pos,False,['unusual'],0.5714285714285714,0.55852973
+fish,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.7772564
+llama,pos,False,['unusual'],0.6,0.50592804
+dog,pos,False,"['afforded_unusual', 'implied_category']",0.75,0.5311346
+pony,pos,False,['afforded_unusual'],0.625,0.32619366
+flamingo,pos,True,['afforded_usual'],1.0,0.53345186
+cod,pos,True,['afforded_usual'],1.0,0.60758305
+owl,pos,False,"['impossible', 'unusual']",0.625,0.62324876
+lynx,pos,False,"['afforded_unusual', 'implied_category']",0.6666666666666666,0.5532384
+beef,pos,False,['impossible'],0.75,0.2979392
+goat,pos,False,['afforded_unusual'],0.8888888888888888,0.5088112
+haddock,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.5867461
+largemouth,pos,True,['afforded_usual'],1.0,0.6420261
+basset,pos,False,['afforded_unusual'],0.7142857142857143,0.49905905
+parakeet,pos,False,['unusual'],0.5555555555555556,0.45829457
+snake,pos,True,['variability_limited'],0.625,0.58756393
+sawfish,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.6539258
+primate,neg,True,['afforded_usual'],0.5714285714285714,0.43211848
+guppy,neg,True,['afforded_usual'],1.0,0.5793325
+bottlenose,neg,True,['afforded_usual'],1.0,0.64704436
+glutton,neg,False,['afforded_unusual'],0.5555555555555556,0.3009173
+bear,neg,False,"['implied_category', 'afforded_unusual']",0.7142857142857143,0.41785157
+octopus,neg,True,['afforded_usual'],1.0,0.4884222
+toy,neg,True,['variability_limited'],0.875,0.2860712
+gander,neg,True,['afforded_usual'],0.875,0.2101473
+runner,neg,True,['variability_limited'],0.625,0.13830672
+albatross,neg,True,['afforded_usual'],1.0,0.37939125
+painter,neg,False,['afforded_unusual'],0.75,0.23153904
+seal,neg,True,['afforded_usual'],1.0,0.28445363
+canary,neg,False,['impossible'],0.5714285714285714,0.27431256
+eagle,neg,False,['impossible'],0.7777777777777778,0.4488666
+chameleon,neg,False,['impossible'],0.625,0.29230037
+lark,neg,False,['impossible'],0.5714285714285714,0.23488864
+drum,neg,False,['impossible'],0.7142857142857143,0.20013939
+bonobo,neg,False,"['creative', 'unusual']",0.5714285714285714,0.41603246
+stock,neg,False,['impossible'],0.75,0.15246437
+bunting,neg,False,['impossible'],0.8333333333333334,0.24501911
+creeper,neg,False,['impossible'],0.8,0.3465888
+bat,neg,False,"['impossible', 'unusual']",0.5555555555555556,0.30563834

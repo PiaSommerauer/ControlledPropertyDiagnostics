@@ -1,0 +1,64 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+helmet,pos,False,['variability_open'],0.7777777777777778,0.48056784
+pomade,pos,False,['unusual'],0.8888888888888888,0.47273204
+underwear,pos,False,['variability_open'],0.8888888888888888,0.6333573
+bag,pos,False,['rare'],0.8888888888888888,0.46135843
+blanket,pos,True,['affording_activity'],1.0,0.487226
+kimono,pos,False,"['implied_category', 'variability_open']",0.6666666666666666,0.5799619
+glove,pos,True,['affording_activity'],1.0,0.46225363
+coffee,pos,True,"['affording_activity', 'typical_of_property']",0.875,0.30538508
+comforter,pos,True,"['affording_activity', 'typical_of_property']",0.6666666666666666,0.5363063
+dragon,pos,True,['variability_limited'],0.5714285714285714,0.28929925
+river,pos,False,"['rare', 'variability_open']",0.625,0.20865887
+blouse,pos,True,['variability_limited'],0.5714285714285714,0.6953734
+costume,pos,False,['variability_open'],0.875,0.5808277
+lava,pos,True,['affording_activity'],0.8888888888888888,0.25284752
+shoe,pos,False,['variability_open'],0.8888888888888888,0.54737806
+shawl,pos,True,['affording_activity'],0.875,0.6599373
+bed,pos,True,['affording_activity'],0.6,0.41687343
+shalwar,pos,False,['variability_open'],1.0,0.5930084
+cummerbund,pos,False,['rare'],0.7777777777777778,0.58464444
+toilet,pos,False,['variability_open'],0.8888888888888888,0.34946868
+linen,pos,False,"['variability_open', 'unusual']",0.6666666666666666,0.5962438
+vinyl,pos,False,"['rare', 'variability_open']",0.5714285714285714,0.3709558
+wig,pos,False,['variability_open'],0.625,0.63805693
+taffeta,pos,False,"['unusual', 'variability_open']",0.5555555555555556,0.56792396
+grosgrain,pos,False,['unusual'],0.8,0.6496634
+sheepskin,pos,True,"['typical_of_property', 'affording_activity']",0.7777777777777778,0.5372232
+candy,pos,False,"['unusual', 'rare']",0.7777777777777778,0.31531033
+cassock,pos,False,['variability_open'],0.8571428571428571,0.53876966
+tea,pos,True,['typical_of_property'],0.875,0.27467903
+gown,pos,False,['variability_open'],0.7777777777777778,0.625974
+denim,pos,True,['affording_activity'],0.6666666666666666,0.57722235
+pullover,pos,True,['affording_activity'],0.9090909090909091,0.58661693
+dress,pos,False,['variability_open'],0.8888888888888888,0.6977106
+poncho,pos,True,['affording_activity'],0.625,0.6430471
+flame,pos,True,"['affording_activity', 'typical_of_property']",0.9,0.28191862
+undergarment,pos,False,['variability_open'],0.6666666666666666,0.6429588
+turban,pos,False,['variability_open'],0.75,0.53844947
+clothing,pos,True,['affording_activity'],1.0,0.57899547
+beer,pos,False,['unusual'],0.8888888888888888,0.27338812
+mitten,pos,True,['affording_activity'],0.875,0.5120016
+lemonade,pos,False,"['unusual', 'rare']",0.9090909090909091,0.24753271
+miniskirt,pos,False,['unusual'],0.9,0.565326
+towel,pos,True,['affording_activity'],0.5555555555555556,0.53834474
+corset,pos,False,['variability_open'],0.75,0.62111336
+earring,pos,False,['unusual'],0.7777777777777778,0.52716744
+cuff,pos,False,['unusual'],0.9,0.3985693
+sweater,pos,True,['affording_activity'],1.0,0.68706983
+leather,pos,False,['variability_open'],0.8888888888888888,0.5572889
+necklace,pos,False,['unusual'],0.75,0.54083455
+trouser,pos,True,['affording_activity'],0.7142857142857143,0.5936727
+stocking,neg,True,"['typical_of_property', 'affording_activity']",0.5555555555555556,0.32981873
+boot,neg,True,['affording_activity'],0.625,0.39266697
+legging,neg,True,['affording_activity'],0.75,0.4384682
+atmosphere,neg,False,['variability_open'],0.8888888888888888,0.18388997
+head,neg,False,['variability_open'],0.7,0.17630425
+toe,neg,False,['variability_open'],0.8888888888888888,0.39952835
+heat,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.18560599
+winter,neg,False,"['unusual', 'variability_open', 'rare', 'creative']",0.625,0.26058483
+mug,neg,False,['variability_open'],0.7777777777777778,0.36873534
+space,neg,False,['variability_open'],0.625,0.1654243
+feather,neg,False,"['unusual', 'variability_open']",0.5714285714285714,0.39556596
+icicle,neg,False,['impossible'],1.0,0.41802642
+dad,neg,False,['variability_open'],0.6,0.26341534

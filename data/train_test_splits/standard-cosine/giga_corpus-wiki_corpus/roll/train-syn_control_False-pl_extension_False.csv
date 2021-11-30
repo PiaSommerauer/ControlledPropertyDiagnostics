@@ -1,0 +1,54 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+cylinder,pos,True,['typical_of_property'],0.75,0.6267947
+spindle,pos,True,['typical_of_property'],0.625,0.6032916
+rifling,pos,True,['afforded_usual'],0.625,0.20351902
+propeller,pos,True,['variability_limited'],0.7142857142857143,0.5858133
+roller,pos,True,['afforded_usual'],1.0,0.57693434
+bearing,pos,True,['variability_limited'],0.7142857142857143,0.23795624
+lathe,pos,True,['variability_limited'],0.5714285714285714,0.5802175
+footrest,pos,False,['afforded_unusual'],0.75,0.6224175
+nozzle,pos,True,['variability_limited'],0.6666666666666666,0.6529668
+tub,pos,True,['variability_limited'],0.8333333333333334,0.5669601
+paint,pos,True,['variability_limited'],0.6666666666666666,0.33942774
+car,pos,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.4917473
+windscreen,pos,False,['afforded_unusual'],0.625,0.5471918
+wagon,pos,True,['afforded_usual'],0.7,0.44836676
+wheelbarrow,pos,True,['afforded_usual'],0.7142857142857143,0.49868518
+washer,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5794264
+pipe,pos,False,['afforded_unusual'],0.8571428571428571,0.5199605
+dowel,pos,False,['implied_category'],0.7142857142857143,0.60813713
+bolt,pos,False,['afforded_unusual'],0.625,0.55379355
+ball,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.37349507
+nut,pos,True,['variability_limited'],0.7777777777777778,0.41290444
+pen,pos,False,['afforded_unusual'],1.0,0.35748374
+sprocket,pos,True,['afforded_usual'],0.875,0.63239825
+bike,pos,False,['implied_category'],0.7142857142857143,0.48570526
+barrel,pos,True,['typical_of_property'],0.8571428571428571,0.33082297
+tyre,pos,True,"['typical_of_property', 'afforded_usual']",1.0,oov
+tire,pos,True,['typical_of_property'],1.0,0.52169436
+bucket,pos,False,['afforded_unusual'],1.0,0.48007038
+grindstone,pos,False,['implied_category'],0.75,0.26973435
+radiator,pos,False,['afforded_unusual'],0.875,0.6534212
+hubcap,pos,True,['afforded_usual'],0.75,0.5422297
+windowpane,neg,False,['impossible'],0.5714285714285714,0.4163362
+handlebar,neg,True,['variability_limited'],0.5714285714285714,0.59850216
+brick,neg,False,"['creative', 'unusual', 'rare']",0.625,0.3397937
+pencil,neg,False,['unusual'],0.875,0.43728867
+hammer,neg,False,"['rare', 'unusual']",0.7142857142857143,0.3487941
+polyurethane,neg,True,['variability_limited'],0.625,0.3910364
+kiln,neg,False,"['creative', 'impossible']",0.7142857142857143,0.44582447
+tile,neg,False,['impossible'],0.7142857142857143,0.45454964
+gearshift,neg,False,['rare'],0.8333333333333334,0.5632767
+leather,neg,False,"['unusual', 'rare']",0.6666666666666666,0.43237692
+acrylic,neg,True,['variability_limited'],0.5714285714285714,0.41932523
+ski,neg,False,['unusual'],0.7142857142857143,0.2629207
+bumper,neg,False,['unusual'],0.8888888888888888,0.40180433
+handrail,neg,False,['unusual'],0.8888888888888888,0.5126548
+piston,neg,False,['unusual'],0.7777777777777778,0.5659023
+windshield,neg,False,"['unusual', 'rare']",0.875,0.5484622
+shoe,neg,False,['unusual'],0.875,0.4604292
+fireplace,neg,False,['impossible'],0.7142857142857143,0.44046253
+peg,neg,False,['rare'],0.8571428571428571,0.2882008
+driveshaft,neg,False,['unusual'],0.7142857142857143,0.5141256
+brake,neg,False,['impossible'],1.0,0.545015
+chimney,neg,False,['unusual'],0.75,oov

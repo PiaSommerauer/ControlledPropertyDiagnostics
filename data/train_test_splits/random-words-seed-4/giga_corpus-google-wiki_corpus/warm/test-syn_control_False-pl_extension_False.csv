@@ -1,0 +1,64 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+fireplace,pos,True,['typical_of_property'],0.8888888888888888,0.40052286
+turban,pos,False,['variability_open'],0.75,0.53844947
+leather,pos,False,['variability_open'],0.8888888888888888,0.5572889
+beer,pos,False,['unusual'],0.8888888888888888,0.27338812
+lemonade,pos,False,"['unusual', 'rare']",0.9090909090909091,0.24753271
+parka,pos,True,['affording_activity'],1.0,0.63155276
+candle,pos,True,['affording_activity'],0.75,0.37668857
+leotard,pos,False,['variability_open'],0.625,0.60513496
+cloak,pos,True,['affording_activity'],0.8,0.4595539
+waist,pos,False,['variability_open'],0.5714285714285714,0.49359077
+jean,pos,False,['variability_open'],0.7777777777777778,0.55100334
+miniskirt,pos,False,['unusual'],0.9,0.565326
+bed,pos,True,['affording_activity'],0.6,0.41687343
+mask,pos,False,['variability_open'],0.75,0.50046855
+cake,pos,False,['variability_open'],0.8888888888888888,0.37976855
+tortilla,pos,False,['variability_open'],0.7777777777777778,0.38404587
+dress,pos,False,['variability_open'],0.8888888888888888,0.6977106
+costume,pos,False,['variability_open'],0.875,0.5808277
+overcoat,pos,True,"['affording_activity', 'typical_of_property']",0.9,0.6569619
+cassock,pos,False,['variability_open'],0.8571428571428571,0.53876966
+sock,pos,True,['affording_activity'],0.75,0.6008214
+vest,pos,True,"['typical_of_property', 'affording_activity']",0.75,0.4828122
+clothing,pos,True,['affording_activity'],1.0,0.57899547
+hat,pos,True,['affording_activity'],0.7777777777777778,0.59016514
+glass,pos,False,['variability_open'],0.8,0.34916094
+bikini,pos,False,['unusual'],0.7777777777777778,0.53932625
+handkerchief,pos,False,"['rare', 'unusual']",0.5555555555555556,0.6018288
+earring,pos,False,['unusual'],0.7777777777777778,0.52716744
+linen,pos,False,"['variability_open', 'unusual']",0.6666666666666666,0.5962438
+uniform,pos,False,['variability_open'],0.75,0.4696886
+denim,pos,True,['affording_activity'],0.6666666666666666,0.57722235
+surfboard,pos,False,"['unusual', 'rare']",0.625,0.40987545
+kimono,pos,False,"['implied_category', 'variability_open']",0.6666666666666666,0.5799619
+fridge,pos,False,['unusual'],0.8888888888888888,0.35627383
+headgear,pos,False,['variability_open'],0.8571428571428571,0.5973722
+deerskin,pos,True,['affording_activity'],0.625,0.56837595
+quesadilla,pos,True,['affording_activity'],0.8,0.36895412
+drink,pos,False,['variability_open'],0.9,0.2832825
+corset,pos,False,['variability_open'],0.75,0.62111336
+underwear,pos,False,['variability_open'],0.8888888888888888,0.6333573
+headdress,pos,False,['variability_open'],0.7,0.55585563
+chiffon,pos,False,['variability_open'],0.5555555555555556,0.5778967
+river,pos,False,"['rare', 'variability_open']",0.625,0.20865887
+attire,pos,True,['affording_activity'],0.8333333333333334,0.5854871
+skirt,pos,False,"['unusual', 'variability_open', 'rare']",0.625,0.57716954
+flame,pos,True,"['affording_activity', 'typical_of_property']",0.9,0.28191862
+frock,pos,False,['variability_open'],0.8571428571428571,0.6764784
+grosgrain,pos,False,['unusual'],0.8,0.6496634
+cape,pos,False,"['variability_open', 'unusual']",0.5714285714285714,0.6447343
+toilet,pos,False,['variability_open'],0.8888888888888888,0.34946868
+mug,neg,False,['variability_open'],0.7777777777777778,0.36873534
+stocking,neg,True,"['typical_of_property', 'affording_activity']",0.5555555555555556,0.32981873
+idea,neg,False,"['creative', 'impossible']",0.8888888888888888,0.19903308
+head,neg,False,['variability_open'],0.7,0.17630425
+legging,neg,True,['affording_activity'],0.75,0.4384682
+winter,neg,False,"['unusual', 'variability_open', 'rare', 'creative']",0.625,0.26058483
+telephone,neg,False,"['unusual', 'rare']",0.625,0.11188165
+boot,neg,True,['affording_activity'],0.625,0.39266697
+atmosphere,neg,False,['variability_open'],0.8888888888888888,0.18388997
+kettle,neg,True,['affording_activity'],0.7777777777777778,0.35575962
+toe,neg,False,['variability_open'],0.8888888888888888,0.39952835
+feather,neg,False,"['unusual', 'variability_open']",0.5714285714285714,0.39556596
+space,neg,False,['variability_open'],0.625,0.1654243

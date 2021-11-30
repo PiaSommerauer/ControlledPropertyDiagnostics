@@ -1,0 +1,63 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+pasta,pos,True,"['affording_activity', 'typical_of_property', 'variability_limited']",1.0,0.72113425
+microwave,pos,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.46703276
+router,pos,False,['impossible'],0.625,0.21139847
+bread,pos,True,['affording_activity'],0.875,0.5783786
+cake,pos,True,['variability_limited'],0.75,0.5207062
+beef,pos,True,"['variability_limited', 'affording_activity']",1.0,0.4741515
+tomato,pos,True,['variability_limited'],0.8888888888888888,0.69105524
+carrot,pos,True,['affording_activity'],1.0,0.4629849
+cleaver,pos,True,['variability_limited'],0.9,0.3716535
+marinade,pos,True,"['affording_activity', 'variability_limited']",1.0,0.6703208
+dough,pos,True,['affording_activity'],1.0,0.59306943
+coconut,pos,True,"['variability_limited', 'affording_activity']",0.75,0.5445399
+canary,pos,False,['unusual'],0.75,0.13767475
+lentil,pos,True,['affording_activity'],1.0,0.6050384
+scalpel,pos,False,"['rare', 'unusual']",0.875,0.29336047
+stamp,pos,False,['impossible'],1.0,0.14942694
+cucumber,pos,True,"['affording_activity', 'variability_limited']",0.875,0.70763487
+file,pos,False,['unusual'],0.5714285714285714,0.05922548
+lettuce,pos,True,['affording_activity'],1.0,0.65836453
+vinaigrette,pos,True,"['affording_activity', 'variability_limited']",1.0,0.6997086
+hacksaw,pos,False,['impossible'],0.6666666666666666,0.29339457
+pincer,pos,False,['unusual'],0.6,0.24756293
+chisel,pos,False,['impossible'],0.6666666666666666,0.30155885
+confit,pos,True,['affording_activity'],0.875,0.66392267
+turnip,pos,True,['affording_activity'],1.0,0.5353838
+spinach,pos,True,['affording_activity'],0.8888888888888888,0.6548663
+chutney,pos,True,"['variability_limited', 'affording_activity']",1.0,0.67450666
+penknife,pos,False,['unusual'],0.75,0.35434195
+radish,pos,True,"['variability_limited', 'affording_activity']",1.0,0.67750776
+chainsaw,pos,False,"['unusual', 'rare']",0.6666666666666666,0.25920972
+gutter,pos,False,['impossible'],0.625,0.15347123
+jigsaw,pos,False,['impossible'],1.0,0.16218264
+spiciness,pos,True,['variability_limited'],1.0,0.5259076
+galangal,pos,True,"['variability_limited', 'affording_activity']",1.0,0.63040394
+bevel,pos,False,"['unusual', 'impossible']",0.5555555555555556,0.3357749
+casserole,pos,True,"['variability_limited', 'affording_activity']",0.875,0.69768316
+aubergine,pos,True,['affording_activity'],1.0,0.59714806
+pallet,pos,False,['impossible'],0.6666666666666666,0.2881699
+gavel,pos,False,['unusual'],0.5555555555555556,0.09951185
+cornmeal,pos,True,['affording_activity'],1.0,0.692076
+chickpea,neg,True,"['affording_activity', 'variability_limited']",1.0,0.55507994
+chisel,neg,False,['impossible'],0.6666666666666666,0.30155885
+chainsaw,neg,False,"['unusual', 'rare']",0.6666666666666666,0.25920972
+microwave,neg,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.46703276
+spinach,neg,True,['affording_activity'],0.8888888888888888,0.6548663
+gravy,neg,True,['variability_limited'],1.0,0.627097
+pea,neg,True,"['affording_activity', 'variability_limited']",1.0,0.56322604
+apron,neg,True,['affording_activity'],0.875,0.36871204
+jigsaw,neg,False,['impossible'],1.0,0.16218264
+beef,neg,True,"['variability_limited', 'affording_activity']",1.0,0.4741515
+screwdriver,neg,False,['impossible'],0.75,0.33045936
+sausage,neg,True,"['variability_limited', 'affording_activity']",1.0,0.6252361
+cheese,neg,True,['variability_limited'],0.875,0.6710985
+shrimp,neg,True,"['variability_limited', 'affording_activity']",0.875,0.6179375
+spiciness,neg,True,['variability_limited'],1.0,0.5259076
+beetle,neg,False,"['unusual', 'rare']",0.8888888888888888,0.30224156
+dough,neg,True,['affording_activity'],1.0,0.59306943
+confit,neg,True,['affording_activity'],0.875,0.66392267
+pounder,neg,True,"['affording_activity', 'variability_limited']",0.7777777777777778,0.24001628
+prawn,neg,True,['variability_limited'],1.0,0.568131
+flannel,neg,False,['impossible'],0.9,0.33421126
+opener,neg,True,['variability_limited'],0.75,0.14015377

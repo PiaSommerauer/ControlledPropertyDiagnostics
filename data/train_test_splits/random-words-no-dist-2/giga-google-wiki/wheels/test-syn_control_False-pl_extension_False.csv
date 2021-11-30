@@ -1,0 +1,37 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+train,pos,True,['affording_activity'],1.0,0.52755934
+coupe,pos,True,['affording_activity'],0.875,0.5340114
+axle,pos,True,['affording_activity'],0.75,0.5449375
+motorcar,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5945565
+sleigh,pos,False,"['impossible', 'unusual']",0.5714285714285714,0.54508895
+bike,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.65243834
+snowplow,pos,True,['affording_activity'],0.75,0.57231355
+luggage,pos,True,['variability_limited'],0.875,0.4450127
+caravan,pos,True,['affording_activity'],0.875,0.5182072
+cab,pos,True,['affording_activity'],1.0,0.6967887
+battleship,pos,False,['impossible'],0.875,0.2993035
+roadster,pos,True,['affording_activity'],0.8571428571428571,0.58136195
+diner,pos,True,['variability_limited'],0.6666666666666666,0.36553776
+dumper,pos,True,['affording_activity'],1.0,0.4839313
+carrier,pos,True,['affording_activity'],0.75,0.21327722
+footrest,pos,True,['variability_limited'],0.7777777777777778,0.4550975
+backhoe,pos,True,['affording_activity'],1.0,0.51021343
+diesel,pos,False,['impossible'],0.875,0.42412987
+railcar,pos,True,['affording_activity'],0.7777777777777778,0.5177695
+van,pos,True,['affording_activity'],1.0,0.6923946
+buggy,pos,True,['affording_activity'],1.0,0.5818664
+taxicab,pos,True,['affording_activity'],1.0,0.56581306
+hack,pos,False,['impossible'],1.0,0.07007767
+chaise,pos,False,['unusual'],0.625,0.34253293
+ambulance,pos,True,['affording_activity'],1.0,0.4710509
+motorbike,pos,True,['affording_activity'],1.0,0.6558162
+machine,neg,True,['variability_limited'],1.0,0.35959432
+railcar,neg,True,['affording_activity'],0.7777777777777778,0.5177695
+warship,neg,False,['impossible'],0.7142857142857143,0.2809547
+limousine,neg,True,['affording_activity'],1.0,0.55456823
+motorbike,neg,True,['affording_activity'],1.0,0.6558162
+bus,neg,True,['affording_activity'],1.0,0.6466723
+van,neg,True,['affording_activity'],1.0,0.6923946
+lorry,neg,True,['affording_activity'],1.0,0.6216436
+ambulance,neg,True,['affording_activity'],1.0,0.4710509
+buggy,neg,True,['affording_activity'],1.0,0.5818664

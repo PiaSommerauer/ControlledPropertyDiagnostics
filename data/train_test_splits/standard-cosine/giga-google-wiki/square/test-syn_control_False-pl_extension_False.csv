@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+newspaper,pos,True,['variability_limited'],0.8888888888888888,0.17543827
+mainframe,pos,True,['variability_limited'],0.6666666666666666,0.2813683
+phone,pos,True,['variability_limited'],0.7777777777777778,0.3108295
+hardware,pos,True,['variability_limited'],0.6666666666666666,0.34298027
+dining,pos,False,['variability_open'],0.625,0.35399932
+luggage,pos,True,['variability_limited'],0.75,0.389885
+button,pos,True,['variability_limited'],0.5714285714285714,0.40449345
+parlor,pos,True,['variability_limited'],0.875,0.41938272
+shelf,pos,True,['affording_activity'],0.75,0.43334824
+apartment,pos,False,"['implied_category', 'typical_of_concept', 'variability_open']",0.5714285714285714,0.44837674
+notebook,pos,True,['variability_limited'],0.6666666666666666,0.45280966
+cafeteria,pos,False,['variability_open'],0.6666666666666666,0.46323267
+computer,pos,True,['variability_limited'],0.625,0.47148263
+photocopier,pos,True,['variability_limited'],1.0,0.4899182
+workstation,pos,True,['variability_limited'],0.8571428571428571,0.5021115
+wallpaper,pos,True,['variability_limited'],0.875,0.51914793
+locker,pos,True,['variability_limited'],0.7777777777777778,0.5255543
+lounge,pos,True,['variability_limited'],0.875,0.55179274
+stairwell,pos,True,['variability_limited'],0.7142857142857143,0.5672737
+lavatory,pos,True,['variability_limited'],0.8571428571428571,0.5772631
+dumbwaiter,pos,True,['variability_limited'],0.625,0.5868574
+basement,pos,True,['variability_limited'],0.8571428571428571,0.5886268
+bedroom,pos,True,['variability_limited'],0.75,0.6016294
+closet,pos,False,['variability_open'],0.625,0.61248285
+fireplace,pos,True,['variability_limited'],0.5714285714285714,0.6211379
+drawer,pos,True,['variability_limited'],0.875,0.6265254
+tray,pos,True,['variability_limited'],0.5555555555555556,0.63878393
+dresser,pos,True,['variability_limited'],0.5555555555555556,0.6646079
+bookcase,pos,True,['variability_limited'],0.875,0.71455854
+globe,neg,False,['impossible'],0.7777777777777778,0.113706075
+circle,neg,False,['impossible'],1.0,0.18624607
+orange,neg,False,"['unusual', 'rare']",0.8333333333333334,0.19633351
+barrel,neg,False,"['rare', 'unusual']",1.0,0.21295618
+egg,neg,False,['impossible'],0.8571428571428571,0.22890583
+tortilla,neg,True,['variability_limited'],0.7142857142857143,0.27972335
+tape,neg,True,['variability_limited'],0.75,0.29531488
+pen,neg,False,['unusual'],0.75,0.34567294

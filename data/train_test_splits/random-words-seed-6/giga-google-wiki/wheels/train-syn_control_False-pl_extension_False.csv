@@ -1,0 +1,56 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+trawler,pos,False,['impossible'],0.7142857142857143,0.3761597
+limousine,pos,True,['affording_activity'],1.0,0.55456823
+taxicab,pos,True,['affording_activity'],1.0,0.56581306
+auto,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.3823855
+chassis,pos,True,['affording_activity'],0.75,0.48423696
+van,pos,True,['affording_activity'],1.0,0.6923946
+backhoe,pos,True,['affording_activity'],1.0,0.51021343
+chaise,pos,False,['unusual'],0.625,0.34253293
+jeep,pos,True,['affording_activity'],1.0,0.6472706
+caravan,pos,True,['affording_activity'],0.875,0.5182072
+roadster,pos,True,['affording_activity'],0.8571428571428571,0.58136195
+axle,pos,True,['affording_activity'],0.75,0.5449375
+car,pos,True,['affording_activity'],1.0,0.75739586
+cabriolet,pos,True,['affording_activity'],1.0,0.5154702
+minivan,pos,True,['affording_activity'],1.0,0.6648687
+streetcar,pos,True,['affording_activity'],0.875,0.45878652
+sleigh,pos,False,"['impossible', 'unusual']",0.5714285714285714,0.54508895
+automobile,pos,True,['affording_activity'],1.0,0.52820355
+snowmobile,pos,True,['variability_limited'],0.5714285714285714,0.53291214
+passenger,pos,False,['creative'],0.7777777777777778,0.5240537
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41810352
+train,pos,True,['affording_activity'],1.0,0.52755934
+ship,pos,False,"['rare', 'unusual']",0.7142857142857143,0.31081828
+pedicab,pos,True,['affording_activity'],1.0,0.5524863
+motorbike,pos,True,['affording_activity'],1.0,0.6558162
+scooter,pos,True,['affording_activity'],1.0,0.73185
+railcar,pos,True,['affording_activity'],0.7777777777777778,0.5177695
+warship,pos,False,['impossible'],0.7142857142857143,0.2809547
+wheel,pos,False,['typical_of_concept'],0.5714285714285714,0.5445846
+hearse,pos,True,['affording_activity'],1.0,0.5502213
+frigate,pos,False,['impossible'],0.75,0.2525019
+trailer,pos,True,['affording_activity'],1.0,0.53263843
+toboggan,pos,False,['unusual'],0.75,0.4392166
+lorry,pos,True,['affording_activity'],1.0,0.6216436
+ambulance,pos,True,['affording_activity'],1.0,0.4710509
+motorcar,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5945565
+cart,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5552182
+tractor,pos,True,['affording_activity'],1.0,0.6897495
+cab,pos,True,['affording_activity'],1.0,0.6967887
+gondola,pos,False,"['unusual', 'impossible']",0.7142857142857143,0.4984251
+machine,neg,True,['variability_limited'],1.0,0.35959432
+runabout,neg,True,['affording_activity'],0.75,0.5406961
+coach,neg,True,"['affording_activity', 'typical_of_property']",0.7142857142857143,0.1235034
+garage,neg,True,['variability_limited'],0.625,0.5229987
+unicycle,neg,True,['affording_activity'],1.0,0.44629517
+tank,neg,False,['implied_category'],0.5714285714285714,0.3131133
+pram,neg,True,['affording_activity'],1.0,0.488536
+luggage,neg,True,['variability_limited'],0.875,0.4450127
+carrier,neg,True,['affording_activity'],0.75,0.21327722
+handcart,neg,True,['affording_activity'],1.0,0.49502712
+diesel,neg,False,['impossible'],0.875,0.42412987
+diner,neg,True,['variability_limited'],0.6666666666666666,0.36553776
+trap,neg,False,['unusual'],0.75,0.17010312
+stage,neg,True,['variability_limited'],0.6666666666666666,0.12233525
+battleship,neg,False,['impossible'],0.875,0.2993035

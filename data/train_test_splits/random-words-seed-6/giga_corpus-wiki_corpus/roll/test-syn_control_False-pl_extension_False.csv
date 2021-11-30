@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+brake,pos,False,['impossible'],1.0,0.545015
+shovel,pos,False,['unusual'],0.8333333333333334,0.4404562
+nozzle,pos,True,['variability_limited'],0.6666666666666666,0.6529668
+wheel,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.5672695
+brick,pos,False,"['creative', 'unusual', 'rare']",0.625,0.3397937
+windscreen,pos,False,['afforded_unusual'],0.625,0.5471918
+car,pos,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.4917473
+paddle,pos,False,['unusual'],0.8888888888888888,0.4737506
+piston,pos,False,['unusual'],0.7777777777777778,0.5659023
+fireplace,pos,False,['impossible'],0.7142857142857143,0.44046253
+kiln,pos,False,"['creative', 'impossible']",0.7142857142857143,0.44582447
+leather,pos,False,"['unusual', 'rare']",0.6666666666666666,0.43237692
+tub,pos,True,['variability_limited'],0.8333333333333334,0.5669601
+cart,pos,True,['variability_limited'],0.625,0.45160478
+windshield,pos,False,"['unusual', 'rare']",0.875,0.5484622
+driveshaft,pos,False,['unusual'],0.7142857142857143,0.5141256
+hubcap,pos,True,['afforded_usual'],0.75,0.5422297
+cylinder,pos,True,['typical_of_property'],0.75,0.6267947
+tile,pos,False,['impossible'],0.7142857142857143,0.45454964
+polyurethane,pos,True,['variability_limited'],0.625,0.3910364
+nut,neg,True,['variability_limited'],0.7777777777777778,0.41290444
+tire,neg,True,['typical_of_property'],1.0,0.52169436
+projectile,neg,False,['unusual'],0.6666666666666666,0.41034633
+handrail,neg,False,['unusual'],0.8888888888888888,0.5126548
+paint,neg,True,['variability_limited'],0.6666666666666666,0.33942774
+donkey,neg,False,['impossible'],0.6666666666666666,0.33791885
+grindstone,neg,False,['implied_category'],0.75,0.26973435
+pen,neg,False,['afforded_unusual'],1.0,0.35748374
+bucket,neg,False,['afforded_unusual'],1.0,0.48007038
+bearing,neg,True,['variability_limited'],0.7142857142857143,0.23795624
+ball,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.37349507
+candle,neg,True,['variability_limited'],0.7142857142857143,0.38963717
+chock,neg,False,['creative'],0.625,0.2279267

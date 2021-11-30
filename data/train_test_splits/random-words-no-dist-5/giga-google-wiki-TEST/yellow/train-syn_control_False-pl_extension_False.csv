@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+cannon,pos,False,['unusual'],1.0,0.2726428
+allspice,pos,False,['unusual'],0.7777777777777778,0.453802
+vegetable,pos,False,['rare'],0.7142857142857143,0.5687152
+hornet,pos,True,['variability_limited'],1.0,0.45761687
+calf,pos,False,"['unusual', 'rare']",0.8571428571428571,0.28849176
+wasp,pos,True,['variability_limited'],1.0,0.5532879
+kingfisher,pos,False,['unusual'],0.625,0.4151056
+paint,pos,False,['variability_open'],0.8571428571428571,0.27776328
+guava,pos,False,['rare'],0.8888888888888888,0.60835975
+dog,pos,False,['unusual'],0.875,0.37935326
+boot,pos,False,['rare'],0.6666666666666666,0.17546244
+daisy,pos,True,['variability_limited'],0.8571428571428571,0.6083796
+orchid,pos,False,['variability_open'],0.75,0.5942502
+cream,pos,False,['unusual'],0.5454545454545454,0.45049158
+tank,pos,False,"['unusual', 'rare']",0.875,0.18245724
+mustard,pos,True,['typical_of_property'],0.8888888888888888,0.4912226
+sun,pos,True,"['variability_limited', 'typical_of_property']",1.0,0.3592802
+carrot,pos,False,['rare'],0.7777777777777778,0.48309362
+apple,pos,True,['variability_limited'],0.8571428571428571,0.6787194
+football,pos,False,['unusual'],0.7777777777777778,0.21264924
+flower,pos,True,['typical_of_property'],0.6666666666666666,0.6844545
+buttercup,pos,False,['typical_of_concept'],0.75,0.5819529
+vanilla,pos,False,"['rare', 'unusual']",0.5714285714285714,0.4796686
+aubergine,pos,False,['unusual'],0.6666666666666666,0.5345868
+millipede,pos,False,"['unusual', 'rare']",0.7142857142857143,0.40906465
+allspice,neg,False,['unusual'],0.7777777777777778,0.453802
+kingfisher,neg,False,['unusual'],0.625,0.4151056
+guava,neg,False,['rare'],0.8888888888888888,0.60835975
+dog,neg,False,['unusual'],0.875,0.37935326
+sheep,neg,False,['unusual'],0.875,0.38074136
+orchid,neg,False,['variability_open'],0.75,0.5942502
+sun,neg,True,"['variability_limited', 'typical_of_property']",1.0,0.3592802
+apple,neg,True,['variability_limited'],0.8571428571428571,0.6787194
+lemonade,neg,True,"['variability_limited', 'typical_of_property']",0.625,0.49409065
+football,neg,False,['unusual'],0.7777777777777778,0.21264924
+miner,neg,False,['creative'],0.7777777777777778,0.15101187
+locust,neg,True,['variability_limited'],0.875,0.47573277

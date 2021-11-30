@@ -1,0 +1,30 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+crow,pos,True,['afforded_usual'],0.875,0.563718
+char,pos,True,['afforded_usual'],0.6666666666666666,0.3388931
+smallmouth,pos,True,['afforded_usual'],1.0,0.64309454
+bass,pos,True,['afforded_usual'],0.625,0.50100607
+world,pos,False,['impossible'],0.75,0.05542506
+duck,pos,True,['afforded_usual'],1.0,0.5886289
+egret,pos,True,['afforded_usual'],0.8888888888888888,0.6505543
+whippet,pos,False,['impossible'],0.875,0.297752
+leatherback,pos,True,['afforded_usual'],0.875,0.5962258
+eland,pos,False,['impossible'],0.8571428571428571,0.46499544
+torpedo,pos,False,['impossible'],0.8888888888888888,0.19008282
+muskrat,pos,False,['impossible'],0.7142857142857143,0.581263
+merino,pos,False,['impossible'],1.0,0.26340485
+chicken,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.54465604
+flounder,pos,False,['implied_category'],0.625,0.6141344
+rattlesnake,pos,True,['afforded_usual'],0.8571428571428571,0.5780611
+hobby,pos,False,"['unusual', 'impossible']",0.5714285714285714,0.21256074
+skate,pos,False,['impossible'],0.75,0.21575025
+pig,pos,False,['impossible'],0.875,0.5011486
+stork,neg,True,['afforded_usual'],0.8571428571428571,0.53501534
+trout,neg,True,['afforded_usual'],1.0,0.74056494
+sheep,neg,False,['impossible'],1.0,0.42557627
+world,neg,False,['impossible'],0.75,0.05542506
+egret,neg,True,['afforded_usual'],0.8888888888888888,0.6505543
+equine,neg,False,['impossible'],1.0,0.22816648
+leatherback,neg,True,['afforded_usual'],0.875,0.5962258
+chamois,neg,False,['impossible'],1.0,0.30833384
+whiff,neg,False,['impossible'],0.7777777777777778,0.14329474
+pig,neg,False,['impossible'],0.875,0.5011486

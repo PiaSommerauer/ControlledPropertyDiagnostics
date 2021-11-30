@@ -1,0 +1,67 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+gorilla,pos,False,"['unusual', 'impossible']",0.6666666666666666,0.3909728
+flea,pos,False,['impossible'],0.5555555555555556,0.33424455
+plumage,pos,False,['variability_open'],1.0,0.51466084
+caterpillar,pos,True,['variability_limited'],0.5714285714285714,0.56163347
+slug,pos,False,"['unusual', 'rare']",0.5454545454545454,0.2916212
+sandpaper,pos,False,"['rare', 'variability_open']",0.6666666666666666,0.33224303
+nectarine,pos,False,"['impossible', 'unusual']",0.75,0.4382468
+ketchup,pos,False,['impossible'],0.7777777777777778,0.32854834
+scorpion,pos,True,['variability_limited'],0.6,0.56893885
+crypt,pos,False,['unusual'],0.7777777777777778,0.24791794
+blueberry,pos,True,['typical_of_property'],1.0,0.47325835
+peach,pos,False,['impossible'],0.625,0.50975174
+clothing,pos,False,['variability_open'],1.0,0.2759172
+kingfisher,pos,True,['variability_limited'],0.9,0.59724146
+sapphire,pos,True,"['typical_of_property', 'variability_limited', 'affording_activity']",0.8571428571428571,0.4086714
+cabbage,pos,False,['unusual'],0.8,0.46585017
+snake,pos,False,['rare'],0.8571428571428571,0.5664705
+cockroach,pos,False,['unusual'],0.75,0.498841
+problem,pos,False,['impossible'],0.8,0.15294278
+insect,pos,False,['variability_open'],1.0,0.5551046
+emerald,pos,False,"['unusual', 'impossible']",0.6666666666666666,0.48945886
+cider,pos,False,['unusual'],0.7142857142857143,0.29475898
+skunk,pos,False,['impossible'],0.7777777777777778,0.51287186
+parrot,pos,True,['variability_limited'],0.5555555555555556,0.52036464
+lagoon,neg,True,['variability_limited'],0.6666666666666666,0.38310918
+currant,neg,True,['variability_limited'],0.75,0.39463285
+beetle,neg,False,['unusual'],0.625,0.5230993
+peach,neg,False,['impossible'],0.625,0.50975174
+wand,neg,False,"['rare', 'unusual', 'variability_open']",0.75,0.44160354
+gorilla,neg,False,"['unusual', 'impossible']",0.6666666666666666,0.3909728
+emerald,neg,False,"['unusual', 'impossible']",0.6666666666666666,0.48945886
+cockroach,neg,False,['unusual'],0.75,0.498841
+plumage,neg,False,['variability_open'],1.0,0.51466084
+dogwood,neg,False,"['unusual', 'rare']",0.5555555555555556,0.5424711
+mussel,neg,True,['variability_limited'],0.75,0.49126846
+spider,neg,True,['variability_limited'],0.5714285714285714,0.5714041
+strawberry,neg,False,['impossible'],0.8333333333333334,0.4808982
+fish,neg,False,['variability_open'],1.0,0.49831358
+slug,neg,False,"['unusual', 'rare']",0.5454545454545454,0.2916212
+snake,neg,False,['rare'],0.8571428571428571,0.5664705
+buttercup,neg,False,['impossible'],0.6,0.48348835
+caterpillar,neg,True,['variability_limited'],0.5714285714285714,0.56163347
+feeling,neg,True,['variability_limited'],0.5555555555555556,0.20231715
+flame,neg,True,['variability_limited'],0.875,0.35459495
+clothing,neg,False,['variability_open'],1.0,0.2759172
+cloak,neg,False,['variability_open'],0.875,0.348022
+skunk,neg,False,['impossible'],0.7777777777777778,0.51287186
+buzzard,neg,False,['impossible'],0.7777777777777778,0.47911966
+insect,neg,False,['variability_open'],1.0,0.5551046
+cucumber,neg,False,['impossible'],0.6666666666666666,0.4799481
+scorpion,neg,True,['variability_limited'],0.6,0.56893885
+umbrella,neg,False,['variability_open'],1.0,0.28011745
+parrot,neg,True,['variability_limited'],0.5555555555555556,0.52036464
+nectarine,neg,False,"['impossible', 'unusual']",0.75,0.4382468
+beetroot,neg,False,['impossible'],0.7777777777777778,0.3893401
+calf,neg,False,['unusual'],0.875,0.30239332
+flea,neg,False,['impossible'],0.5555555555555556,0.33424455
+lettuce,neg,False,['impossible'],0.9,0.4195303
+boot,neg,False,['variability_open'],0.9,0.2795097
+grapefruit,neg,False,['impossible'],0.6666666666666666,0.42068216
+bra,neg,False,['variability_open'],0.875,0.423036
+cider,neg,False,['unusual'],0.7142857142857143,0.29475898
+cabbage,neg,False,['unusual'],0.8,0.46585017
+blueberry,neg,True,['typical_of_property'],1.0,0.47325835
+parakeet,neg,True,['variability_limited'],0.6666666666666666,0.4685206
+sapphire,neg,True,"['typical_of_property', 'variability_limited', 'affording_activity']",0.8571428571428571,0.4086714

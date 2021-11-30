@@ -1,0 +1,63 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bacon,pos,True,['affording_activity'],1.0,0.6571746
+penknife,pos,False,['unusual'],0.75,0.35434195
+scalpel,pos,False,"['rare', 'unusual']",0.875,0.29336047
+turnip,pos,True,['affording_activity'],1.0,0.5353838
+gutter,pos,False,['impossible'],0.625,0.15347123
+fork,pos,True,['variability_limited'],0.8333333333333334,0.4350692
+cutlet,pos,True,['affording_activity'],0.875,0.72064215
+toaster,pos,True,['affording_activity'],0.8888888888888888,0.3921522
+broccoli,pos,True,"['affording_activity', 'variability_limited']",0.8888888888888888,0.72153354
+jackknife,pos,False,['impossible'],0.625,0.295274
+hoe,pos,False,['unusual'],0.8571428571428571,0.31463543
+bean,pos,True,['affording_activity'],0.8333333333333334,0.5956325
+bread,pos,True,['affording_activity'],0.875,0.5783786
+switchblade,pos,False,"['rare', 'unusual']",0.75,0.31312877
+polisher,pos,False,['impossible'],0.9,0.21155034
+spiciness,pos,True,['variability_limited'],1.0,0.5259076
+comb,pos,False,['unusual'],0.7142857142857143,0.23532692
+beetle,pos,False,"['unusual', 'rare']",0.8888888888888888,0.30224156
+slaw,pos,True,"['variability_limited', 'affording_activity']",1.0,0.6819473
+mallet,pos,False,['unusual'],0.625,0.36296487
+gavel,pos,False,['unusual'],0.5555555555555556,0.09951185
+stew,pos,True,"['affording_activity', 'typical_of_property']",0.625,0.5568142
+cream,pos,True,['variability_limited'],0.8888888888888888,0.48996463
+galangal,pos,True,"['variability_limited', 'affording_activity']",1.0,0.63040394
+stylus,pos,False,['unusual'],0.75,0.24169926
+scythe,pos,False,['impossible'],0.9,0.20576057
+coconut,pos,True,"['variability_limited', 'affording_activity']",0.75,0.5445399
+stamp,pos,False,['impossible'],1.0,0.14942694
+pasta,pos,True,"['affording_activity', 'typical_of_property', 'variability_limited']",1.0,0.72113425
+blade,pos,True,"['variability_limited', 'typical_of_property', 'affording_activity']",0.5555555555555556,0.3653052
+beef,pos,True,"['variability_limited', 'affording_activity']",1.0,0.4741515
+spatula,pos,True,['affording_activity'],0.8888888888888888,0.5541007
+oven,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5430124
+carrot,pos,True,['affording_activity'],1.0,0.4629849
+router,pos,False,['impossible'],0.625,0.21139847
+opener,pos,True,['variability_limited'],0.75,0.14015377
+tomato,pos,True,['variability_limited'],0.8888888888888888,0.69105524
+celery,pos,True,['affording_activity'],1.0,0.7295388
+hammer,pos,False,"['rare', 'unusual']",0.8333333333333334,0.16410196
+shaver,pos,False,"['unusual', 'impossible']",0.5714285714285714,0.26462132
+stove,neg,True,['typical_of_property'],1.0,0.43119222
+confit,neg,True,['affording_activity'],0.875,0.66392267
+butter,neg,True,"['variability_limited', 'affording_activity']",1.0,0.5808232
+cutlet,neg,True,['affording_activity'],0.875,0.72064215
+marinade,neg,True,"['affording_activity', 'variability_limited']",1.0,0.6703208
+garlic,neg,True,"['variability_limited', 'affording_activity']",1.0,0.7352823
+cream,neg,True,['variability_limited'],0.8888888888888888,0.48996463
+pimento,neg,True,['variability_limited'],0.7777777777777778,0.71960694
+lime,neg,True,"['variability_limited', 'affording_activity']",0.7777777777777778,0.54361695
+lobster,neg,True,['variability_limited'],1.0,0.56189764
+pounder,neg,True,"['affording_activity', 'variability_limited']",0.7777777777777778,0.24001628
+trowel,neg,False,['unusual'],0.6666666666666666,0.41905615
+tablespoon,neg,True,"['variability_limited', 'affording_activity']",0.8333333333333334,0.5804559
+gang,neg,False,['impossible'],0.8888888888888888,0.0671308
+cleaver,neg,True,['variability_limited'],0.9,0.3716535
+canary,neg,False,['unusual'],0.75,0.13767475
+chicken,neg,True,['variability_limited'],0.9,0.65840346
+mushroom,neg,True,"['affording_activity', 'variability_limited']",0.7777777777777778,0.56099576
+vinegar,neg,True,['variability_limited'],0.8,0.6285241
+stamper,neg,False,['impossible'],0.8888888888888888,0.2430239
+pea,neg,True,"['affording_activity', 'variability_limited']",1.0,0.56322604
+soup,neg,True,['affording_activity'],1.0,0.72009075

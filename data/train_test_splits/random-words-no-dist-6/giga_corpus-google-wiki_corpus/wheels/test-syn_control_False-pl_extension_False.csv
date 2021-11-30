@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+luggage,pos,True,['variability_limited'],0.875,0.44262165
+train,pos,True,['affording_activity'],1.0,0.5238274
+bicycle,pos,True,['affording_activity'],1.0,0.6358282
+suv,pos,True,['affording_activity'],0.875,0.61364734
+limousine,pos,True,['affording_activity'],1.0,0.5561286
+bus,pos,True,['affording_activity'],1.0,0.6430231
+chassis,pos,True,['affording_activity'],0.75,0.4836028
+railcar,pos,True,['affording_activity'],0.7777777777777778,0.51756996
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41738355
+rickshaw,pos,True,['affording_activity'],1.0,0.6312858
+warship,pos,False,['impossible'],0.7142857142857143,0.27998853
+snowmobile,pos,True,['variability_limited'],0.5714285714285714,0.53117806
+footrest,pos,True,['variability_limited'],0.7777777777777778,0.45378962
+cart,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5561618
+trap,pos,False,['unusual'],0.75,0.16928083
+jeep,pos,True,['affording_activity'],1.0,0.6478769
+trailer,pos,True,['affording_activity'],1.0,0.5339814
+trolley,pos,True,['affording_activity'],1.0,0.63482165
+diesel,pos,False,['impossible'],0.875,0.4267391
+snowplow,pos,True,['affording_activity'],0.75,0.57062674
+gondola,pos,False,"['unusual', 'impossible']",0.7142857142857143,0.4933623
+pedicab,pos,True,['affording_activity'],1.0,0.5510616
+sidecar,pos,True,['affording_activity'],1.0,0.49716026
+hack,pos,False,['impossible'],1.0,0.070753016
+vehicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.70729595
+pram,pos,True,['affording_activity'],1.0,0.48951185
+dumper,pos,True,['affording_activity'],1.0,0.4845616
+hearse,pos,True,['affording_activity'],1.0,0.5535417
+airplane,neg,True,['affording_activity'],1.0,0.49027833
+garage,neg,True,['variability_limited'],0.625,0.5217404
+coach,neg,True,"['affording_activity', 'typical_of_property']",0.7142857142857143,0.1186221
+railcar,neg,True,['affording_activity'],0.7777777777777778,0.51756996
+car,neg,True,['affording_activity'],1.0,0.75618035
+rig,neg,True,['affording_activity'],0.5555555555555556,0.39481997
+dumper,neg,True,['affording_activity'],1.0,0.4845616
+motorcar,neg,True,"['typical_of_property', 'affording_activity']",1.0,0.5978849
+runabout,neg,True,['affording_activity'],0.75,0.54185027
+sleigh,neg,False,"['impossible', 'unusual']",0.5714285714285714,0.55025065

@@ -1,0 +1,69 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+robin,pos,False,"['creative', 'impossible', 'unusual']",0.5714285714285714,0.6000173
+whiting,pos,True,['afforded_usual'],0.8333333333333334,0.56271297
+deer,pos,False,['afforded_unusual'],0.7142857142857143,0.58287346
+trout,pos,True,['afforded_usual'],1.0,0.7184233
+shrimp,pos,True,['afforded_usual'],0.875,0.6317118
+cat,pos,False,['afforded_unusual'],0.8,0.5998478
+partridge,pos,False,['unusual'],0.6666666666666666,0.44354555
+plaice,pos,True,"['typical_of_property', 'afforded_usual']",0.8571428571428571,0.56836444
+bloodhound,pos,False,['afforded_unusual'],0.8888888888888888,0.34646052
+sparrow,pos,False,"['unusual', 'impossible']",0.5714285714285714,0.50973135
+buzzard,pos,False,['impossible'],1.0,0.5604802
+hake,pos,True,['afforded_usual'],1.0,0.5556024
+frog,pos,True,['afforded_usual'],0.8,0.6481599
+sturgeon,pos,True,['afforded_usual'],0.8571428571428571,0.71427405
+shark,pos,True,['afforded_usual'],1.0,0.6443264
+coho,pos,True,['afforded_usual'],1.0,0.62131083
+bluefish,pos,True,['afforded_usual'],0.9,0.5874974
+colobus,pos,False,['unusual'],0.8888888888888888,0.57720417
+whale,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.6878336
+duck,pos,True,['afforded_usual'],1.0,0.5476242
+lion,pos,False,['unusual'],0.5714285714285714,0.4262046
+chicken,pos,False,['impossible'],0.6666666666666666,0.46957767
+boar,pos,False,['afforded_unusual'],0.6666666666666666,0.58399004
+squirrel,pos,False,['unusual'],0.7142857142857143,0.64678144
+herring,pos,True,['afforded_usual'],1.0,0.6631376
+rockfish,pos,True,['afforded_usual'],1.0,0.68514645
+fox,pos,False,['unusual'],0.6666666666666666,0.619406
+seahorse,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.6275937
+panther,pos,False,['afforded_unusual'],0.75,0.5947835
+crab,pos,True,['afforded_usual'],0.6,0.6708091
+fish,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.7772564
+croaker,pos,True,['afforded_usual'],1.0,0.62157005
+bass,pos,True,['afforded_usual'],0.5714285714285714,0.50063837
+octopus,pos,True,['afforded_usual'],1.0,0.4884222
+roach,pos,False,['impossible'],0.6666666666666666,0.4899673
+bottlenose,pos,True,['afforded_usual'],1.0,0.64704436
+leopard,pos,False,['afforded_unusual'],0.5714285714285714,0.52989894
+beaver,pos,True,['afforded_usual'],1.0,0.61033493
+flamingo,pos,True,['afforded_usual'],1.0,0.53345186
+wolf,pos,False,['afforded_unusual'],0.75,0.58168393
+owl,pos,False,"['impossible', 'unusual']",0.625,0.62324876
+beef,pos,False,['impossible'],0.75,0.2979392
+goat,pos,False,['afforded_unusual'],0.8888888888888888,0.5088112
+largemouth,pos,True,['afforded_usual'],1.0,0.6420261
+chamois,pos,False,"['unusual', 'rare']",0.5714285714285714,0.33073834
+sawfish,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.6539258
+perch,neg,True,['afforded_usual'],1.0,0.45265102
+mouse,neg,False,['afforded_unusual'],1.0,0.35844985
+armadillo,neg,False,['afforded_unusual'],0.6666666666666666,0.5028575
+sardine,neg,True,['afforded_usual'],1.0,0.47397372
+gander,neg,True,['afforded_usual'],0.875,0.2101473
+fawn,neg,False,['afforded_unusual'],0.8888888888888888,0.4988719
+runner,neg,True,['variability_limited'],0.625,0.13830672
+albatross,neg,True,['afforded_usual'],1.0,0.37939125
+painter,neg,False,['afforded_unusual'],0.75,0.23153904
+seal,neg,True,['afforded_usual'],1.0,0.28445363
+darter,neg,True,['afforded_usual'],0.5714285714285714,0.41054612
+bay,neg,False,['implied_category'],0.5714285714285714,0.2717549
+canary,neg,False,['impossible'],0.5714285714285714,0.27431256
+chameleon,neg,False,['impossible'],0.625,0.29230037
+hack,neg,False,['impossible'],0.8571428571428571,0.12206736
+drum,neg,False,['impossible'],0.7142857142857143,0.20013939
+bonobo,neg,False,"['creative', 'unusual']",0.5714285714285714,0.41603246
+bunting,neg,False,['impossible'],0.8333333333333334,0.24501911
+creeper,neg,False,['impossible'],0.8,0.3465888
+thresher,neg,False,['impossible'],0.625,0.477298
+bat,neg,False,"['impossible', 'unusual']",0.5555555555555556,0.30563834
+cockatoo,neg,False,['unusual'],0.7142857142857143,0.47799563

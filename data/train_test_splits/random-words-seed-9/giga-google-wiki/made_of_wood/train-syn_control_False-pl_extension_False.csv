@@ -1,0 +1,68 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+transom,pos,True,['variability_limited'],0.75,0.57537514
+arrow,pos,True,['variability_limited'],1.0,0.44595918
+outrigger,pos,True,['variability_limited'],1.0,0.5459735
+sword,pos,True,['variability_limited'],0.5555555555555556,0.46010423
+pen,pos,False,"['unusual', 'rare']",1.0,0.35809365
+fence,pos,True,"['typical_of_property', 'variability_limited']",1.0,0.4080077
+footrest,pos,True,['variability_limited'],0.6666666666666666,0.62674916
+strap,pos,False,"['unusual', 'impossible']",0.5555555555555556,0.4934006
+deck,pos,True,['variability_limited'],0.8333333333333334,0.52399206
+wood,pos,True,['typical_of_property'],0.9,0.57139426
+pencil,pos,True,['typical_of_property'],0.9,0.45757934
+rafter,pos,True,"['variability_limited', 'affording_activity']",0.875,0.542789
+oar,pos,True,['variability_limited'],0.75,0.5658702
+hutch,pos,True,"['affording_activity', 'variability_limited']",0.6666666666666666,0.47602397
+bridge,pos,True,['variability_limited'],0.625,0.4021672
+holster,pos,False,['unusual'],0.875,0.3882409
+toothpick,pos,True,['variability_limited'],0.8571428571428571,0.5464795
+rail,pos,True,['variability_limited'],0.5714285714285714,0.24851753
+washtub,pos,True,['variability_limited'],0.75,0.6164867
+hardboard,pos,True,['affording_activity'],1.0,0.5012156
+floorboard,pos,True,"['variability_limited', 'typical_of_property']",1.0,0.5227216
+truss,pos,True,['variability_limited'],0.6666666666666666,0.56341225
+wheelbarrow,pos,True,['variability_limited'],0.7,0.45395967
+bamboo,pos,True,['affording_activity'],0.5714285714285714,0.4878442
+boat,pos,True,"['typical_of_property', 'variability_limited']",0.6666666666666666,0.48089367
+paddle,pos,True,['variability_limited'],0.75,0.55525875
+roof,pos,True,['variability_limited'],0.875,0.4897825
+wheel,pos,True,['variability_limited'],0.625,0.39688227
+kayak,pos,True,['variability_limited'],1.0,0.4769361
+pine,pos,True,['typical_of_property'],0.8888888888888888,0.4617443
+trestle,pos,True,['variability_limited'],1.0,0.49820298
+blade,pos,True,['variability_limited'],0.6666666666666666,0.5404827
+tray,pos,True,['variability_limited'],0.8571428571428571,0.5225125
+stick,pos,True,['typical_of_property'],0.8571428571428571,0.3558097
+plywood,pos,True,['typical_of_property'],1.0,0.56343013
+lumber,pos,True,['affording_activity'],1.0,0.4267071
+table,pos,True,['typical_of_property'],0.875,0.36929223
+wire,pos,False,['impossible'],0.7777777777777778,0.37451825
+lath,pos,True,['variability_limited'],0.8888888888888888,0.57917386
+shaft,pos,True,['variability_limited'],0.7777777777777778,0.4843917
+brush,pos,True,['variability_limited'],0.8888888888888888,0.38891113
+button,pos,True,['variability_limited'],0.875,0.35278302
+screw,pos,True,['variability_limited'],0.5555555555555556,0.44123092
+scabbard,pos,True,['variability_limited'],0.7142857142857143,0.469516
+spindle,pos,True,"['variability_limited', 'typical_of_property']",0.7777777777777778,0.506745
+window,pos,True,['variability_limited'],0.8571428571428571,0.4234139
+rod,pos,True,['variability_limited'],1.0,0.6089633
+clapboard,neg,True,"['typical_of_property', 'variability_limited', 'affording_activity']",0.8333333333333334,0.42881083
+bow,neg,True,['variability_limited'],1.0,0.4173739
+clock,neg,True,['variability_limited'],0.75,0.2182257
+chair,neg,True,['typical_of_property'],0.875,0.36969045
+plank,neg,True,"['affording_activity', 'typical_of_property']",0.875,0.42881507
+pin,neg,True,['variability_limited'],0.5555555555555556,0.37944457
+bass,neg,True,['variability_limited'],0.5555555555555556,0.35065904
+flute,neg,True,['variability_limited'],1.0,0.468685
+drum,neg,True,['variability_limited'],0.875,0.37914217
+houseboat,neg,True,['variability_limited'],1.0,0.42998832
+club,neg,False,['typical_of_concept'],0.625,0.18732876
+violin,neg,True,['affording_activity'],0.8888888888888888,0.4096238
+puppet,neg,True,['variability_limited'],0.75,0.2786948
+cello,neg,True,['affording_activity'],1.0,0.40040916
+deal,neg,False,['creative'],0.5555555555555556,0.06916339
+anchor,neg,False,['rare'],0.7777777777777778,0.24329087
+cushion,neg,False,['creative'],1.0,0.2732344
+cannon,neg,False,"['impossible', 'unusual']",0.5555555555555556,0.36823305
+date,neg,False,['impossible'],1.0,0.06613561
+saw,neg,False,['unusual'],0.7142857142857143,0.1287859

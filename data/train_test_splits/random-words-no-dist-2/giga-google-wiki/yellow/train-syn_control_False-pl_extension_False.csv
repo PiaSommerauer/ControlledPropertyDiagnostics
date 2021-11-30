@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+piano,pos,False,['unusual'],1.0,0.25131038
+radish,pos,False,['unusual'],0.6666666666666666,0.6654802
+cheese,pos,True,['variability_limited'],0.8888888888888888,0.53161937
+aubergine,pos,False,['unusual'],0.6666666666666666,0.5345868
+paint,pos,False,['variability_open'],0.8571428571428571,0.27776328
+grapefruit,pos,True,['variability_limited'],0.875,0.61381644
+insect,pos,False,['unusual'],0.5714285714285714,0.53012526
+herb,pos,False,['rare'],0.875,0.57257265
+mustard,pos,True,['typical_of_property'],0.8888888888888888,0.4912226
+boot,pos,False,['rare'],0.6666666666666666,0.17546244
+cheetah,pos,True,['variability_limited'],0.875,0.3277836
+marigold,pos,True,"['typical_of_property', 'variability_limited']",1.0,0.63135695
+sandpaper,pos,False,['variability_open'],0.5714285714285714,0.3533044
+grape,pos,False,"['unusual', 'rare']",0.7777777777777778,0.6403732
+allspice,pos,False,['unusual'],0.7777777777777778,0.453802
+cactus,pos,False,"['rare', 'unusual']",0.875,0.5789672
+daisy,pos,True,['variability_limited'],0.8571428571428571,0.6083796
+brick,pos,False,['unusual'],1.0,0.3081485
+guava,pos,False,['rare'],0.8888888888888888,0.60835975
+calf,pos,False,"['unusual', 'rare']",0.8571428571428571,0.28849176
+cream,pos,False,['unusual'],0.5454545454545454,0.45049158
+banana,pos,True,['variability_limited'],0.9,0.6403897
+skunk,pos,False,"['impossible', 'unusual']",0.625,0.49498174
+tomato,pos,False,['rare'],0.875,0.67435014
+huckleberry,pos,False,['unusual'],0.9,0.5221078
+radish,neg,False,['unusual'],0.6666666666666666,0.6654802
+cheese,neg,True,['variability_limited'],0.8888888888888888,0.53161937
+fox,neg,False,"['rare', 'unusual']",0.75,0.40346876
+paint,neg,False,['variability_open'],0.8571428571428571,0.27776328
+grapefruit,neg,True,['variability_limited'],0.875,0.61381644
+herb,neg,False,['rare'],0.875,0.57257265
+grape,neg,False,"['unusual', 'rare']",0.7777777777777778,0.6403732
+yolk,neg,False,['typical_of_concept'],0.875,0.47656408
+champagne,neg,True,['variability_limited'],0.7777777777777778,0.364284
+buttercup,neg,False,['typical_of_concept'],0.75,0.5819529
+banana,neg,True,['variability_limited'],0.9,0.6403897
+huckleberry,neg,False,['unusual'],0.9,0.5221078

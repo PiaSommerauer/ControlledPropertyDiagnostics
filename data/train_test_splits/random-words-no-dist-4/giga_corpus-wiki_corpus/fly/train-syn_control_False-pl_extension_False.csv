@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+basset,pos,False,"['unusual', 'impossible', 'rare']",0.7142857142857143,0.3963685
+mola,pos,False,['creative'],0.8888888888888888,0.38143536
+hind,pos,False,['impossible'],0.7142857142857143,0.30422312
+chick,pos,False,['impossible'],0.6666666666666666,0.51917404
+marabou,pos,True,['afforded_usual'],0.6666666666666666,0.50019675
+chow,pos,False,['impossible'],1.0,0.24820292
+coupe,pos,False,"['impossible', 'creative']",0.75,0.2816943
+flycatcher,pos,True,['afforded_usual'],0.75,0.6030125
+tit,pos,True,['afforded_usual'],0.7777777777777778,0.2541759
+grouper,pos,False,['impossible'],0.75,0.400736
+seal,pos,False,['impossible'],0.75,0.2330038
+plane,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.4582804
+arrow,pos,True,['afforded_usual'],0.5714285714285714,0.43357038
+forklift,pos,False,['impossible'],0.8333333333333334,0.20067084
+kite,pos,True,['afforded_usual'],1.0,0.508335
+hawk,pos,True,['afforded_usual'],1.0,0.497425
+sharpie,pos,False,['creative'],0.75,0.36586428
+gull,pos,True,['afforded_usual'],1.0,0.69280595
+armadillo,pos,False,['impossible'],1.0,0.4593857
+sloop,pos,False,['impossible'],0.6666666666666666,0.3112522
+lorry,pos,False,"['creative', 'impossible']",1.0,0.22363771
+plaice,pos,False,['impossible'],1.0,0.36786827
+craft,pos,True,['variability_limited'],0.625,0.35644224
+titi,pos,False,['impossible'],0.625,0.45781165
+skimmer,pos,False,['creative'],0.625,0.3141136
+tortoise,pos,False,['impossible'],0.8888888888888888,0.4941611
+mola,neg,False,['creative'],0.8888888888888888,0.38143536
+plane,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.4582804
+arrow,neg,True,['afforded_usual'],0.5714285714285714,0.43357038
+forklift,neg,False,['impossible'],0.8333333333333334,0.20067084
+hawk,neg,True,['afforded_usual'],1.0,0.497425
+gull,neg,True,['afforded_usual'],1.0,0.69280595
+craft,neg,True,['variability_limited'],0.625,0.35644224
+titi,neg,False,['impossible'],0.625,0.45781165
+snowbird,neg,True,['afforded_usual'],0.8571428571428571,0.40329155

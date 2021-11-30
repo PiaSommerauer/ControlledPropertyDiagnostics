@@ -1,0 +1,37 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+frigate,pos,False,['impossible'],0.75,0.2525019
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41810352
+jeep,pos,True,['affording_activity'],1.0,0.6472706
+handcart,pos,True,['affording_activity'],1.0,0.49502712
+dumper,pos,True,['affording_activity'],1.0,0.4839313
+wheel,pos,False,['typical_of_concept'],0.5714285714285714,0.5445846
+buggy,pos,True,['affording_activity'],1.0,0.5818664
+car,pos,True,['affording_activity'],1.0,0.75739586
+warship,pos,False,['impossible'],0.7142857142857143,0.2809547
+ambulance,pos,True,['affording_activity'],1.0,0.4710509
+stagecoach,pos,True,['affording_activity'],0.875,0.49276042
+battleship,pos,False,['impossible'],0.875,0.2993035
+backhoe,pos,True,['affording_activity'],1.0,0.51021343
+axle,pos,True,['affording_activity'],0.75,0.5449375
+rig,pos,True,['affording_activity'],0.5555555555555556,0.3954881
+locomotive,pos,True,['affording_activity'],1.0,0.6130605
+yacht,pos,False,['unusual'],0.7777777777777778,0.3658095
+snowplow,pos,True,['affording_activity'],0.75,0.57231355
+chaise,pos,False,['unusual'],0.625,0.34253293
+train,pos,True,['affording_activity'],1.0,0.52755934
+motorcar,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5945565
+saloon,pos,False,['implied_category'],0.625,0.48663476
+van,pos,True,['affording_activity'],1.0,0.6923946
+boat,pos,False,['unusual'],0.7777777777777778,0.5277981
+tram,pos,True,['affording_activity'],0.875,0.5244891
+limousine,pos,True,['affording_activity'],1.0,0.55456823
+buggy,neg,True,['affording_activity'],1.0,0.5818664
+runabout,neg,True,['affording_activity'],0.75,0.5406961
+cabriolet,neg,True,['affording_activity'],1.0,0.5154702
+saloon,neg,False,['implied_category'],0.625,0.48663476
+jeep,neg,True,['affording_activity'],1.0,0.6472706
+driver,neg,False,['creative'],0.875,0.51448303
+machine,neg,True,['variability_limited'],1.0,0.35959432
+diner,neg,True,['variability_limited'],0.6666666666666666,0.36553776
+luggage,neg,True,['variability_limited'],0.875,0.4450127
+snowplow,neg,True,['affording_activity'],0.75,0.57231355

@@ -1,0 +1,73 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+marabou,pos,True,['afforded_usual'],0.6666666666666666,0.49540552
+plane,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.4697583
+owl,pos,True,"['afforded_usual', 'typical_of_property']",0.875,0.7183219
+woodpecker,pos,True,['afforded_usual'],1.0,0.6334919
+crow,pos,True,['afforded_usual'],1.0,0.58019143
+loon,pos,True,['afforded_usual'],0.875,0.6512238
+wren,pos,True,['afforded_usual'],1.0,0.6517535
+craft,pos,True,['variability_limited'],0.625,0.36363137
+butterfly,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.5320281
+pheasant,pos,True,['afforded_usual'],0.7142857142857143,0.5719934
+pigeon,pos,True,['afforded_usual'],1.0,0.6565624
+snowbird,pos,True,['afforded_usual'],0.8571428571428571,0.40773335
+sky,pos,True,"['typical_of_property', 'afforded_usual']",0.5714285714285714,0.41446564
+nightingale,pos,True,['afforded_usual'],1.0,0.5076186
+wing,pos,True,['afforded_usual'],1.0,0.30023417
+flicker,pos,True,['afforded_usual'],0.625,0.26402718
+flycatcher,pos,True,['afforded_usual'],0.75,0.6043138
+pelican,pos,True,['afforded_usual'],0.75,0.6783921
+robin,pos,True,['afforded_usual'],1.0,0.69409066
+seagull,pos,True,['afforded_usual'],1.0,0.685988
+tit,pos,True,['afforded_usual'],0.7777777777777778,0.24770573
+airship,pos,True,['afforded_usual'],1.0,0.43738848
+fowl,pos,True,['variability_limited'],0.5714285714285714,0.5403323
+albatross,pos,True,['afforded_usual'],1.0,0.43432546
+gull,pos,True,['afforded_usual'],1.0,0.6935383
+shark,neg,False,['impossible'],1.0,0.49419808
+penguin,neg,False,['impossible'],0.8888888888888888,0.5079192
+lemur,neg,False,"['creative', 'impossible']",0.625,0.55800664
+giraffe,neg,False,['impossible'],0.8888888888888888,0.49209404
+stallion,neg,False,"['creative', 'impossible']",0.8888888888888888,0.27835503
+ostrich,neg,False,['impossible'],1.0,0.41866797
+mammal,neg,True,['variability_limited'],0.8571428571428571,0.61629474
+groundhog,neg,False,['impossible'],0.9,0.4740289
+lion,neg,False,['impossible'],0.8888888888888888,0.34868205
+tiger,neg,False,['impossible'],1.0,0.4876917
+saloon,neg,False,['impossible'],0.875,0.17551063
+steamer,neg,False,['impossible'],0.8888888888888888,0.25998306
+forklift,neg,False,['impossible'],0.8333333333333334,0.20355411
+tractor,neg,False,['impossible'],0.8888888888888888,0.25298995
+minnow,neg,False,['impossible'],1.0,0.38264194
+sunfish,neg,False,['impossible'],1.0,0.4779475
+turtle,neg,False,['impossible'],0.7142857142857143,0.6149469
+jalopy,neg,False,['impossible'],0.875,0.27874935
+bobcat,neg,False,['impossible'],0.7142857142857143,0.5257265
+ass,neg,False,['impossible'],0.875,0.2199138
+skimmer,neg,False,['creative'],0.625,0.32367018
+hind,neg,False,['impossible'],0.7142857142857143,0.30011907
+lorry,neg,False,"['creative', 'impossible']",1.0,0.21272299
+deer,neg,False,['impossible'],1.0,0.5296513
+heap,neg,False,['impossible'],0.875,0.122688234
+rabbit,neg,False,['impossible'],1.0,0.5932541
+trailer,neg,False,['impossible'],0.75,0.19587964
+emu,neg,False,"['impossible', 'creative']",0.75,0.4564313
+shell,neg,False,['impossible'],0.8333333333333334,0.23709217
+interceptor,neg,False,['impossible'],0.7142857142857143,0.29894334
+ferry,neg,False,['impossible'],0.8571428571428571,0.2434468
+monkey,neg,False,"['creative', 'impossible']",0.75,0.48104003
+car,neg,False,['creative'],1.0,0.24417764
+haddock,neg,False,['impossible'],0.875,0.39462563
+knot,neg,False,['impossible'],0.75,0.16720921
+scull,neg,False,['impossible'],1.0,0.3351797
+mouse,neg,False,['impossible'],0.8888888888888888,0.31366292
+catfish,neg,False,['impossible'],0.8888888888888888,0.42619786
+tortoise,neg,False,['impossible'],0.8888888888888888,0.48924872
+plaice,neg,False,['impossible'],1.0,0.358488
+poacher,neg,False,['impossible'],0.8888888888888888,0.34240755
+stock,neg,False,['impossible'],1.0,0.1447363
+tower,neg,False,['impossible'],1.0,0.29128492
+silverback,neg,False,['impossible'],1.0,0.402405
+chick,neg,False,['impossible'],0.6666666666666666,0.51037395
+seal,neg,False,['impossible'],0.75,0.2373394
+buffalo,neg,False,['impossible'],1.0,0.5101844

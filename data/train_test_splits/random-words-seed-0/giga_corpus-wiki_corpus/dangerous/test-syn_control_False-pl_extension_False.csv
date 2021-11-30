@@ -1,0 +1,47 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+thief,pos,True,"['affording_activity', 'typical_of_property']",0.625,0.46511164
+scimitar,pos,True,['affording_activity'],1.0,0.52669686
+ciprofloxacin,pos,False,"['rare', 'unusual']",0.75,0.21232957
+gun,pos,True,['typical_of_property'],1.0,0.65702903
+blender,pos,False,['rare'],0.6666666666666666,0.2729197
+bayonet,pos,True,['affording_activity'],1.0,0.50598216
+methamphetamine,pos,True,"['typical_of_property', 'affording_activity']",0.5714285714285714,0.36310917
+missile,pos,True,['affording_activity'],1.0,0.3835656
+spud,pos,False,['unusual'],0.875,0.1897519
+henchman,pos,True,"['typical_of_property', 'affording_activity']",0.625,0.45035997
+mallet,pos,False,"['variability_open', 'implied_category']",0.75,0.5037477
+blade,pos,True,"['typical_of_property', 'affording_activity']",0.75,0.4386613
+sniper,pos,True,['affording_activity'],1.0,0.509346
+crowbar,pos,False,['unusual'],0.7142857142857143,0.5318939
+gang,pos,True,['affording_activity'],0.875,0.43941256
+sword,pos,True,['typical_of_property'],1.0,0.5788234
+hijacker,pos,True,['affording_activity'],0.625,0.42259282
+soup,pos,False,"['rare', 'unusual']",0.875,0.24934714
+businessman,pos,False,"['rare', 'unusual']",1.0,0.22660929
+pistol,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.67156154
+fork,pos,False,['rare'],0.8571428571428571,0.2501501
+torpedo,pos,True,['affording_activity'],0.875,0.40094408
+arrow,pos,True,['affording_activity'],1.0,0.55261964
+mafioso,pos,True,['affording_activity'],1.0,0.4039271
+killer,pos,True,"['affording_activity', 'typical_of_property']",0.75,0.43172374
+bootlegger,pos,True,['variability_limited'],0.625,0.38851264
+iodine,neg,False,['rare'],0.8571428571428571,0.20212981
+club,neg,True,['variability_limited'],0.7142857142857143,0.16218323
+punk,neg,False,"['rare', 'variability_open']",0.75,0.24126078
+toad,neg,False,['unusual'],1.0,0.42585096
+starter,neg,False,['unusual'],0.5555555555555556,0.16631326
+malaria,neg,True,['typical_of_property'],0.6666666666666666,0.25472236
+pusher,neg,False,['unusual'],0.7142857142857143,0.28696227
+dip,neg,False,"['unusual', 'creative']",0.5555555555555556,0.113249406
+beetle,neg,False,['unusual'],1.0,0.38148585
+turtle,neg,False,"['unusual', 'rare']",0.8888888888888888,0.37049612
+buffer,neg,False,['unusual'],0.7142857142857143,0.11906463
+tuck,neg,False,['creative'],0.5714285714285714,0.19482931
+virus,neg,True,['affording_activity'],1.0,0.2934168
+nursing,neg,False,"['rare', 'unusual']",0.875,0.10262817
+elixir,neg,False,['rare'],0.75,0.23591204
+mop,neg,False,['rare'],1.0,0.19126254
+langur,neg,False,"['unusual', 'rare']",1.0,0.35022676
+bar,neg,False,['unusual'],1.0,0.23559979
+goat,neg,False,"['rare', 'unusual']",0.8,0.3531621
+rabbit,neg,False,['unusual'],0.875,0.43063784

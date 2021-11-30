@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+loon,pos,True,['afforded_usual'],0.875,0.6536521
+owl,pos,True,"['afforded_usual', 'typical_of_property']",0.875,0.72267693
+marabou,pos,True,['afforded_usual'],0.6666666666666666,0.50019675
+rabbit,pos,False,['impossible'],1.0,0.60306835
+pussy,pos,False,"['creative', 'impossible']",0.7777777777777778,0.28606346
+wing,pos,True,['afforded_usual'],1.0,0.29160115
+jet,pos,True,['afforded_usual'],1.0,0.42093322
+plane,pos,True,"['afforded_usual', 'typical_of_property']",1.0,0.4582804
+junk,pos,False,"['impossible', 'creative']",0.75,0.19936004
+coupe,pos,False,"['impossible', 'creative']",0.75,0.2816943
+zebra,pos,False,['impossible'],0.8888888888888888,0.435466
+kite,pos,True,['afforded_usual'],1.0,0.508335
+bomber,pos,True,['afforded_usual'],0.7777777777777778,0.36306897
+grouper,pos,False,['impossible'],0.75,0.400736
+ostrich,pos,False,['impossible'],1.0,0.4188289
+hog,pos,False,['impossible'],0.625,0.3067673
+shell,pos,False,['impossible'],0.8333333333333334,0.23348576
+skylark,pos,True,['afforded_usual'],1.0,0.57269216
+twinjet,pos,True,['afforded_usual'],0.8888888888888888,0.30762663
+pheasant,pos,True,['afforded_usual'],0.7142857142857143,0.5736886
+hawk,pos,True,['afforded_usual'],1.0,0.497425
+quail,pos,True,['afforded_usual'],0.6666666666666666,0.6025495
+budgie,pos,True,['afforded_usual'],1.0,0.5915483
+crow,pos,True,['afforded_usual'],1.0,0.5822318
+watchdog,pos,False,['impossible'],0.8571428571428571,0.10954511
+whistler,pos,False,['impossible'],0.6666666666666666,0.27822843
+loon,neg,True,['afforded_usual'],0.875,0.6536521
+owl,neg,True,"['afforded_usual', 'typical_of_property']",0.875,0.72267693
+pussy,neg,False,"['creative', 'impossible']",0.7777777777777778,0.28606346
+heap,neg,False,['impossible'],0.875,0.12456575
+zebra,neg,False,['impossible'],0.8888888888888888,0.435466
+kite,neg,True,['afforded_usual'],1.0,0.508335
+sky,neg,True,"['typical_of_property', 'afforded_usual']",0.5714285714285714,0.4148786
+pheasant,neg,True,['afforded_usual'],0.7142857142857143,0.5736886
+quail,neg,True,['afforded_usual'],0.6666666666666666,0.6025495

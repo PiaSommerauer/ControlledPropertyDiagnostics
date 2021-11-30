@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+mud,pos,False,['variability_open'],0.875,0.48231855
+cheesecloth,pos,False,['unusual'],0.6,0.49853158
+fridge,pos,True,['affording_activity'],1.0,0.58318263
+vinyl,pos,False,['variability_open'],0.7,0.3879183
+permafrost,pos,True,['affording_activity'],1.0,0.37901953
+oven,pos,False,['variability_open'],0.5555555555555556,0.57710373
+toilet,pos,False,['variability_open'],0.7,0.46225443
+slime,pos,False,['variability_open'],0.7777777777777778,0.42270327
+basement,pos,False,['variability_open'],0.875,0.39688206
+candle,pos,False,['variability_open'],0.75,0.44401702
+rain,pos,False,['variability_open'],0.75,0.37439024
+dogwood,pos,False,['variability_open'],0.875,0.3632827
+surface,pos,False,['variability_open'],0.75,0.3765158
+icicle,pos,True,"['affording_activity', 'typical_of_property']",0.9090909090909091,0.5519173
+vapor,pos,False,['variability_open'],0.625,0.40799382
+water,pos,True,['affording_activity'],0.875,0.4999028
+snowfall,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3804367
+drink,pos,True,['affording_activity'],0.5555555555555556,0.45854267
+dust,pos,False,['unusual'],0.7142857142857143,0.3746063
+soda,pos,True,['typical_of_property'],0.8571428571428571,0.5146907
+curd,pos,False,['variability_open'],0.9,0.569426
+snow,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.49058938
+winter,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3240304
+snowdrift,pos,True,"['affording_activity', 'typical_of_property']",0.8181818181818182,0.44552898
+fireplace,pos,False,['variability_open'],0.875,0.47293183
+tea,pos,False,['variability_open'],0.8571428571428571,0.382354
+iceberg,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.24733807
+foot,neg,False,['unusual'],0.8888888888888888,0.28916252
+finger,neg,False,['variability_open'],0.625,0.2996726
+cake,neg,False,['variability_open'],1.0,0.5458127
+idea,neg,False,['impossible'],0.7,0.2230111
+balloon,neg,False,['variability_open'],0.75,0.39273435
+sundae,neg,True,['affording_activity'],1.0,0.52118933
+jungle,neg,False,['unusual'],0.8888888888888888,0.24310446
+hatred,neg,False,['creative'],0.8888888888888888,0.18387431

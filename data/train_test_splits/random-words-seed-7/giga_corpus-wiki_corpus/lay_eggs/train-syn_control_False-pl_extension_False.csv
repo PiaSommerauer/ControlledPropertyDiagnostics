@@ -1,0 +1,55 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+giraffe,pos,False,['impossible'],0.875,0.47149017
+crocodile,pos,True,['afforded_usual'],0.875,0.58445644
+pachyderm,pos,False,['impossible'],0.8571428571428571,0.38527688
+deer,pos,False,['impossible'],0.875,0.5968984
+chamois,pos,False,['impossible'],1.0,0.3173163
+curlew,pos,True,['afforded_usual'],1.0,0.69823694
+addax,pos,False,['impossible'],0.8,0.50843745
+pig,pos,False,['impossible'],0.875,0.49145028
+turkey,pos,True,['afforded_usual'],0.875,0.5713765
+egret,pos,True,['afforded_usual'],0.8888888888888888,0.66434276
+leopard,pos,False,['impossible'],1.0,0.47304055
+platypus,pos,True,['afforded_usual'],0.7142857142857143,0.47372994
+tortoise,pos,True,['afforded_usual'],0.875,0.5395438
+robin,pos,True,['afforded_usual'],0.8888888888888888,0.6817956
+muskrat,pos,False,['impossible'],0.7142857142857143,0.5818912
+chicken,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.5377945
+lynx,pos,False,['impossible'],0.875,0.5040024
+merino,pos,False,['impossible'],1.0,oov
+sheep,pos,False,['impossible'],1.0,0.42925793
+cow,pos,False,['impossible'],1.0,0.38192898
+trout,neg,True,['afforded_usual'],1.0,0.7364139
+smallmouth,neg,True,['afforded_usual'],1.0,0.6387102
+crow,neg,True,['afforded_usual'],0.875,0.5676063
+flounder,neg,False,['implied_category'],0.625,0.606861
+albatross,neg,True,['afforded_usual'],0.875,0.41030174
+halibut,neg,True,['afforded_usual'],0.6666666666666666,0.652856
+bass,neg,True,['afforded_usual'],0.625,0.49731264
+salmon,neg,True,['afforded_usual'],0.875,0.6508945
+char,neg,True,['afforded_usual'],0.6666666666666666,0.3472094
+hen,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.5474571
+plaice,neg,True,['afforded_usual'],0.8571428571428571,0.599578
+roach,neg,True,['afforded_usual'],0.875,0.53931195
+lark,neg,True,['afforded_usual'],1.0,0.30060104
+stork,neg,True,['afforded_usual'],0.8571428571428571,0.5338522
+cock,neg,False,['impossible'],0.7777777777777778,0.42466602
+drum,neg,False,['impossible'],1.0,0.1825706
+malinois,neg,False,['impossible'],1.0,0.29986677
+whiff,neg,False,['impossible'],0.7777777777777778,0.13868503
+painter,neg,False,['impossible'],0.8571428571428571,0.2170313
+armadillo,neg,False,['impossible'],1.0,0.46425775
+hobby,neg,False,"['unusual', 'impossible']",0.5714285714285714,0.21053939
+layer,neg,False,"['impossible', 'creative']",0.5555555555555556,0.09444482
+human,neg,False,['impossible'],0.8888888888888888,0.2062046
+skate,neg,False,['impossible'],0.75,0.2204436
+hack,neg,False,['impossible'],0.875,0.09834061
+drill,neg,False,['impossible'],0.7142857142857143,0.12061538
+grade,neg,False,['impossible'],1.0,0.028787311
+mole,neg,False,['impossible'],0.625,0.33219016
+mankind,neg,False,['impossible'],0.875,0.1317909
+gnu,neg,False,['impossible'],0.8571428571428571,0.33422807
+equine,neg,False,['impossible'],1.0,0.224331
+tabby,neg,False,['impossible'],1.0,0.4354358
+world,neg,False,['impossible'],0.75,0.051704768
+lemming,neg,False,['impossible'],0.8888888888888888,0.29367402

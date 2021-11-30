@@ -1,0 +1,37 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bike,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.65243834
+ship,pos,False,"['rare', 'unusual']",0.7142857142857143,0.31081828
+diesel,pos,False,['impossible'],0.875,0.42412987
+wheelbase,pos,True,['affording_activity'],0.75,0.41358152
+carriage,pos,True,['affording_activity'],1.0,0.54425657
+limousine,pos,True,['affording_activity'],1.0,0.55456823
+pedicab,pos,True,['affording_activity'],1.0,0.5524863
+sleigh,pos,False,"['impossible', 'unusual']",0.5714285714285714,0.54508895
+coupe,pos,True,['affording_activity'],0.875,0.5340114
+buggy,pos,True,['affording_activity'],1.0,0.5818664
+vehicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.7091357
+chaise,pos,False,['unusual'],0.625,0.34253293
+automobile,pos,True,['affording_activity'],1.0,0.52820355
+taxicab,pos,True,['affording_activity'],1.0,0.56581306
+auto,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.3823855
+windshield,pos,False,['impossible'],0.875,0.46897617
+rig,pos,True,['affording_activity'],0.5555555555555556,0.3954881
+garage,pos,True,['variability_limited'],0.625,0.5229987
+tractor,pos,True,['affording_activity'],1.0,0.6897495
+railcar,pos,True,['affording_activity'],0.7777777777777778,0.5177695
+scooter,pos,True,['affording_activity'],1.0,0.73185
+motorbike,pos,True,['affording_activity'],1.0,0.6558162
+bus,pos,True,['affording_activity'],1.0,0.6466723
+jeep,pos,True,['affording_activity'],1.0,0.6472706
+diner,pos,True,['variability_limited'],0.6666666666666666,0.36553776
+stage,pos,True,['variability_limited'],0.6666666666666666,0.12233525
+bus,neg,True,['affording_activity'],1.0,0.6466723
+toboggan,neg,False,['unusual'],0.75,0.4392166
+scooter,neg,True,['affording_activity'],1.0,0.73185
+bicycle,neg,True,['affording_activity'],1.0,0.6394161
+trolley,neg,True,['affording_activity'],1.0,0.637359
+ambulance,neg,True,['affording_activity'],1.0,0.4710509
+frigate,neg,False,['impossible'],0.75,0.2525019
+driver,neg,False,['creative'],0.875,0.51448303
+rig,neg,True,['affording_activity'],0.5555555555555556,0.3954881
+sleigh,neg,False,"['impossible', 'unusual']",0.5714285714285714,0.54508895

@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+scooter,pos,True,['affording_activity'],1.0,0.7302409
+yacht,pos,False,['unusual'],0.7777777777777778,0.36479196
+rickshaw,pos,True,['affording_activity'],1.0,0.6312858
+runabout,pos,True,['affording_activity'],0.75,0.54185027
+car,pos,True,['affording_activity'],1.0,0.75618035
+cart,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5561618
+van,pos,True,['affording_activity'],1.0,0.69436264
+bike,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.6493297
+diesel,pos,False,['impossible'],0.875,0.4267391
+sleigh,pos,False,"['impossible', 'unusual']",0.5714285714285714,0.55025065
+unicycle,pos,True,['affording_activity'],1.0,0.4448947
+racer,pos,True,['affording_activity'],0.8333333333333334,0.38876554
+snowmobile,pos,True,['variability_limited'],0.5714285714285714,0.53117806
+wagon,pos,True,['affording_activity'],1.0,0.6711533
+stagecoach,pos,True,['affording_activity'],0.875,0.4935482
+dray,pos,True,['affording_activity'],0.7777777777777778,0.44697
+suv,pos,True,['affording_activity'],0.875,0.61364734
+hearse,pos,True,['affording_activity'],1.0,0.5535417
+limousine,pos,True,['affording_activity'],1.0,0.5561286
+carrier,pos,True,['affording_activity'],0.75,0.2122924
+motorbike,pos,True,['affording_activity'],1.0,0.6539564
+luggage,pos,True,['variability_limited'],0.875,0.44262165
+boat,pos,False,['unusual'],0.7777777777777778,0.525697
+minivan,pos,True,['affording_activity'],1.0,0.6654517
+bogie,pos,True,['affording_activity'],0.7142857142857143,0.46373865
+sidecar,pos,True,['affording_activity'],1.0,0.49716026
+handcart,pos,True,['affording_activity'],1.0,0.49581686
+machine,pos,True,['variability_limited'],1.0,0.35765854
+dray,neg,True,['affording_activity'],0.7777777777777778,0.44697
+trawler,neg,False,['impossible'],0.7142857142857143,0.37388614
+car,neg,True,['affording_activity'],1.0,0.75618035
+bike,neg,True,"['typical_of_property', 'affording_activity']",1.0,0.6493297
+winch,neg,False,['unusual'],0.6666666666666666,0.47372
+limousine,neg,True,['affording_activity'],1.0,0.5561286
+stagecoach,neg,True,['affording_activity'],0.875,0.4935482
+pram,neg,True,['affording_activity'],1.0,0.48951185
+tank,neg,False,['implied_category'],0.5714285714285714,0.31265852
+snowmobile,neg,True,['variability_limited'],0.5714285714285714,0.53117806

@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+champagne,pos,True,['variability_limited'],0.7777777777777778,0.364284
+lemonade,pos,True,"['variability_limited', 'typical_of_property']",0.625,0.49409065
+daffodil,pos,True,['variability_limited'],0.875,0.5845071
+peach,pos,True,['variability_limited'],0.875,0.7087465
+thundercloud,pos,False,"['impossible', 'unusual']",0.6666666666666666,0.25291455
+oven,pos,False,['unusual'],1.0,0.2934659
+calf,pos,False,"['unusual', 'rare']",0.8571428571428571,0.28849176
+cherry,pos,False,['rare'],0.75,0.49017185
+lemongrass,pos,False,['unusual'],1.0,0.5333268
+bean,pos,False,"['unusual', 'rare']",0.7777777777777778,0.5978436
+buttercup,pos,False,['typical_of_concept'],0.75,0.5819529
+fir,pos,False,['impossible'],0.6666666666666666,0.4072007
+milk,pos,False,['unusual'],0.8571428571428571,0.45035923
+chameleon,pos,False,"['rare', 'unusual']",0.7142857142857143,0.2706672
+bus,pos,False,['variability_open'],1.0,0.19366477
+lime,pos,False,['rare'],0.75,0.5342284
+allspice,pos,False,['unusual'],0.7777777777777778,0.453802
+miner,pos,False,['creative'],0.7777777777777778,0.15101187
+mamey,pos,False,"['rare', 'unusual']",0.625,0.61913466
+giraffe,pos,True,['typical_of_property'],0.8888888888888888,0.419327
+marigold,pos,True,"['typical_of_property', 'variability_limited']",1.0,0.63135695
+cheese,pos,True,['variability_limited'],0.8888888888888888,0.53161937
+orange,pos,False,['rare'],0.7777777777777778,0.49116638
+pineapple,pos,True,['variability_limited'],0.75,0.6446127
+herb,pos,False,['rare'],0.875,0.57257265
+dog,neg,False,['unusual'],0.875,0.37935326
+carrot,neg,False,['rare'],0.7777777777777778,0.48309362
+walnut,neg,False,"['unusual', 'creative', 'rare']",0.7142857142857143,0.5478684
+buttercup,neg,False,['typical_of_concept'],0.75,0.5819529
+milk,neg,False,['unusual'],0.8571428571428571,0.45035923
+lime,neg,False,['rare'],0.75,0.5342284
+crow,neg,False,['impossible'],0.8571428571428571,0.39902148
+miner,neg,False,['creative'],0.7777777777777778,0.15101187
+alligator,neg,False,['unusual'],0.625,0.36724773
+pyramid,neg,False,['typical_of_concept'],0.7777777777777778,0.25981033
+giraffe,neg,True,['typical_of_property'],0.8888888888888888,0.419327
+cheese,neg,True,['variability_limited'],0.8888888888888888,0.53161937

@@ -1,0 +1,56 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+steak,pos,True,['variability_limited'],0.75,0.49802315
+meat,pos,False,['typical_of_concept'],0.625,0.5151281
+rice,pos,False,['impossible'],0.75,0.54047
+pumpkin,pos,True,['variability_limited'],0.875,0.64253706
+ginger,pos,True,['variability_limited'],0.6666666666666666,0.71873474
+cucumber,pos,True,['variability_limited'],1.0,0.7498992
+coconut,pos,True,['variability_limited'],1.0,0.6117491
+apricot,pos,True,['affording_activity'],0.8888888888888888,0.77529293
+pear,pos,True,['variability_limited'],0.9,0.788107
+guava,pos,True,"['affording_activity', 'variability_limited']",0.875,0.7015561
+hazelnut,pos,False,['impossible'],0.875,0.6607059
+berry,pos,True,['affording_activity'],0.9,0.7621711
+cheese,pos,False,"['creative', 'impossible']",0.7142857142857143,0.6071285
+veg,pos,True,['variability_limited'],0.7777777777777778,0.50132096
+soy,pos,False,['impossible'],0.7777777777777778,0.44421715
+crab,pos,True,['variability_limited'],0.5555555555555556,0.5317527
+cookie,pos,False,['impossible'],0.75,0.43250224
+potato,pos,False,['impossible'],0.7777777777777778,0.70264965
+garlic,pos,False,"['rare', 'unusual']",0.625,0.7056192
+cinnamon,pos,False,['impossible'],0.875,0.6742295
+chutney,pos,True,"['variability_limited', 'affording_activity']",0.8571428571428571,0.6509596
+pork,pos,True,['variability_limited'],0.8571428571428571,0.5050753
+radish,pos,False,['rare'],0.6,0.700648
+oregano,pos,False,['impossible'],1.0,0.60283124
+cauliflower,pos,False,['unusual'],0.5714285714285714,0.75221527
+mango,pos,True,['affording_activity'],1.0,0.77827984
+gooseberry,pos,True,['affording_activity'],1.0,0.65766346
+corn,pos,True,['variability_limited'],0.75,0.5179578
+chicken,pos,True,['variability_limited'],0.5555555555555556,0.5634623
+cabbage,pos,True,['variability_limited'],0.6,0.71588564
+blueberry,pos,True,['variability_limited'],1.0,0.74397737
+grain,pos,False,['impossible'],0.875,0.3661284
+rumor,neg,True,['variability_limited'],0.75,0.11092576
+lemon,neg,True,['affording_activity'],1.0,0.70107317
+chile,neg,False,['unusual'],0.5555555555555556,0.60200715
+truffle,neg,False,"['unusual', 'rare']",0.8333333333333334,0.61859614
+carrot,neg,False,['rare'],0.625,0.46919075
+bean,neg,True,['variability_limited'],0.6666666666666666,0.64344364
+mussel,neg,False,['creative'],0.6,0.46774906
+mangosteen,neg,True,['affording_activity'],1.0,0.5441366
+chip,neg,False,['impossible'],0.875,0.18418705
+orange,neg,True,"['affording_activity', 'typical_of_property', 'variability_limited']",0.9,0.47945327
+cherry,neg,True,['affording_activity'],1.0,0.5474267
+fenugreek,neg,False,['impossible'],0.6666666666666666,0.6246521
+wintergreen,neg,True,['affording_activity'],0.5714285714285714,0.5055778
+spike,neg,False,['impossible'],1.0,0.12851807
+apple,neg,True,"['variability_limited', 'affording_activity', 'typical_of_property']",0.7777777777777778,0.7029367
+okra,neg,True,['affording_activity'],0.5714285714285714,0.64370376
+windfall,neg,False,['impossible'],0.6666666666666666,0.13497266
+kernel,neg,False,['unusual'],0.7142857142857143,0.29922214
+emotion,neg,False,['impossible'],0.875,0.10350941
+date,neg,True,['variability_limited'],0.5555555555555556,0.04626096
+tangerine,neg,True,"['variability_limited', 'affording_activity']",1.0,0.5876524
+sardine,neg,True,['variability_limited'],0.625,0.39705822
+cantaloupe,neg,True,"['affording_activity', 'variability_limited']",1.0,0.7034988

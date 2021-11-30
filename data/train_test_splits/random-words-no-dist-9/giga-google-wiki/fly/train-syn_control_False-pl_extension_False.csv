@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+wren,pos,True,['afforded_usual'],1.0,0.6517535
+chinook,pos,True,['afforded_usual'],0.6666666666666666,0.41414872
+bream,pos,False,['impossible'],1.0,0.36361355
+sausage,pos,False,['impossible'],0.8888888888888888,0.29520938
+lion,pos,False,['impossible'],0.8888888888888888,0.34868205
+pussy,pos,False,"['creative', 'impossible']",0.7777777777777778,0.2785594
+machine,pos,True,['variability_limited'],1.0,0.21255876
+marabou,pos,True,['afforded_usual'],0.6666666666666666,0.49540552
+owl,pos,True,"['afforded_usual', 'typical_of_property']",0.875,0.7183219
+lorry,pos,False,"['creative', 'impossible']",1.0,0.21272299
+shell,pos,False,['impossible'],0.8333333333333334,0.23709217
+kite,pos,True,['afforded_usual'],1.0,0.51088816
+ounce,pos,False,['impossible'],0.7777777777777778,0.15884358
+poacher,pos,False,['impossible'],0.8888888888888888,0.34240755
+penguin,pos,False,['impossible'],0.8888888888888888,0.5079192
+van,pos,False,['impossible'],0.8571428571428571,0.2100715
+vulture,pos,True,['afforded_usual'],1.0,0.5401001
+jade,pos,False,['impossible'],0.75,0.2570389
+catfish,pos,False,['impossible'],0.8888888888888888,0.42619786
+flicker,pos,True,['afforded_usual'],0.625,0.26402718
+plaice,pos,False,['impossible'],1.0,0.358488
+wing,pos,True,['afforded_usual'],1.0,0.30023417
+crow,pos,True,['afforded_usual'],1.0,0.58019143
+minesweeper,pos,False,['impossible'],1.0,0.305722
+taxi,pos,False,['impossible'],1.0,0.21567914
+mammal,neg,True,['variability_limited'],0.8571428571428571,0.61629474
+minnow,neg,False,['impossible'],1.0,0.38264194
+marabou,neg,True,['afforded_usual'],0.6666666666666666,0.49540552
+capsule,neg,True,['variability_limited'],0.6666666666666666,0.25546384
+saloon,neg,False,['impossible'],0.875,0.17551063
+silverback,neg,False,['impossible'],1.0,0.402405
+vulture,neg,True,['afforded_usual'],1.0,0.5401001
+catfish,neg,False,['impossible'],0.8888888888888888,0.42619786
+plaice,neg,False,['impossible'],1.0,0.358488
+taxi,neg,False,['impossible'],1.0,0.21567914

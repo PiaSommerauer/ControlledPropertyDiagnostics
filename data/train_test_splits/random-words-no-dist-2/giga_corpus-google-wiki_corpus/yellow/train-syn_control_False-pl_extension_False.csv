@@ -1,0 +1,40 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+pawpaw,pos,False,['rare'],0.625,0.62568086
+corn,pos,True,['typical_of_property'],1.0,0.497932
+cherry,pos,False,['rare'],0.75,0.4790368
+cheese,pos,True,['variability_limited'],0.8888888888888888,0.5263451
+cheetah,pos,True,['variability_limited'],0.875,0.34151265
+yolk,pos,False,['typical_of_concept'],0.875,0.4783442
+cannon,pos,False,['unusual'],1.0,0.2748222
+goldfish,pos,True,['variability_limited'],0.6666666666666666,0.45934877
+locust,pos,True,['variability_limited'],0.875,0.47486615
+huckleberry,pos,False,['unusual'],0.9,0.5162291
+milk,pos,False,['unusual'],0.8571428571428571,0.44723415
+plum,pos,True,['variability_limited'],0.875,0.39078987
+peacock,pos,False,['unusual'],0.7,0.44572705
+cider,pos,True,['variability_limited'],0.7142857142857143,0.47916165
+grape,pos,False,"['unusual', 'rare']",0.7777777777777778,0.63169456
+vanilla,pos,False,"['rare', 'unusual']",0.5714285714285714,0.4690292
+grapefruit,pos,True,['variability_limited'],0.875,0.60657275
+bus,pos,False,['variability_open'],1.0,0.19479977
+mustard,pos,True,['typical_of_property'],0.8888888888888888,0.47995138
+willow,pos,False,"['rare', 'unusual']",0.625,0.48052865
+cactus,pos,False,"['rare', 'unusual']",0.875,0.5833816
+cloak,pos,False,['rare'],0.5555555555555556,0.16660812
+brick,pos,False,['unusual'],1.0,0.31149665
+sandpaper,pos,False,['variability_open'],0.5714285714285714,0.3555915
+lagoon,pos,False,"['unusual', 'rare']",0.6666666666666666,0.22807576
+lemongrass,pos,False,['unusual'],1.0,0.5256253
+yolk,neg,False,['typical_of_concept'],0.875,0.4783442
+cannon,neg,False,['unusual'],1.0,0.2748222
+goldfish,neg,True,['variability_limited'],0.6666666666666666,0.45934877
+nectarine,neg,True,['variability_limited'],0.75,0.62883204
+plum,neg,True,['variability_limited'],0.875,0.39078987
+daffodil,neg,True,['variability_limited'],0.875,0.5853205
+grapefruit,neg,True,['variability_limited'],0.875,0.60657275
+mustard,neg,True,['typical_of_property'],0.8888888888888888,0.47995138
+pecan,neg,False,['unusual'],0.6666666666666666,0.53672534
+willow,neg,False,"['rare', 'unusual']",0.625,0.48052865
+emerald,neg,False,['impossible'],0.7,0.43661934
+human,neg,False,['unusual'],0.7142857142857143,0.17897007
+lemongrass,neg,False,['unusual'],1.0,0.5256253

@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+drink,pos,True,['affording_activity'],0.5555555555555556,0.45854267
+jungle,pos,False,['unusual'],0.8888888888888888,0.24310446
+bottle,pos,False,['variability_open'],1.0,0.5323903
+juice,pos,False,"['variability_open', 'implied_category']",0.5454545454545454,0.46730462
+shelf,pos,False,['variability_open'],0.6,0.33796874
+heating,pos,False,['impossible'],0.75,0.3155567
+snowdrift,pos,True,"['affording_activity', 'typical_of_property']",0.8181818181818182,0.44552898
+toilet,pos,False,['variability_open'],0.7,0.46225443
+soup,pos,False,['variability_open'],0.7272727272727273,0.5787706
+summertime,pos,False,['rare'],1.0,0.3495063
+finger,pos,False,['variability_open'],0.625,0.2996726
+freezer,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.53481007
+cream,pos,False,['variability_open'],0.875,0.4546243
+fridge,pos,True,['affording_activity'],1.0,0.58318263
+lip,pos,False,['unusual'],0.8,0.30877942
+iceberg,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.24733807
+river,pos,False,['typical_of_concept'],0.7777777777777778,0.361799
+hair,pos,False,['variability_open'],0.875,0.40184093
+problem,pos,False,['impossible'],0.625,0.15162025
+glass,pos,False,['variability_open'],0.7,0.5405125
+permafrost,pos,True,['affording_activity'],1.0,0.37901953
+snow,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.49058938
+surface,pos,False,['variability_open'],0.75,0.3765158
+snowfall,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3804367
+curd,pos,False,['variability_open'],0.9,0.569426
+oven,pos,False,['variability_open'],0.5555555555555556,0.57710373
+tortilla,neg,False,['variability_open'],0.7,0.46736723
+toilet,neg,False,['variability_open'],0.7,0.46225443
+rain,neg,False,['variability_open'],0.75,0.37439024
+glass,neg,False,['variability_open'],0.7,0.5405125
+foam,neg,False,['variability_open'],0.625,0.51259536
+hair,neg,False,['variability_open'],0.875,0.40184093
+mud,neg,False,['variability_open'],0.875,0.48231855
+snowfall,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.3804367
+people,neg,False,['variability_open'],0.6666666666666666,0.1622397

@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+freezer,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.53617513
+milk,pos,False,['variability_open'],1.0,0.4553908
+beer,pos,True,['affording_activity'],0.6,0.46762648
+toaster,pos,False,['variability_open'],0.5555555555555556,0.49002755
+mud,pos,False,['variability_open'],0.875,0.47788167
+balloon,pos,False,['variability_open'],0.75,0.3913312
+popsicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.61514676
+hair,pos,False,['variability_open'],0.875,0.4002852
+lava,pos,False,['impossible'],0.9090909090909091,0.43176058
+glass,pos,False,['variability_open'],0.7,0.5407915
+pie,pos,False,['variability_open'],0.8571428571428571,0.43692863
+puddle,pos,False,['variability_open'],0.8888888888888888,0.5581222
+permafrost,pos,True,['affording_activity'],1.0,0.37721232
+bath,pos,False,['unusual'],0.7777777777777778,0.4592478
+lightning,pos,False,['impossible'],1.0,0.23010184
+pomade,pos,False,['rare'],0.5555555555555556,0.44324034
+fire,pos,False,['impossible'],1.0,0.21892853
+skin,pos,False,['variability_open'],0.8888888888888888,0.41000655
+summertime,pos,False,['rare'],1.0,0.35038903
+kettle,pos,False,['variability_open'],1.0,0.44769546
+heat,pos,False,['impossible'],0.9,0.32336172
+winter,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3214373
+rain,pos,False,['variability_open'],0.75,0.36924094
+eggshell,pos,False,['variability_open'],0.7777777777777778,0.49246615
+snowfall,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.37622416
+sundae,pos,True,['affording_activity'],1.0,0.52478486
+rock,pos,False,['variability_open'],0.8,0.36453685
+problem,neg,False,['impossible'],0.625,0.15148745
+berry,neg,False,['variability_open'],0.6666666666666666,0.49565363
+hatred,neg,False,['creative'],0.8888888888888888,0.18772677
+atmosphere,neg,False,['variability_open'],0.7,0.27865383
+iceberg,neg,True,"['affording_activity', 'typical_of_property']",1.0,0.2482867
+nose,neg,False,"['variability_open', 'rare', 'unusual']",0.75,0.39986378
+lip,neg,False,['unusual'],0.8,0.30891275
+tortilla,neg,False,['variability_open'],0.7,0.46473455
+idea,neg,False,['impossible'],0.7,0.22369696
+people,neg,False,['variability_open'],0.6666666666666666,0.16279715

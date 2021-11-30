@@ -1,0 +1,34 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+driveshaft,pos,False,['unusual'],0.7142857142857143,0.5141256
+washer,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5794264
+car,pos,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.4917473
+piston,pos,False,['unusual'],0.7777777777777778,0.5659023
+barrel,pos,True,['typical_of_property'],0.8571428571428571,0.33082297
+paddle,pos,False,['unusual'],0.8888888888888888,0.4737506
+hubcap,pos,True,['afforded_usual'],0.75,0.5422297
+wiffle,pos,False,"['implied_category', 'afforded_unusual']",0.625,0.35136262
+gearshift,pos,False,['rare'],0.8333333333333334,0.5632767
+hammer,pos,False,"['rare', 'unusual']",0.7142857142857143,0.3487941
+cloth,pos,False,['afforded_unusual'],0.5714285714285714,0.5092466
+bead,pos,False,['implied_category'],0.875,0.54940766
+bucket,pos,False,['afforded_unusual'],1.0,0.48007038
+blade,pos,False,['unusual'],0.75,0.5788013
+pen,pos,False,['afforded_unusual'],1.0,0.35748374
+cylinder,pos,True,['typical_of_property'],0.75,0.6267947
+candle,pos,True,['variability_limited'],0.7142857142857143,0.38963717
+cart,pos,True,['variability_limited'],0.625,0.45160478
+windowpane,pos,False,['impossible'],0.5714285714285714,0.4163362
+dowel,pos,False,['implied_category'],0.7142857142857143,0.60813713
+cylinder,neg,True,['typical_of_property'],0.75,0.6267947
+car,neg,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.4917473
+hammer,neg,False,"['rare', 'unusual']",0.7142857142857143,0.3487941
+windscreen,neg,False,['afforded_unusual'],0.625,0.5471918
+acrylic,neg,True,['variability_limited'],0.5714285714285714,0.41932523
+windowpane,neg,False,['impossible'],0.5714285714285714,0.4163362
+hubcap,neg,True,['afforded_usual'],0.75,0.5422297
+eyelet,neg,True,['variability_limited'],0.625,0.55707306
+shoe,neg,False,['unusual'],0.875,0.4604292
+headboard,neg,False,"['unusual', 'creative']",0.7777777777777778,0.52813286
+axle,neg,True,['afforded_usual'],0.75,0.5792533
+nozzle,neg,True,['variability_limited'],0.6666666666666666,0.6529668
+roller,neg,True,['afforded_usual'],1.0,0.57693434

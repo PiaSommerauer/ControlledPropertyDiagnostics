@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+truck,pos,False,['impossible'],0.8888888888888888,0.23336579
+pigeon,pos,True,['afforded_usual'],1.0,0.66137284
+bomber,pos,True,['afforded_usual'],0.7777777777777778,0.36306897
+minnow,pos,False,['impossible'],1.0,0.38359708
+howler,pos,False,['creative'],0.7777777777777778,0.18750174
+coupe,pos,False,"['impossible', 'creative']",0.75,0.2816943
+sloop,pos,False,['impossible'],0.6666666666666666,0.3112522
+seagull,pos,True,['afforded_usual'],1.0,0.69047683
+shell,pos,False,['impossible'],0.8333333333333334,0.23348576
+tit,pos,True,['afforded_usual'],0.7777777777777778,0.2541759
+junk,pos,False,"['impossible', 'creative']",0.75,0.19936004
+stallion,pos,False,"['creative', 'impossible']",0.8888888888888888,0.28295982
+sharpie,pos,False,['creative'],0.75,0.36586428
+helicopter,pos,True,['afforded_usual'],1.0,0.46521828
+rabbit,pos,False,['impossible'],1.0,0.60306835
+airship,pos,True,['afforded_usual'],1.0,0.429228
+hind,pos,False,['impossible'],0.7142857142857143,0.30422312
+hog,pos,False,['impossible'],0.625,0.3067673
+kite,pos,True,['afforded_usual'],1.0,0.508335
+razorback,pos,False,['impossible'],0.875,0.43439066
+albatross,pos,True,['afforded_usual'],1.0,0.4331338
+chick,pos,False,['impossible'],0.6666666666666666,0.51917404
+jet,pos,True,['afforded_usual'],1.0,0.42093322
+balloon,pos,True,"['typical_of_property', 'afforded_usual']",0.8333333333333334,0.4303718
+titi,pos,False,['impossible'],0.625,0.45781165
+mouse,pos,False,['impossible'],0.8888888888888888,0.3192567
+howler,neg,False,['creative'],0.7777777777777778,0.18750174
+shell,neg,False,['impossible'],0.8333333333333334,0.23348576
+stallion,neg,False,"['creative', 'impossible']",0.8888888888888888,0.28295982
+rudd,neg,False,['impossible'],0.875,0.39525983
+marabou,neg,True,['afforded_usual'],0.6666666666666666,0.50019675
+stork,neg,True,['afforded_usual'],1.0,0.57690275
+submarine,neg,False,['impossible'],0.8888888888888888,0.340479
+albatross,neg,True,['afforded_usual'],1.0,0.4331338
+chick,neg,False,['impossible'],0.6666666666666666,0.51917404

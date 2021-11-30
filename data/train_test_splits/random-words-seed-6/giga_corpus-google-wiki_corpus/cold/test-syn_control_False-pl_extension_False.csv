@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+fridge,pos,True,['affording_activity'],1.0,0.5868425
+beer,pos,True,['affording_activity'],0.6,0.46762648
+pie,pos,False,['variability_open'],0.8571428571428571,0.43692863
+dogwood,pos,False,['variability_open'],0.875,0.36128998
+freezer,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.53617513
+vinyl,pos,False,['variability_open'],0.7,0.3913125
+lightning,pos,False,['impossible'],1.0,0.23010184
+mud,pos,False,['variability_open'],0.875,0.47788167
+sundae,pos,True,['affording_activity'],1.0,0.52478486
+candle,pos,False,['variability_open'],0.75,0.44350854
+bath,pos,False,['unusual'],0.7777777777777778,0.4592478
+smoke,pos,False,['impossible'],0.6,0.33656493
+growler,pos,True,['affording_activity'],0.6666666666666666,0.42755708
+tile,pos,True,['variability_limited'],0.5714285714285714,0.43502563
+foam,pos,False,['variability_open'],0.625,0.5099515
+soda,pos,True,['typical_of_property'],0.8571428571428571,0.5202148
+puddle,pos,False,['variability_open'],0.8888888888888888,0.5581222
+basement,pos,False,['variability_open'],0.875,0.39477068
+toilet,pos,False,['variability_open'],0.7,0.46059996
+quesadilla,pos,False,"['unusual', 'rare']",0.75,0.42467898
+fireplace,pos,False,['variability_open'],0.875,0.47117448
+cheesecloth,pos,False,['unusual'],0.6,0.498847
+dust,pos,False,['unusual'],0.7142857142857143,0.36956137
+winter,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3214373
+snowdrift,pos,True,"['affording_activity', 'typical_of_property']",0.8181818181818182,0.44572055
+bathtub,pos,False,['variability_open'],0.875,0.5535053
+coffee,pos,False,['variability_open'],0.7777777777777778,0.47201458
+can,neg,False,['variability_open'],0.7777777777777778,0.21809144
+shelf,neg,False,['variability_open'],0.6,0.3398007
+permafrost,neg,True,['affording_activity'],1.0,0.37721232
+problem,neg,False,['impossible'],0.625,0.15148745
+foot,neg,False,['unusual'],0.8888888888888888,0.2918231
+pavement,neg,False,['variability_open'],0.9,0.47636905
+mug,neg,False,['variability_open'],0.75,0.43829343
+idea,neg,False,['impossible'],0.7,0.22369696
+sky,neg,False,['variability_open'],0.75,0.33310235
+rock,neg,False,['variability_open'],0.8,0.36453685

@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+razorback,pos,False,['impossible'],0.875,0.43439066
+sunfish,pos,False,['impossible'],1.0,0.4748544
+phaeton,pos,False,['impossible'],0.7777777777777778,0.32269505
+boat,pos,False,"['impossible', 'creative']",0.8571428571428571,0.3505006
+marabou,pos,True,['afforded_usual'],0.6666666666666666,0.50019675
+pelican,pos,True,['afforded_usual'],0.75,0.67842084
+flicker,pos,True,['afforded_usual'],0.625,0.26367196
+amberjack,pos,False,['impossible'],0.7142857142857143,0.3981407
+owl,pos,True,"['afforded_usual', 'typical_of_property']",0.875,0.72267693
+emu,pos,False,"['impossible', 'creative']",0.75,0.46449208
+scull,pos,False,['impossible'],1.0,0.33434898
+car,pos,False,['creative'],1.0,0.24527834
+kite,pos,True,['afforded_usual'],1.0,0.508335
+trailer,pos,False,['impossible'],0.75,0.19364274
+jade,pos,False,['impossible'],0.75,0.26537046
+gnu,pos,False,['impossible'],1.0,0.30314764
+grouper,pos,False,['impossible'],0.75,0.400736
+pigeon,pos,True,['afforded_usual'],1.0,0.66137284
+machine,pos,True,['variability_limited'],1.0,0.20725827
+ferry,pos,False,['impossible'],0.8571428571428571,0.2367495
+penguin,pos,False,['impossible'],0.8888888888888888,0.511051
+toy,pos,True,['variability_limited'],1.0,0.2840915
+tower,pos,False,['impossible'],1.0,0.28442904
+jet,pos,True,['afforded_usual'],1.0,0.42093322
+pussy,pos,False,"['creative', 'impossible']",0.7777777777777778,0.28606346
+chinook,pos,True,['afforded_usual'],0.6666666666666666,0.4074006
+boat,neg,False,"['impossible', 'creative']",0.8571428571428571,0.3505006
+owl,neg,True,"['afforded_usual', 'typical_of_property']",0.875,0.72267693
+plane,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.4582804
+grouper,neg,False,['impossible'],0.75,0.400736
+pigeon,neg,True,['afforded_usual'],1.0,0.66137284
+turtle,neg,False,['impossible'],0.7142857142857143,0.6156632
+penguin,neg,False,['impossible'],0.8888888888888888,0.511051
+chinook,neg,True,['afforded_usual'],0.6666666666666666,0.4074006
+deer,neg,False,['impossible'],1.0,0.5283247

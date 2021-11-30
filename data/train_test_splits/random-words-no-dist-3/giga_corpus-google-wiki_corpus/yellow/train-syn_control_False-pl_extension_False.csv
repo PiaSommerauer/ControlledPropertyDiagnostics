@@ -1,0 +1,40 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+cloak,pos,False,['rare'],0.5555555555555556,0.16660812
+alligator,pos,False,['unusual'],0.625,0.37334716
+tomato,pos,False,['rare'],0.875,0.66354495
+brick,pos,False,['unusual'],1.0,0.31149665
+champagne,pos,True,['variability_limited'],0.7777777777777778,0.36282545
+aubergine,pos,False,['unusual'],0.6666666666666666,0.5362995
+daffodil,pos,True,['variability_limited'],0.875,0.5853205
+spinach,pos,False,['unusual'],0.875,0.5154232
+apple,pos,True,['variability_limited'],0.8571428571428571,0.6714467
+hornet,pos,True,['variability_limited'],1.0,0.4656606
+willow,pos,False,"['rare', 'unusual']",0.625,0.48052865
+oven,pos,False,['unusual'],1.0,0.29887044
+butter,pos,True,['variability_limited'],0.7142857142857143,0.39719942
+garlic,pos,False,['unusual'],0.75,0.5723722
+vegetable,pos,False,['rare'],0.7142857142857143,0.5598671
+dandelion,pos,True,['typical_of_property'],0.7777777777777778,0.6739996
+cheetah,pos,True,['variability_limited'],0.875,0.34151265
+eucalyptus,pos,False,['unusual'],0.7142857142857143,0.523757
+yolk,pos,False,['typical_of_concept'],0.875,0.4783442
+goldfish,pos,True,['variability_limited'],0.6666666666666666,0.45934877
+jade,pos,False,['unusual'],1.0,0.42556527
+plum,pos,True,['variability_limited'],0.875,0.39078987
+sheep,pos,False,['unusual'],0.875,0.39424127
+lion,pos,True,['variability_limited'],0.8571428571428571,0.29623187
+orange,pos,False,['rare'],0.7777777777777778,0.48820958
+sunbeam,pos,True,['variability_limited'],1.0,0.44341126
+grape,neg,False,"['unusual', 'rare']",0.7777777777777778,0.63169456
+orchid,neg,False,['variability_open'],0.75,0.59779924
+brick,neg,False,['unusual'],1.0,0.31149665
+walnut,neg,False,"['unusual', 'creative', 'rare']",0.7142857142857143,0.54628396
+daffodil,neg,True,['variability_limited'],0.875,0.5853205
+spinach,neg,False,['unusual'],0.875,0.5154232
+apple,neg,True,['variability_limited'],0.8571428571428571,0.6714467
+night,neg,False,['creative'],0.8571428571428571,0.1005356
+dandelion,neg,True,['typical_of_property'],0.7777777777777778,0.6739996
+lobster,neg,False,"['unusual', 'rare']",0.7142857142857143,0.45030096
+yolk,neg,False,['typical_of_concept'],0.875,0.4783442
+lion,neg,True,['variability_limited'],0.8571428571428571,0.29623187
+orange,neg,False,['rare'],0.7777777777777778,0.48820958

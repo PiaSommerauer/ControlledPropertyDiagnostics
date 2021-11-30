@@ -1,0 +1,40 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+runner,pos,True,['variability_limited'],0.625,0.13357948
+painter,pos,False,['afforded_unusual'],0.75,0.23571339
+toy,pos,True,['variability_limited'],0.875,0.28476208
+pony,pos,False,['afforded_unusual'],0.625,0.3250609
+mouse,pos,False,['afforded_unusual'],1.0,0.36451888
+bear,pos,False,"['implied_category', 'afforded_unusual']",0.7142857142857143,0.41433847
+pug,pos,False,"['implied_category', 'afforded_unusual']",0.6666666666666666,0.43481013
+serpent,pos,True,['variability_limited'],0.5555555555555556,0.46109787
+octopus,pos,True,['afforded_usual'],1.0,0.48972356
+fawn,pos,False,['afforded_unusual'],0.8888888888888888,0.49954668
+goat,pos,False,['afforded_unusual'],0.8888888888888888,0.50751376
+leopard,pos,False,['afforded_unusual'],0.5714285714285714,0.5287882
+duck,pos,True,['afforded_usual'],1.0,0.54901963
+hippo,pos,True,['afforded_usual'],1.0,0.5567325
+plaice,pos,True,"['typical_of_property', 'afforded_usual']",0.8571428571428571,0.56945366
+deer,pos,False,['afforded_unusual'],0.7142857142857143,0.5838876
+haddock,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.5863272
+panther,pos,False,['afforded_unusual'],0.75,0.58984584
+cod,pos,True,['afforded_usual'],1.0,0.60672855
+croaker,pos,True,['afforded_usual'],1.0,0.62082034
+shrimp,pos,True,['afforded_usual'],0.875,0.63076985
+largemouth,pos,True,['afforded_usual'],1.0,0.64301986
+goldeneye,pos,True,['afforded_usual'],0.6,0.6605879
+sunfish,pos,True,['afforded_usual'],1.0,0.67131335
+catfish,pos,True,['afforded_usual'],1.0,0.68253714
+sturgeon,pos,True,['afforded_usual'],0.8571428571428571,0.71255285
+sweeper,neg,False,['impossible'],0.875,0.09877621
+stock,neg,False,['impossible'],0.75,0.15170342
+bunting,neg,False,['impossible'],0.8333333333333334,0.2458253
+beef,neg,False,['impossible'],0.75,0.29514948
+creeper,neg,False,['impossible'],0.8,0.35377643
+bonobo,neg,False,"['creative', 'unusual']",0.5714285714285714,0.415978
+skylark,neg,False,['impossible'],0.75,0.44792908
+parakeet,neg,False,['unusual'],0.5555555555555556,0.45338637
+cockatoo,neg,False,['unusual'],0.7142857142857143,0.47563288
+llama,neg,False,['unusual'],0.6,0.50667816
+wren,neg,False,['rare'],0.625,0.54312587
+colobus,neg,False,['unusual'],0.8888888888888888,0.58266395
+owl,neg,False,"['impossible', 'unusual']",0.625,0.62286717

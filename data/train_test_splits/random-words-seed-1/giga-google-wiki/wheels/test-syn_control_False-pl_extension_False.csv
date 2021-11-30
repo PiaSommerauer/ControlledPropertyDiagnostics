@@ -1,0 +1,37 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+wheelbase,pos,True,['affording_activity'],0.75,0.41358152
+bicycle,pos,True,['affording_activity'],1.0,0.6394161
+locomotive,pos,True,['affording_activity'],1.0,0.6130605
+cabriolet,pos,True,['affording_activity'],1.0,0.5154702
+sleigh,pos,False,"['impossible', 'unusual']",0.5714285714285714,0.54508895
+ship,pos,False,"['rare', 'unusual']",0.7142857142857143,0.31081828
+motorbike,pos,True,['affording_activity'],1.0,0.6558162
+wagon,pos,True,['affording_activity'],1.0,0.6675086
+passenger,pos,False,['creative'],0.7777777777777778,0.5240537
+motorcycle,pos,True,['affording_activity'],1.0,0.6540722
+chassis,pos,True,['affording_activity'],0.75,0.48423696
+scooter,pos,True,['affording_activity'],1.0,0.73185
+dumper,pos,True,['affording_activity'],1.0,0.4839313
+pedicab,pos,True,['affording_activity'],1.0,0.5524863
+vessel,pos,False,"['unusual', 'rare']",0.7777777777777778,0.3464041
+snowplow,pos,True,['affording_activity'],0.75,0.57231355
+truck,pos,True,['affording_activity'],1.0,0.74493515
+freighter,pos,False,['impossible'],0.625,0.37581208
+cart,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5552182
+trolley,pos,True,['affording_activity'],1.0,0.637359
+vehicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.7091357
+wheel,pos,False,['typical_of_concept'],0.5714285714285714,0.5445846
+tram,pos,True,['affording_activity'],0.875,0.5244891
+unicycle,pos,True,['affording_activity'],1.0,0.44629517
+warship,pos,False,['impossible'],0.7142857142857143,0.2809547
+roadster,pos,True,['affording_activity'],0.8571428571428571,0.58136195
+winch,neg,False,['unusual'],0.6666666666666666,0.47342262
+rig,neg,True,['affording_activity'],0.5555555555555556,0.3954881
+hack,neg,False,['impossible'],1.0,0.07007767
+tank,neg,False,['implied_category'],0.5714285714285714,0.3131133
+battleship,neg,False,['impossible'],0.875,0.2993035
+carrier,neg,True,['affording_activity'],0.75,0.21327722
+luggage,neg,True,['variability_limited'],0.875,0.4450127
+coach,neg,True,"['affording_activity', 'typical_of_property']",0.7142857142857143,0.1235034
+gondola,neg,False,"['unusual', 'impossible']",0.7142857142857143,0.4984251
+stage,neg,True,['variability_limited'],0.6666666666666666,0.12233525

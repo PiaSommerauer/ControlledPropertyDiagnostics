@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+undercarriage,pos,True,['affording_activity'],0.6666666666666666,0.53275937
+hack,pos,False,['impossible'],1.0,0.070753016
+boat,pos,False,['unusual'],0.7777777777777778,0.525697
+roadster,pos,True,['affording_activity'],0.8571428571428571,0.5847035
+diner,pos,True,['variability_limited'],0.6666666666666666,0.36464572
+vehicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.70729595
+cat,pos,False,['unusual'],0.75,0.24048693
+minivan,pos,True,['affording_activity'],1.0,0.6654517
+carriage,pos,True,['affording_activity'],1.0,0.5453826
+locomotive,pos,True,['affording_activity'],1.0,0.6113557
+stage,pos,True,['variability_limited'],0.6666666666666666,0.11864333
+tank,pos,False,['implied_category'],0.5714285714285714,0.31265852
+trap,pos,False,['unusual'],0.75,0.16928083
+bogie,pos,True,['affording_activity'],0.7142857142857143,0.46373865
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41738355
+snowplow,pos,True,['affording_activity'],0.75,0.57062674
+machine,pos,True,['variability_limited'],1.0,0.35765854
+handcart,pos,True,['affording_activity'],1.0,0.49581686
+passenger,pos,False,['creative'],0.7777777777777778,0.5226504
+motorbike,pos,True,['affording_activity'],1.0,0.6539564
+battleship,pos,False,['impossible'],0.875,0.2997324
+caravan,pos,True,['affording_activity'],0.875,0.5194788
+airplane,pos,True,['affording_activity'],1.0,0.49027833
+lorry,pos,True,['affording_activity'],1.0,0.620798
+bike,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.6493297
+windshield,pos,False,['impossible'],0.875,0.4704797
+winch,pos,False,['unusual'],0.6666666666666666,0.47372
+warship,pos,False,['impossible'],0.7142857142857143,0.27998853
+frigate,neg,False,['impossible'],0.75,0.25461134
+stage,neg,True,['variability_limited'],0.6666666666666666,0.11864333
+car,neg,True,['affording_activity'],1.0,0.75618035
+bogie,neg,True,['affording_activity'],0.7142857142857143,0.46373865
+tugboat,neg,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41738355
+suv,neg,True,['affording_activity'],0.875,0.61364734
+chassis,neg,True,['affording_activity'],0.75,0.4836028
+bus,neg,True,['affording_activity'],1.0,0.6430231
+undercarriage,neg,True,['affording_activity'],0.6666666666666666,0.53275937
+driver,neg,False,['creative'],0.875,0.51250994

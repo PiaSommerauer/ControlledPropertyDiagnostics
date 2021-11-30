@@ -1,0 +1,70 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+lever,pos,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.52429765
+flywheel,pos,True,['variability_limited'],0.7142857142857143,0.4928941
+car,pos,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.4917473
+cloth,pos,False,['afforded_unusual'],0.5714285714285714,0.5092466
+lathe,pos,True,['variability_limited'],0.5714285714285714,0.5802175
+propeller,pos,True,['variability_limited'],0.7142857142857143,0.5858133
+bucket,pos,False,['afforded_unusual'],1.0,0.48007038
+chock,pos,False,['creative'],0.625,0.2279267
+rail,pos,True,['afforded_usual'],0.9,0.26276943
+pig,pos,False,['afforded_unusual'],1.0,0.32778084
+surfboard,pos,False,"['impossible', 'unusual']",0.7142857142857143,0.44739795
+tub,pos,True,['variability_limited'],0.8333333333333334,0.5669601
+eyelet,pos,True,['variability_limited'],0.625,0.55707306
+pencil,pos,False,['unusual'],0.875,0.43728867
+shovel,pos,False,['unusual'],0.8333333333333334,0.4404562
+cart,pos,True,['variability_limited'],0.625,0.45160478
+roller,pos,True,['afforded_usual'],1.0,0.57693434
+manhole,pos,False,['creative'],0.75,0.37638247
+wheel,pos,True,"['typical_of_property', 'afforded_usual']",1.0,0.5672695
+bearing,pos,True,['variability_limited'],0.7142857142857143,0.23795624
+shoe,pos,False,['unusual'],0.875,0.4604292
+radiator,pos,False,['afforded_unusual'],0.875,0.6534212
+nut,pos,True,['variability_limited'],0.7777777777777778,0.41290444
+sprocket,pos,True,['afforded_usual'],0.875,0.63239825
+hubcap,pos,True,['afforded_usual'],0.75,0.5422297
+kiln,pos,False,"['creative', 'impossible']",0.7142857142857143,0.44582447
+tile,pos,False,['impossible'],0.7142857142857143,0.45454964
+rifling,pos,True,['afforded_usual'],0.625,0.20351902
+bolt,pos,False,['afforded_unusual'],0.625,0.55379355
+wheelbarrow,pos,True,['afforded_usual'],0.7142857142857143,0.49868518
+windshield,pos,False,"['unusual', 'rare']",0.875,0.5484622
+wagon,neg,True,['afforded_usual'],0.7,0.44836676
+cylinder,neg,True,['typical_of_property'],0.75,0.6267947
+washer,neg,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.5794264
+acrylic,neg,True,['variability_limited'],0.5714285714285714,0.41932523
+lever,neg,True,"['variability_limited', 'afforded_usual']",0.5714285714285714,0.52429765
+flywheel,neg,True,['variability_limited'],0.7142857142857143,0.4928941
+ski,neg,False,['unusual'],0.7142857142857143,0.2629207
+car,neg,False,"['creative', 'afforded_unusual']",0.8571428571428571,0.4917473
+cloth,neg,False,['afforded_unusual'],0.5714285714285714,0.5092466
+lathe,neg,True,['variability_limited'],0.5714285714285714,0.5802175
+propeller,neg,True,['variability_limited'],0.7142857142857143,0.5858133
+bucket,neg,False,['afforded_unusual'],1.0,0.48007038
+chock,neg,False,['creative'],0.625,0.2279267
+rail,neg,True,['afforded_usual'],0.9,0.26276943
+pig,neg,False,['afforded_unusual'],1.0,0.32778084
+surfboard,neg,False,"['impossible', 'unusual']",0.7142857142857143,0.44739795
+tub,neg,True,['variability_limited'],0.8333333333333334,0.5669601
+plunger,neg,False,['unusual'],0.9,0.56247455
+eyelet,neg,True,['variability_limited'],0.625,0.55707306
+leather,neg,False,"['unusual', 'rare']",0.6666666666666666,0.43237692
+pen,neg,False,['afforded_unusual'],1.0,0.35748374
+backboard,neg,False,['unusual'],0.8571428571428571,0.42225155
+shovel,neg,False,['unusual'],0.8333333333333334,0.4404562
+roller,neg,True,['afforded_usual'],1.0,0.57693434
+bearing,neg,True,['variability_limited'],0.7142857142857143,0.23795624
+shoe,neg,False,['unusual'],0.875,0.4604292
+nut,neg,True,['variability_limited'],0.7777777777777778,0.41290444
+sprocket,neg,True,['afforded_usual'],0.875,0.63239825
+chimney,neg,False,['unusual'],0.75,oov
+hammer,neg,False,"['rare', 'unusual']",0.7142857142857143,0.3487941
+hubcap,neg,True,['afforded_usual'],0.75,0.5422297
+projectile,neg,False,['unusual'],0.6666666666666666,0.41034633
+bumper,neg,False,['unusual'],0.8888888888888888,0.40180433
+kiln,neg,False,"['creative', 'impossible']",0.7142857142857143,0.44582447
+tile,neg,False,['impossible'],0.7142857142857143,0.45454964
+rifling,neg,True,['afforded_usual'],0.625,0.20351902
+bolt,neg,False,['afforded_unusual'],0.625,0.55379355
+wheelbarrow,neg,True,['afforded_usual'],0.7142857142857143,0.49868518

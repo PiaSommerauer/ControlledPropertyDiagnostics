@@ -1,0 +1,66 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bookcase,pos,True,['variability_limited'],0.875,0.7127165
+marble,pos,False,['variability_open'],0.6666666666666666,0.39333397
+hardware,pos,True,['variability_limited'],0.6666666666666666,0.35029483
+console,pos,True,['variability_limited'],0.7142857142857143,0.436962
+mainframe,pos,True,['variability_limited'],0.6666666666666666,0.28685513
+rack,pos,True,['variability_limited'],0.8888888888888888,0.4504172
+doorknob,pos,True,['variability_limited'],0.875,0.55621934
+bedroom,pos,True,['variability_limited'],0.75,0.59932494
+armoire,pos,True,['variability_limited'],1.0,0.6513575
+fireplace,pos,True,['variability_limited'],0.5714285714285714,0.61973953
+playroom,pos,True,['variability_limited'],0.8888888888888888,0.5776011
+window,pos,True,['affording_activity'],0.6666666666666666,0.5179889
+dumbwaiter,pos,True,['variability_limited'],0.625,0.5866124
+desk,pos,True,['variability_limited'],0.6666666666666666,0.6245839
+mug,pos,False,"['rare', 'unusual']",1.0,0.35359758
+workstation,pos,True,['variability_limited'],0.8571428571428571,0.50815403
+kitchenette,pos,True,['variability_limited'],0.75,0.5981977
+balcony,pos,True,['variability_limited'],0.8571428571428571,0.47526044
+floor,pos,False,['variability_open'],0.625,0.44537374
+bathroom,pos,True,['variability_limited'],0.625,0.7026667
+disk,pos,False,['impossible'],0.5714285714285714,0.36460167
+footrest,pos,True,['variability_limited'],0.625,0.51055056
+screen,pos,True,"['typical_of_property', 'variability_limited']",1.0,0.44166765
+server,pos,True,['variability_limited'],0.5714285714285714,0.41223887
+shelf,pos,True,['affording_activity'],0.75,0.4329475
+basement,pos,True,['variability_limited'],0.8571428571428571,0.5866021
+pen,pos,False,['unusual'],0.75,0.34553516
+kitchen,pos,False,['variability_open'],1.0,0.7123034
+bookmark,pos,False,"['variability_open', 'rare']",0.6,0.33633092
+bracelet,pos,False,"['unusual', 'rare']",0.8571428571428571,0.23776723
+door,pos,False,['rare'],0.8571428571428571,0.47224072
+locker,pos,True,['variability_limited'],0.7777777777777778,0.522702
+luggage,pos,True,['variability_limited'],0.75,0.38778955
+stairwell,pos,True,['variability_limited'],0.7142857142857143,0.5636289
+cupboard,pos,True,['variability_limited'],0.625,0.5839016
+hallway,pos,True,['variability_limited'],0.7142857142857143,0.6147517
+toilet,pos,True,['variability_limited'],0.875,0.5550135
+workroom,pos,True,['variability_limited'],0.625,0.5688282
+sunroom,pos,True,['variability_limited'],0.8571428571428571,0.57685834
+notebook,pos,True,['variability_limited'],0.6666666666666666,0.455768
+recliner,pos,True,['variability_limited'],0.7142857142857143,0.56511915
+drawer,pos,True,['variability_limited'],0.875,0.6251524
+sideboard,pos,True,['variability_limited'],0.8571428571428571,0.58548504
+lounge,pos,True,['variability_limited'],0.875,0.54856193
+foyer,pos,True,['variability_limited'],0.75,0.6121265
+diskette,pos,True,"['variability_limited', 'affording_activity']",0.5555555555555556,0.33309108
+lavatory,pos,True,['variability_limited'],0.8571428571428571,0.5732579
+dresser,pos,True,['variability_limited'],0.5555555555555556,0.6638837
+countertop,pos,True,['variability_limited'],0.875,0.62174046
+workspace,pos,False,['variability_open'],0.75,0.5940246
+folder,pos,True,['variability_limited'],0.8571428571428571,0.5341588
+tray,pos,True,['variability_limited'],0.5555555555555556,0.63777596
+blackboard,neg,True,['variability_limited'],0.875,0.45522073
+cabinet,neg,True,['variability_limited'],0.875,0.37164837
+dining,neg,False,['variability_open'],0.625,0.35077253
+suite,neg,True,['variability_limited'],0.875,0.39035714
+tortilla,neg,True,['variability_limited'],0.7142857142857143,0.2819131
+ball,neg,False,['impossible'],0.75,0.20770451
+sphere,neg,False,['impossible'],1.0,0.19471884
+tape,neg,True,['variability_limited'],0.75,0.29418832
+cds,neg,False,['impossible'],0.75,0.2705727
+circle,neg,False,['impossible'],1.0,0.18489404
+globe,neg,False,['impossible'],0.7777777777777778,0.11429422
+frisbee,neg,False,"['creative', 'unusual']",0.625,0.26559964
+planet,neg,False,['impossible'],1.0,0.16620986

@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+soup,pos,False,['variability_open'],0.7272727272727273,0.5774629
+sawdust,pos,False,"['rare', 'unusual']",0.5555555555555556,0.4879071
+mug,pos,False,['variability_open'],0.75,0.43829343
+glass,pos,False,['variability_open'],0.7,0.5407915
+bath,pos,False,['unusual'],0.7777777777777778,0.4592478
+bathtub,pos,False,['variability_open'],0.875,0.5535053
+surface,pos,False,['variability_open'],0.75,0.37312713
+eggshell,pos,False,['variability_open'],0.7777777777777778,0.49246615
+finger,pos,False,['variability_open'],0.625,0.29839963
+summertime,pos,False,['rare'],1.0,0.35038903
+rock,pos,False,['variability_open'],0.8,0.36453685
+pomade,pos,False,['rare'],0.5555555555555556,0.44324034
+sky,pos,False,['variability_open'],0.75,0.33310235
+quesadilla,pos,False,"['unusual', 'rare']",0.75,0.42467898
+balloon,pos,False,['variability_open'],0.75,0.3913312
+sundae,pos,True,['affording_activity'],1.0,0.52478486
+lip,pos,False,['unusual'],0.8,0.30891275
+pillow,pos,False,['variability_open'],0.7,0.5246011
+steam,pos,False,['impossible'],0.8571428571428571,0.28350922
+permafrost,pos,True,['affording_activity'],1.0,0.37721232
+pavement,pos,False,['variability_open'],0.9,0.47636905
+curd,pos,False,['variability_open'],0.9,0.5671155
+toaster,pos,False,['variability_open'],0.5555555555555556,0.49002755
+iceberg,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.2482867
+candle,pos,False,['variability_open'],0.75,0.44350854
+tea,pos,False,['variability_open'],0.8571428571428571,0.38450262
+vapor,pos,False,['variability_open'],0.625,0.4075316
+toaster,neg,False,['variability_open'],0.5555555555555556,0.49002755
+sky,neg,False,['variability_open'],0.75,0.33310235
+pavement,neg,False,['variability_open'],0.9,0.47636905
+cheesecloth,neg,False,['unusual'],0.6,0.498847
+heating,neg,False,['impossible'],0.75,0.31259853
+eggshell,neg,False,['variability_open'],0.7777777777777778,0.49246615
+sawdust,neg,False,"['rare', 'unusual']",0.5555555555555556,0.4879071
+slime,neg,False,['variability_open'],0.7777777777777778,0.42016736
+hatred,neg,False,['creative'],0.8888888888888888,0.18772677
+fridge,neg,True,['affording_activity'],1.0,0.5868425

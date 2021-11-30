@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+heating,pos,False,['impossible'],0.75,0.31259853
+fire,pos,False,['impossible'],1.0,0.21892853
+oven,pos,False,['variability_open'],0.5555555555555556,0.5755857
+ice,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.55514586
+surface,pos,False,['variability_open'],0.75,0.37312713
+pavement,pos,False,['variability_open'],0.9,0.47636905
+soup,pos,False,['variability_open'],0.7272727272727273,0.5774629
+freezer,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.53617513
+lemonade,pos,False,['variability_open'],0.875,0.49157587
+heat,pos,False,['impossible'],0.9,0.32336172
+smoke,pos,False,['impossible'],0.6,0.33656493
+hair,pos,False,['variability_open'],0.875,0.4002852
+flame,pos,False,['impossible'],0.9,0.300354
+shoe,pos,False,"['unusual', 'variability_open']",0.625,0.36852923
+pillow,pos,False,['variability_open'],0.7,0.5246011
+candle,pos,False,['variability_open'],0.75,0.44350854
+river,pos,False,['typical_of_concept'],0.7777777777777778,0.36006382
+summertime,pos,False,['rare'],1.0,0.35038903
+steam,pos,False,['impossible'],0.8571428571428571,0.28350922
+mud,pos,False,['variability_open'],0.875,0.47788167
+finger,pos,False,['variability_open'],0.625,0.29839963
+jungle,pos,False,['unusual'],0.8888888888888888,0.24244529
+fridge,pos,True,['affording_activity'],1.0,0.5868425
+milk,pos,False,['variability_open'],1.0,0.4553908
+kettle,pos,False,['variability_open'],1.0,0.44769546
+tile,pos,True,['variability_limited'],0.5714285714285714,0.43502563
+snowfall,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.37622416
+icicle,neg,True,"['affording_activity', 'typical_of_property']",0.9090909090909091,0.5492279
+tortilla,neg,False,['variability_open'],0.7,0.46473455
+bathtub,neg,False,['variability_open'],0.875,0.5535053
+rain,neg,False,['variability_open'],0.75,0.36924094
+can,neg,False,['variability_open'],0.7777777777777778,0.21809144
+vinyl,neg,False,['variability_open'],0.7,0.3913125
+rock,neg,False,['variability_open'],0.8,0.36453685
+atmosphere,neg,False,['variability_open'],0.7,0.27865383
+outfit,neg,False,['unusual'],0.875,0.13897468
+sawdust,neg,False,"['rare', 'unusual']",0.5555555555555556,0.4879071

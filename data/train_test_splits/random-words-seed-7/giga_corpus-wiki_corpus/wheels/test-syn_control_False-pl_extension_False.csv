@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+bike,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.6493297
+chassis,pos,True,['affording_activity'],0.75,0.4836028
+limousine,pos,True,['affording_activity'],1.0,0.5561286
+axle,pos,True,['affording_activity'],0.75,0.5453598
+bus,pos,True,['affording_activity'],1.0,0.6430231
+roadster,pos,True,['affording_activity'],0.8571428571428571,0.5847035
+bicycle,pos,True,['affording_activity'],1.0,0.6358282
+wagon,pos,True,['affording_activity'],1.0,0.6711533
+cab,pos,True,['affording_activity'],1.0,0.69740826
+frigate,pos,False,['impossible'],0.75,0.25461134
+wheelbase,pos,True,['affording_activity'],0.75,0.41530937
+freighter,pos,False,['impossible'],0.625,0.37601984
+snowmobile,pos,True,['variability_limited'],0.5714285714285714,0.53117806
+tram,pos,True,['affording_activity'],0.875,0.5191706
+car,pos,True,['affording_activity'],1.0,0.75618035
+trailer,pos,True,['affording_activity'],1.0,0.5339814
+taxicab,pos,True,['affording_activity'],1.0,0.5649594
+lorry,pos,True,['affording_activity'],1.0,0.620798
+tugboat,pos,False,"['creative', 'unusual', 'impossible']",0.7142857142857143,0.41738355
+ship,pos,False,"['rare', 'unusual']",0.7142857142857143,0.31015143
+streetcar,pos,True,['affording_activity'],0.875,0.45712313
+trolley,pos,True,['affording_activity'],1.0,0.63482165
+yacht,pos,False,['unusual'],0.7777777777777778,0.36479196
+vessel,pos,False,"['unusual', 'rare']",0.7777777777777778,0.34593827
+wheel,pos,False,['typical_of_concept'],0.5714285714285714,0.5433404
+phaeton,pos,True,['affording_activity'],0.875,0.5392164
+rickshaw,pos,True,['affording_activity'],1.0,0.6312858
+sleigh,pos,False,"['impossible', 'unusual']",0.5714285714285714,0.55025065
+heap,neg,False,['impossible'],0.8571428571428571,0.17982198
+diesel,neg,False,['impossible'],0.875,0.4267391
+machine,neg,True,['variability_limited'],1.0,0.35765854
+garage,neg,True,['variability_limited'],0.625,0.5217404
+racer,neg,True,['affording_activity'],0.8333333333333334,0.38876554
+rig,neg,True,['affording_activity'],0.5555555555555556,0.39481997
+undercarriage,neg,True,['affording_activity'],0.6666666666666666,0.53275937
+dumper,neg,True,['affording_activity'],1.0,0.4845616
+coach,neg,True,"['affording_activity', 'typical_of_property']",0.7142857142857143,0.1186221
+battleship,neg,False,['impossible'],0.875,0.2997324

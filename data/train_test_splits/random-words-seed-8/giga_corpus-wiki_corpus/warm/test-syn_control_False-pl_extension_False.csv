@@ -1,0 +1,64 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+mask,pos,False,['variability_open'],0.75,0.50046855
+outerwear,pos,True,['affording_activity'],1.0,0.50516427
+vinyl,pos,False,"['rare', 'variability_open']",0.5714285714285714,0.3709558
+candle,pos,True,['affording_activity'],0.75,0.37668857
+basement,pos,False,['variability_open'],0.8,0.26746628
+bed,pos,True,['affording_activity'],0.6,0.41687343
+toilet,pos,False,['variability_open'],0.8888888888888888,0.34946868
+calfskin,pos,True,['affording_activity'],0.6666666666666666,0.55310076
+beer,pos,False,['unusual'],0.8888888888888888,0.27338812
+coffee,pos,True,"['affording_activity', 'typical_of_property']",0.875,0.30538508
+drink,pos,False,['variability_open'],0.9,0.2832825
+robe,pos,True,['typical_of_property'],0.8333333333333334,0.678738
+skirt,pos,False,"['unusual', 'variability_open', 'rare']",0.625,0.57716954
+sun,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.3026853
+dad,pos,False,['variability_open'],0.6,0.26341534
+lace,pos,False,['unusual'],0.6666666666666666,0.6144269
+dress,pos,False,['variability_open'],0.8888888888888888,0.6977106
+can,pos,False,['rare'],0.8571428571428571,0.12011972
+garter,pos,False,['unusual'],0.625,0.55067074
+earring,pos,False,['unusual'],0.7777777777777778,0.52716744
+bathtub,pos,False,['variability_open'],0.8888888888888888,0.40067434
+flame,pos,True,"['affording_activity', 'typical_of_property']",0.9,0.28191862
+quesadilla,pos,True,['affording_activity'],0.8,0.36895412
+taffeta,pos,False,"['unusual', 'variability_open']",0.5555555555555556,0.56792396
+people,pos,False,"['variability_open', 'implied_category']",0.75,0.09961787
+helmet,pos,False,['variability_open'],0.7777777777777778,0.48056784
+tortilla,pos,False,['variability_open'],0.7777777777777778,0.38404587
+mug,pos,False,['variability_open'],0.7777777777777778,0.36873534
+coat,pos,True,['affording_activity'],1.0,0.65210384
+tea,pos,True,['typical_of_property'],0.875,0.27467903
+smoke,pos,False,['variability_open'],0.7777777777777778,0.2201565
+flannel,pos,True,['affording_activity'],0.8571428571428571,0.613497
+clothing,pos,True,['affording_activity'],1.0,0.57899547
+sandal,pos,False,['variability_open'],0.6666666666666666,0.5600947
+jumpsuit,pos,False,['variability_open'],0.75,0.60035676
+footwear,pos,True,['affording_activity'],0.8333333333333334,0.47957915
+fridge,pos,False,['unusual'],0.8888888888888888,0.35627383
+cake,pos,False,['variability_open'],0.8888888888888888,0.37976855
+denim,pos,True,['affording_activity'],0.6666666666666666,0.57722235
+underwear,pos,False,['variability_open'],0.8888888888888888,0.6333573
+wool,pos,True,['affording_activity'],1.0,0.51210225
+cummerbund,pos,False,['rare'],0.7777777777777778,0.58464444
+glass,pos,False,['variability_open'],0.8,0.34916094
+water,pos,False,['variability_open'],0.875,0.26928794
+handkerchief,pos,False,"['rare', 'unusual']",0.5555555555555556,0.6018288
+shoe,pos,False,['variability_open'],0.8888888888888888,0.54737806
+headgear,pos,False,['variability_open'],0.8571428571428571,0.5973722
+sweater,pos,True,['affording_activity'],1.0,0.68706983
+winter,pos,False,"['unusual', 'variability_open', 'rare', 'creative']",0.625,0.26058483
+lava,pos,True,['affording_activity'],0.8888888888888888,0.25284752
+blanket,neg,True,['affording_activity'],1.0,0.487226
+garment,neg,True,['affording_activity'],0.9,0.5675573
+forest,neg,False,['rare'],0.7777777777777778,0.20452023
+mitten,neg,True,['affording_activity'],0.875,0.5120016
+bag,neg,False,['rare'],0.8888888888888888,0.46135843
+head,neg,False,['variability_open'],0.7,0.17630425
+sleeve,neg,True,['affording_activity'],0.8571428571428571,0.47359344
+legging,neg,True,['affording_activity'],0.75,0.4384682
+nose,neg,False,['variability_open'],0.875,0.34511173
+uniform,neg,False,['variability_open'],0.75,0.4696886
+pomade,neg,False,['unusual'],0.8888888888888888,0.47273204
+stocking,neg,True,"['typical_of_property', 'affording_activity']",0.5555555555555556,0.32981873
+kimono,neg,False,"['implied_category', 'variability_open']",0.6666666666666666,0.5799619

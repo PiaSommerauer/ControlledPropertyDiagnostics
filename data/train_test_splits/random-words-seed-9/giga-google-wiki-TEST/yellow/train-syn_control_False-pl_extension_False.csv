@@ -1,0 +1,69 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+radish,pos,False,['unusual'],0.6666666666666666,0.6654802
+guava,pos,False,['rare'],0.8888888888888888,0.60835975
+milk,pos,False,['unusual'],0.8571428571428571,0.45035923
+lemon,pos,True,['typical_of_property'],1.0,0.6242678
+spinach,pos,False,['unusual'],0.875,0.52412635
+walnut,pos,False,"['unusual', 'creative', 'rare']",0.7142857142857143,0.5478684
+beer,pos,True,['variability_limited'],1.0,0.4258285
+pecan,pos,False,['unusual'],0.6666666666666666,0.54430676
+cream,pos,False,['unusual'],0.5454545454545454,0.45049158
+mamey,pos,False,"['rare', 'unusual']",0.625,0.61913466
+cheese,pos,True,['variability_limited'],0.8888888888888888,0.53161937
+orange,pos,False,['rare'],0.7777777777777778,0.49116638
+corn,pos,True,['typical_of_property'],1.0,0.50636154
+grapefruit,pos,True,['variability_limited'],0.875,0.61381644
+pistachio,pos,False,['rare'],0.875,0.52874196
+allspice,pos,False,['unusual'],0.7777777777777778,0.453802
+tomato,pos,False,['rare'],0.875,0.67435014
+herb,pos,False,['rare'],0.875,0.57257265
+vanilla,pos,False,"['rare', 'unusual']",0.5714285714285714,0.4796686
+bottle,pos,False,"['unusual', 'rare']",0.7777777777777778,0.39589748
+lemonade,pos,True,"['variability_limited', 'typical_of_property']",0.625,0.49409065
+lemongrass,pos,False,['unusual'],1.0,0.5333268
+pineapple,pos,True,['variability_limited'],0.75,0.6446127
+grape,pos,False,"['unusual', 'rare']",0.7777777777777778,0.6403732
+butter,pos,True,['variability_limited'],0.7142857142857143,0.40282094
+bee,neg,True,['variability_limited'],1.0,0.50891876
+daffodil,neg,True,['variability_limited'],0.875,0.5845071
+plum,neg,True,['variability_limited'],0.875,0.39833874
+buttercup,neg,False,['typical_of_concept'],0.75,0.5819529
+giraffe,neg,True,['typical_of_property'],0.8888888888888888,0.419327
+corncob,neg,True,"['typical_of_property', 'variability_limited']",0.875,0.49093652
+pyramid,neg,False,['typical_of_concept'],0.7777777777777778,0.25981033
+yolk,neg,False,['typical_of_concept'],0.875,0.47656408
+locust,neg,True,['variability_limited'],0.875,0.47573277
+sun,neg,True,"['variability_limited', 'typical_of_property']",1.0,0.3592802
+taxi,neg,True,['typical_of_property'],0.7142857142857143,0.23427296
+dandelion,neg,True,['typical_of_property'],0.7777777777777778,0.67545027
+goldfish,neg,True,['variability_limited'],0.6666666666666666,0.44283405
+marigold,neg,True,"['typical_of_property', 'variability_limited']",1.0,0.63135695
+boot,neg,False,['rare'],0.6666666666666666,0.17546244
+piano,neg,False,['unusual'],1.0,0.25131038
+brick,neg,False,['unusual'],1.0,0.3081485
+clarinet,neg,False,['rare'],0.6666666666666666,0.24389845
+frog,neg,False,['rare'],0.7,0.5343546
+cricket,neg,False,"['rare', 'unusual']",0.8571428571428571,0.1993763
+cactus,neg,False,"['rare', 'unusual']",0.875,0.5789672
+peacock,neg,False,['unusual'],0.7,0.43076298
+water,neg,False,"['rare', 'unusual']",1.0,0.32598725
+thundercloud,neg,False,"['impossible', 'unusual']",0.6666666666666666,0.25291455
+seaweed,neg,False,"['rare', 'unusual']",1.0,0.4755748
+night,neg,False,['creative'],0.8571428571428571,0.09812018
+cherry,neg,False,['rare'],0.75,0.49017185
+calf,neg,False,"['unusual', 'rare']",0.8571428571428571,0.28849176
+tank,neg,False,"['unusual', 'rare']",0.875,0.18245724
+insect,neg,False,['unusual'],0.5714285714285714,0.53012526
+skunk,neg,False,"['impossible', 'unusual']",0.625,0.49498174
+kingfisher,neg,False,['unusual'],0.625,0.4151056
+oven,neg,False,['unusual'],1.0,0.2934659
+truffle,neg,False,['unusual'],0.75,0.53082186
+lagoon,neg,False,"['unusual', 'rare']",0.6666666666666666,0.22568817
+jean,neg,False,"['rare', 'unusual']",0.8888888888888888,0.27129307
+football,neg,False,['unusual'],0.7777777777777778,0.21264924
+miner,neg,False,['creative'],0.7777777777777778,0.15101187
+human,neg,False,['unusual'],0.7142857142857143,0.16617398
+alligator,neg,False,['unusual'],0.625,0.36724773
+tire,neg,False,['unusual'],1.0,0.23454033
+dog,neg,False,['unusual'],0.875,0.37935326
+chameleon,neg,False,"['rare', 'unusual']",0.7142857142857143,0.2706672

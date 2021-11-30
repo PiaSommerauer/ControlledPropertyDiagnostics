@@ -1,0 +1,36 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+deer,pos,False,['impossible'],1.0,0.5296513
+grouper,pos,False,['impossible'],0.75,0.4049616
+bogie,pos,False,['impossible'],0.875,0.13144554
+jade,pos,False,['impossible'],0.75,0.2570389
+plaice,pos,False,['impossible'],1.0,0.358488
+lion,pos,False,['impossible'],0.8888888888888888,0.34868205
+monkey,pos,False,"['creative', 'impossible']",0.75,0.48104003
+tower,pos,False,['impossible'],1.0,0.29128492
+machine,pos,True,['variability_limited'],1.0,0.21255876
+ferry,pos,False,['impossible'],0.8571428571428571,0.2434468
+arrow,pos,True,['afforded_usual'],0.5714285714285714,0.4384613
+ounce,pos,False,['impossible'],0.7777777777777778,0.15884358
+chow,pos,False,['impossible'],1.0,0.248249
+armadillo,pos,False,['impossible'],1.0,0.4586867
+capsule,pos,True,['variability_limited'],0.6666666666666666,0.25546384
+tit,pos,True,['afforded_usual'],0.7777777777777778,0.24770573
+wing,pos,True,['afforded_usual'],1.0,0.30023417
+fryer,pos,False,['impossible'],1.0,0.2410502
+minesweeper,pos,False,['impossible'],1.0,0.305722
+giraffe,pos,False,['impossible'],0.8888888888888888,0.49209404
+toy,pos,True,['variability_limited'],1.0,0.2851564
+shark,pos,False,['impossible'],1.0,0.49419808
+helicopter,pos,True,['afforded_usual'],1.0,0.4746256
+chinook,pos,True,['afforded_usual'],0.6666666666666666,0.41414872
+sky,pos,True,"['typical_of_property', 'afforded_usual']",0.5714285714285714,0.41446564
+plane,neg,True,"['afforded_usual', 'typical_of_property']",1.0,0.4697583
+bogie,neg,False,['impossible'],0.875,0.13144554
+monkey,neg,False,"['creative', 'impossible']",0.75,0.48104003
+barnacle,neg,False,['impossible'],1.0,0.39995742
+stallion,neg,False,"['creative', 'impossible']",0.8888888888888888,0.27835503
+capsule,neg,True,['variability_limited'],0.6666666666666666,0.25546384
+tit,neg,True,['afforded_usual'],0.7777777777777778,0.24770573
+minesweeper,neg,False,['impossible'],1.0,0.305722
+pelican,neg,True,['afforded_usual'],0.75,0.6783921
+chinook,neg,True,['afforded_usual'],0.6666666666666666,0.41414872

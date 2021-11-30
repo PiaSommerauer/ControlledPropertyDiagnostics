@@ -1,0 +1,39 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+auto,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.38301212
+chassis,pos,True,['affording_activity'],0.75,0.4836028
+cab,pos,True,['affording_activity'],1.0,0.69740826
+carriage,pos,True,['affording_activity'],1.0,0.5453826
+pedicab,pos,True,['affording_activity'],1.0,0.5510616
+scooter,pos,True,['affording_activity'],1.0,0.7302409
+axle,pos,True,['affording_activity'],0.75,0.5453598
+snowmobile,pos,True,['variability_limited'],0.5714285714285714,0.53117806
+limousine,pos,True,['affording_activity'],1.0,0.5561286
+cart,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.5561618
+warship,pos,False,['impossible'],0.7142857142857143,0.27998853
+trolley,pos,True,['affording_activity'],1.0,0.63482165
+racer,pos,True,['affording_activity'],0.8333333333333334,0.38876554
+hearse,pos,True,['affording_activity'],1.0,0.5535417
+backhoe,pos,True,['affording_activity'],1.0,0.5087522
+cabriolet,pos,True,['affording_activity'],1.0,0.518616
+jeep,pos,True,['affording_activity'],1.0,0.6478769
+bicycle,pos,True,['affording_activity'],1.0,0.6358282
+phaeton,pos,True,['affording_activity'],0.875,0.5392164
+saloon,pos,False,['implied_category'],0.625,0.49039406
+roadster,pos,True,['affording_activity'],0.8571428571428571,0.5847035
+airplane,pos,True,['affording_activity'],1.0,0.49027833
+ambulance,pos,True,['affording_activity'],1.0,0.46928635
+bike,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.6493297
+van,pos,True,['affording_activity'],1.0,0.69436264
+railcar,pos,True,['affording_activity'],0.7777777777777778,0.51756996
+vehicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.70729595
+buggy,pos,True,['affording_activity'],1.0,0.5829192
+tank,neg,False,['implied_category'],0.5714285714285714,0.31265852
+caravan,neg,True,['affording_activity'],0.875,0.5194788
+heap,neg,False,['impossible'],0.8571428571428571,0.17982198
+dray,neg,True,['affording_activity'],0.7777777777777778,0.44697
+cat,neg,False,['unusual'],0.75,0.24048693
+dumper,neg,True,['affording_activity'],1.0,0.4845616
+rig,neg,True,['affording_activity'],0.5555555555555556,0.39481997
+garage,neg,True,['variability_limited'],0.625,0.5217404
+hack,neg,False,['impossible'],1.0,0.070753016
+sidecar,neg,True,['affording_activity'],1.0,0.49716026

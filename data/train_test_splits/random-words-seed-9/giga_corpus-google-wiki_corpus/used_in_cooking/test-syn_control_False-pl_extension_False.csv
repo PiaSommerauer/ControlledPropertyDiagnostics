@@ -1,0 +1,63 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+slicer,pos,True,['variability_limited'],0.75,0.54448456
+grater,pos,True,['variability_limited'],1.0,0.53080684
+noodle,pos,True,"['affording_activity', 'variability_limited']",1.0,0.5865345
+marinade,pos,True,"['affording_activity', 'variability_limited']",1.0,0.6703208
+spiciness,pos,True,['variability_limited'],1.0,0.5259076
+chorizo,pos,True,['variability_limited'],1.0,0.6819242
+dough,pos,True,['affording_activity'],1.0,0.59306943
+casserole,pos,True,"['variability_limited', 'affording_activity']",0.875,0.69768316
+chutney,pos,True,"['variability_limited', 'affording_activity']",1.0,0.67450666
+corn,pos,True,"['affording_activity', 'variability_limited']",1.0,0.49787173
+spoon,pos,True,['variability_limited'],0.875,0.613629
+bevel,pos,False,"['unusual', 'impossible']",0.5555555555555556,0.3357749
+coconut,pos,True,"['variability_limited', 'affording_activity']",0.75,0.5445399
+flatbread,pos,True,['variability_limited'],0.875,0.67183214
+rhubarb,pos,True,"['variability_limited', 'affording_activity']",1.0,0.6897571
+confit,pos,True,['affording_activity'],0.875,0.66392267
+hacksaw,pos,False,['impossible'],0.6666666666666666,0.29339457
+turnip,pos,True,['affording_activity'],1.0,0.5353838
+penknife,pos,False,['unusual'],0.75,0.35434195
+tomato,pos,True,['variability_limited'],0.8888888888888888,0.69105524
+garlic,pos,True,"['variability_limited', 'affording_activity']",1.0,0.7352823
+blender,pos,True,['affording_activity'],1.0,0.5099527
+mower,pos,False,['impossible'],0.75,0.2700992
+slaw,pos,True,"['variability_limited', 'affording_activity']",1.0,0.6819473
+pea,pos,True,"['affording_activity', 'variability_limited']",1.0,0.56322604
+scraper,pos,True,['variability_limited'],0.5555555555555556,0.31407127
+cleaver,pos,True,['variability_limited'],0.9,0.3716535
+tortilla,pos,True,"['typical_of_property', 'affording_activity']",1.0,0.620195
+bread,pos,True,['affording_activity'],0.875,0.5783786
+bean,pos,True,['affording_activity'],0.8333333333333334,0.5956325
+snip,pos,False,['impossible'],0.7142857142857143,0.32430902
+condiment,pos,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.6244278
+potato,pos,True,['affording_activity'],1.0,0.68159074
+cheese,pos,True,['variability_limited'],0.875,0.6710985
+comb,pos,False,['unusual'],0.7142857142857143,0.23532692
+cream,pos,True,['variability_limited'],0.8888888888888888,0.48996463
+cauliflower,pos,True,"['variability_limited', 'affording_activity']",0.875,0.7410048
+mayonnaise,pos,True,['affording_activity'],1.0,0.7176897
+vegetable,pos,True,"['variability_limited', 'affording_activity', 'typical_of_property']",0.875,0.6400325
+microwave,pos,True,"['affording_activity', 'variability_limited', 'typical_of_property']",1.0,0.46703276
+chisel,neg,False,['impossible'],0.6666666666666666,0.30155885
+drill,neg,False,['unusual'],0.625,0.113733836
+pitchfork,neg,False,['unusual'],0.875,0.32584876
+mustard,neg,True,"['variability_limited', 'affording_activity']",1.0,0.5451403
+gang,neg,False,['impossible'],0.8888888888888888,0.0671308
+router,neg,False,['impossible'],0.625,0.21139847
+scythe,neg,False,['impossible'],0.9,0.20576057
+bur,neg,False,['impossible'],0.6666666666666666,0.24683993
+apron,neg,True,['affording_activity'],0.875,0.36871204
+jigsaw,neg,False,['impossible'],1.0,0.16218264
+prawn,neg,True,['variability_limited'],1.0,0.568131
+mussel,neg,True,"['variability_limited', 'affording_activity']",0.875,0.43451926
+file,neg,False,['unusual'],0.5714285714285714,0.05922548
+lance,neg,False,"['impossible', 'unusual']",0.6,0.2653775
+pounder,neg,True,"['affording_activity', 'variability_limited']",0.7777777777777778,0.24001628
+grasshopper,neg,False,"['rare', 'unusual']",1.0,0.34864154
+flannel,neg,False,['impossible'],0.9,0.33421126
+sparrow,neg,False,['unusual'],0.6666666666666666,0.26002344
+planer,neg,False,['impossible'],1.0,0.2570243
+shaver,neg,False,"['unusual', 'impossible']",0.5714285714285714,0.26462132
+pallet,neg,False,['impossible'],0.6666666666666666,0.2881699
+grappler,neg,False,['impossible'],0.7,0.14955504

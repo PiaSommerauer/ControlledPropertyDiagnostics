@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+heat,pos,False,['impossible'],0.9,0.32336172
+puddle,pos,False,['variability_open'],0.8888888888888888,0.5581222
+glass,pos,False,['variability_open'],0.7,0.5407915
+lightning,pos,False,['impossible'],1.0,0.23010184
+fridge,pos,True,['affording_activity'],1.0,0.5868425
+oven,pos,False,['variability_open'],0.5555555555555556,0.5755857
+berry,pos,False,['variability_open'],0.6666666666666666,0.49565363
+heating,pos,False,['impossible'],0.75,0.31259853
+drink,pos,True,['affording_activity'],0.5555555555555556,0.46436617
+tea,pos,False,['variability_open'],0.8571428571428571,0.38450262
+eggshell,pos,False,['variability_open'],0.7777777777777778,0.49246615
+tile,pos,True,['variability_limited'],0.5714285714285714,0.43502563
+toilet,pos,False,['variability_open'],0.7,0.46059996
+vinyl,pos,False,['variability_open'],0.7,0.3913125
+lava,pos,False,['impossible'],0.9090909090909091,0.43176058
+nose,pos,False,"['variability_open', 'rare', 'unusual']",0.75,0.39986378
+permafrost,pos,True,['affording_activity'],1.0,0.37721232
+basement,pos,False,['variability_open'],0.875,0.39477068
+slime,pos,False,['variability_open'],0.7777777777777778,0.42016736
+lemonade,pos,False,['variability_open'],0.875,0.49157587
+snowdrift,pos,True,"['affording_activity', 'typical_of_property']",0.8181818181818182,0.44572055
+river,pos,False,['typical_of_concept'],0.7777777777777778,0.36006382
+smoke,pos,False,['impossible'],0.6,0.33656493
+pillow,pos,False,['variability_open'],0.7,0.5246011
+juice,pos,False,"['variability_open', 'implied_category']",0.5454545454545454,0.46833315
+bath,pos,False,['unusual'],0.7777777777777778,0.4592478
+quesadilla,pos,False,"['unusual', 'rare']",0.75,0.42467898
+steam,neg,False,['impossible'],0.8571428571428571,0.28350922
+shelf,neg,False,['variability_open'],0.6,0.3398007
+hatred,neg,False,['creative'],0.8888888888888888,0.18772677
+toe,neg,False,"['variability_open', 'unusual']",0.875,0.31567204
+sky,neg,False,['variability_open'],0.75,0.33310235
+problem,neg,False,['impossible'],0.625,0.15148745
+mug,neg,False,['variability_open'],0.75,0.43829343
+cake,neg,False,['variability_open'],1.0,0.5431257
+jungle,neg,False,['unusual'],0.8888888888888888,0.24244529
+balloon,neg,False,['variability_open'],0.75,0.3913312

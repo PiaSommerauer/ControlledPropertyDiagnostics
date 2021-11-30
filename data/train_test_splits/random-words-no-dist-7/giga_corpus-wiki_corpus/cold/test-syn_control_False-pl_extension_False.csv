@@ -1,0 +1,38 @@
+word,label,hyp,hyp_rel,hyp_rate,cosine_centroid
+atmosphere,pos,False,['variability_open'],0.7,0.27865383
+rain,pos,False,['variability_open'],0.75,0.36924094
+hair,pos,False,['variability_open'],0.875,0.4002852
+hatred,pos,False,['creative'],0.8888888888888888,0.18772677
+cake,pos,False,['variability_open'],1.0,0.5431257
+toilet,pos,False,['variability_open'],0.7,0.46059996
+water,pos,True,['affording_activity'],0.875,0.49820596
+flame,pos,False,['impossible'],0.9,0.300354
+foam,pos,False,['variability_open'],0.625,0.5099515
+summertime,pos,False,['rare'],1.0,0.35038903
+outfit,pos,False,['unusual'],0.875,0.13897468
+iceberg,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.2482867
+cream,pos,False,['variability_open'],0.875,0.45322502
+permafrost,pos,True,['affording_activity'],1.0,0.37721232
+coffee,pos,False,['variability_open'],0.7777777777777778,0.47201458
+glass,pos,False,['variability_open'],0.7,0.5407915
+snowdrift,pos,True,"['affording_activity', 'typical_of_property']",0.8181818181818182,0.44572055
+juice,pos,False,"['variability_open', 'implied_category']",0.5454545454545454,0.46833315
+slime,pos,False,['variability_open'],0.7777777777777778,0.42016736
+mud,pos,False,['variability_open'],0.875,0.47788167
+toe,pos,False,"['variability_open', 'unusual']",0.875,0.31567204
+steam,pos,False,['impossible'],0.8571428571428571,0.28350922
+sundae,pos,True,['affording_activity'],1.0,0.52478486
+smoke,pos,False,['impossible'],0.6,0.33656493
+pomade,pos,False,['rare'],0.5555555555555556,0.44324034
+lightning,pos,False,['impossible'],1.0,0.23010184
+popsicle,pos,True,"['affording_activity', 'typical_of_property']",1.0,0.61514676
+hatred,neg,False,['creative'],0.8888888888888888,0.18772677
+surface,neg,False,['variability_open'],0.75,0.37312713
+tea,neg,False,['variability_open'],0.8571428571428571,0.38450262
+smoke,neg,False,['impossible'],0.6,0.33656493
+heating,neg,False,['impossible'],0.75,0.31259853
+problem,neg,False,['impossible'],0.625,0.15148745
+coffee,neg,False,['variability_open'],0.7777777777777778,0.47201458
+cream,neg,False,['variability_open'],0.875,0.45322502
+slime,neg,False,['variability_open'],0.7777777777777778,0.42016736
+river,neg,False,['typical_of_concept'],0.7777777777777778,0.36006382
